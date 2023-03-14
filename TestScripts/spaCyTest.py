@@ -11,7 +11,6 @@ nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("spacy_wordnet", after='tagger')
 
 def getSynonyms(token):
-    print(token)
     return token._.wordnet.synsets()
 
 def get_hotwords(text):
@@ -36,6 +35,6 @@ most_common_list = Counter(output).most_common(10)
 
 for item in most_common_list:
   print(item[0])
-  print(nlp(item[0])[0]._.wordnet.synsets())
+  #print(nlp(item[0])[0]._.wordnet.synsets())
 
 fh.close()

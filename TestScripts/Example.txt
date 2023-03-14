@@ -1,7 +1,17 @@
-Since a chatbot called ChatGPT was released late last year, it has become apparent that this type of artificial intelligence (AI) technology will have huge implications on the way in which researchers work.
+We need to think about the human aspect of using AI in our everyday lives and how it will influence the ways in which we perceive and interact with one another, says communication scholar Jeff Hancock.
 
-ChatGPT is a large language model (LLM), a machine-learning system that autonomously learns from data and can produce sophisticated and seemingly intelligent writing after training on a massive data set of text. It is the latest in a series of such models released by OpenAI, an AI company in San Francisco, California, and by other firms. ChatGPT has caused excitement and controversy because it is one of the first models that can convincingly converse with its users in English and other languages on a wide range of topics. It is free, easy to use and continues to learn.
+Since its public launch in November 2022, ChatGPT has captured the world’s attention, showing millions of users around the globe the extraordinary potential of artificial intelligence as it churns out human-sounding answers to requests ranging from the practical to the surreal.
 
-This technology has far-reaching consequences for science and society. Researchers and others have already used ChatGPT and other large language models to write essays and talks, summarize literature, draft and improve papers, as well as identify research gaps and write computer code, including statistical analyses. Soon this technology will evolve to the point that it can design experiments, write and complete manuscripts, conduct peer review and support editorial decisions to accept or reject manuscripts.
+It has drafted cover letters, composed lines of poetry, pretended to be William Shakespeare, crafted messages for dating app users to woo matches, and even written news articles, all with varying results.
 
-Conversational AI is likely to revolutionize research practices and publishing, creating both opportunities and concerns. It might accelerate the innovation process, shorten time-to-publication and, by helping people to write fluently, make science more equitable and increase the diversity of scientific perspectives. However, it could also degrade the quality and transparency of research and fundamentally alter our autonomy as human researchers. ChatGPT and other LLMs produce text that is convincing, but often wrong, so their use can distort scientific facts and spread misinformation.
+Emerging out of these promising applications are ethical dilemmas as well. In a world increasingly dominated by AI-powered tools that can mimic human natural language abilities, what does it mean to be truthful and authentic?
+
+Hancock has been tackling this issue and the impact of AI on interpersonal relationships in his research.
+
+Hancock argues that the Turing test era is over: Bots now sound so real that it has become impossible for people to distinguish between humans and machines in conversations, which poses huge risks for manipulation and deception at mass scale. How then can these tools be used for good and not harm is a question that has Hancock and others worried.
+
+While he sees the potential of AI to help how people do their work more effectively, Hancock sees pitfalls as well. Ultimately, he says, our challenge will be to develop AI that supports human goals and to educate people how best to use these new technologies in effective and ethical ways.
+
+For several years now, Hancock has been examining how AI-mediated communication is transforming—and potentially, undermining—interpersonal relationships.
+
+Here, he explains some of the challenges tools like ChatGPT pose and how they will shape our lives going forward.
