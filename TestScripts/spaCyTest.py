@@ -2,7 +2,7 @@ import spacy
 import importlib
 from collections import Counter
 from string import punctuation
-import DictionaryTest
+import NewsTest
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator 
 
 from nltk.wsd import lesk
@@ -22,16 +22,26 @@ def get_hotwords(text):
             continue
         if(token.pos_ in pos_tag):
             result.append(token.lemma_)
+
     return result
 
+def extractDailyKeywords():
+    words = Counter()
+    texts = NewsTest.getUSHeadlines()
 
-fh = open("TestScripts\\Example.txt", "r")
+    for text in texts:
+        words.update(get_hotwords(text))
+    
+    return words
+
+fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
 
 new_text = fh.read()
 
 output = get_hotwords(new_text)
 
-most_common_list = Counter(output).most_common(10)
+words = extractDailyKeywords()
+most_common_list = words.most_common(10)
 
 for item in most_common_list:
   print(item[0])
