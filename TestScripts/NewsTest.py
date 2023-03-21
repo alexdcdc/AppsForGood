@@ -3,7 +3,7 @@ import requests
 def getUSHeadlines():
     params = {"apiKey": "544e968c75464718852ae9cf280729af",
             "country": "us", #possible to search by source in params
-            "pageSize": 20
+            "pageSize": 50
             }
     url = " https://newsapi.org/v2/top-headlines"
 

@@ -6,7 +6,7 @@ nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("textrank")
 
 
-fh = open("TestScripts\\Example.txt", "r")
+fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
 
 doc = nlp(fh.read())
 

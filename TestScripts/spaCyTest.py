@@ -5,10 +5,13 @@ from string import punctuation
 import NewsTest
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator 
 
+import pytextrank
+
 from nltk.wsd import lesk
 
 nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("spacy_wordnet", after='tagger')
+nlp.add_pipe("textrank")
 
 def getSynonyms(token):
     return token._.wordnet.synsets()
@@ -25,6 +28,10 @@ def get_hotwords(text):
 
     return result
 
+def get_hotwordsNew(text):
+    doc = nlp(text)
+    return [phrase.text for phrase in doc._.phrases]
+
 def extractDailyKeywords():
     words = Counter()
     texts = NewsTest.getUSHeadlines()
@@ -32,6 +39,7 @@ def extractDailyKeywords():
     for text in texts:
         words.update(get_hotwords(text))
     
+    print(words)
     return words
 
 fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
