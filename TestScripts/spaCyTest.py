@@ -7,6 +7,8 @@ from spacy_wordnet.wordnet_annotator import WordnetAnnotator
 
 import pytextrank
 
+from rake_nltk import Rake
+
 from nltk.wsd import lesk
 
 nlp = spacy.load("en_core_web_sm")
@@ -16,9 +18,11 @@ nlp.add_pipe("textrank")
 def getSynonyms(token):
     return token._.wordnet.synsets()
 
-def get_hotwords(text):
+def get_hotwords1(text):
     result = []
     pos_tag = ['PROPN', 'ADJ', 'NOUN'] 
+    if not text:
+        return []
     doc = nlp(text.lower()) 
     for token in doc:
         if(token.text in nlp.Defaults.stop_words or token.text in punctuation):
@@ -28,25 +32,35 @@ def get_hotwords(text):
 
     return result
 
-def get_hotwordsNew(text):
+def get_hotwords2(text):
+    if not text:
+        return []
     doc = nlp(text)
     return [phrase.text for phrase in doc._.phrases]
+
+def get_hotwords3(text):
+    if not text:
+        return []
+    r = Rake()
+    r.extract_keywords_from_text(text)
+    return r.get_ranked_phrases()
 
 def extractDailyKeywords():
     words = Counter()
     texts = NewsTest.getUSHeadlines()
+    print(texts)
+
+    if not texts:
+        print("ERR: Error occurred while getting news sources.")
+        return
 
     for text in texts:
-        words.update(get_hotwords(text))
+        words.update(get_hotwords2(text))
     
     print(words)
     return words
 
 fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
-
-new_text = fh.read()
-
-output = get_hotwords(new_text)
 
 words = extractDailyKeywords()
 most_common_list = words.most_common(10)
