@@ -1,7 +1,9 @@
-import requests
+from requests_html import HTMLSession
 
-url = "https://www.nytimes.com/2023/03/22/us/politics/trump-lawyer-classified-documents-investigation.html"
+session = HTMLSession()
 
-response = requests.get(url)
+url = "https://www.cbsnews.com/news/syria-airstrike-us-contractor-killed-iran-drone-attack-joe-biden-lloyd-austin/"
 
-print(response.content)
+response = session.get(url)
+
+print(response.html.find("#site-content", first = True).text)
