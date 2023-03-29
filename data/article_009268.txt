@@ -1,0 +1,115 @@
+PayPal co-founder and famed investor Peter Thiel has sold the majority of his shares in Facebook, according to an SEC filing. Thiel has sold 20.6 million Class A shares, leaving him with only 5.6 million shares, all of which are Class A. 
+  
+ A significant portion of the filing seems to be on behalf of the Founders Fund, in which Thiel is a partner. Other entities named in the filing include Lembas LLC and Rivendell One LLC, both of which are Thiel holding companies and Lord of the Rings references. 
+  
+ Thiel sold the shares at an average price of $19.73, earning him nearly $400 million for his original $500,000 investment. 
+  
+ As Bloomberg reported last week, Thiel converted 9 million Class B shares (which have greater voting rights, but are more difficult to trade publicly) to Class A shares before Facebook’s post-IPO lock expired, signaling that he could be moving some of his shares. 
+  
+ It’s tough to read too much into this right now. On the one hand, Thiel has held the stock for eight years and he could just be making a business decision to move on. 
+  
+ On the other hand, it isn’t good for Facebook that one of its earliest and most high-profile investors is selling the stock while it’s down to almost half its IPO price. Imagine being a Facebook employee right now and seeing Thiel sell the majority of his stock at what many are hoping is its low point. Just a few days ago, CEO Mark Zuckerberg told employees in a meeting that the stock drop has been “painful.” I wonder how will he describe the drop at the next Facebook Board of Directors meeting, on which Thiel sits. 
+  
+ Update: This deal was pre-arranged before Facebook’s IPO, when the stock was at $38 not $20. From the SEC filing: 
+  
+ 1. The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 18, 2012. 
+  
+ Thiel was able to formally sell on Thursday once the lockup ended. Per SEC rules, he had 2 full business days to file the sale and he took the full time available. Why? 
+  
+ Wouldn’t be surprised if Thiel held on a few days after the lockup to avoid negative signaling. — Nicholas Carlson (@nichcarlson) August 20, 2012 
+  
+ Update 2: Some readers have been asking if Thiel had to sell his shares or if he had an option to sell his shares. The Rule 10b5-1 trading plan he filed on May 18th is exactly what it sounds like–a plan to trade shares, not an option to trade shares. The SEC rule deals with insider trading, as Thiel is on the Facebook Board. It isn’t clear if the trading plan was binding (i.e. if Thiel could have decided on Thursday to cancel the trade), but I’ve reached out for comment and I’ll keep you posted. 
+  
+ Unsurprisingly, both a spokesperson for Facebook and Jeremiah Hall, a spokesperson for Peter Thiel, declined to comment. ||||| Article Excerpt 
+  
+ Peter Thiel, Facebook Inc.'s earliest investor and a board member, has sold the majority of his shares in the social network, as restrictions on insider selling begin to lift. 
+  
+ Mr. Thiel, a partner at venture-capital firm Founders Fund, invested $500,000 in Facebook in 2004 as its first major investor when the company was valued at a mere $4.9 million. 
+  
+ Mr. Thiel has now made more than $1 billion from his Facebook investment, and he still owns stock worth about $112 million. On Monday, Facebook's shares rose ... ||||| Facebook shares reached a record low for the third consecutive trading session Monday, falling lower than half the price commanded in the company’s record-breaking initial public offering before rallying to higher than $20. 
+  
+ The world’s most popular social network began its most recent descent Thursday, when millions of shares belonging to early investors and insiders became available for trades as the first post-IPO lockup expired. Shares continued to slide Friday, briefly hitting $19 in intraday trading, half the $38 IPO price just three months after the company’s public debut. 
+  
+ Monday morning, shares dipped lower than $19 for the first time, touching as low as $18.75; the stock rebounded, however, closing at $20.01, a 5 percent daily increase. 
+  
+ Facebook went public after a highly anticipated IPO on May 18, selling shares at $38 apiece and establishing a record for valuation at IPO time of $104 billion. Problems started immediately, however, as the first day of trading was bungled by Nasdaq, confusing investors who did not know if requested trades had been processed. 
+  
+ The stock closed barely higher than the IPO price on the first day of trading, with reports that Facebook’s underwriting banks, led by Morgan Stanley, had bought shares in bulk to maintain that price. 
+  
+ Shares fell lower than the IPO price on the second day of trading and have never returned, as reports appeared showing that pre-IPO revenue projections had been downgraded, a fact that was shared with large institutional investors but not the public at large. 
+  
+ Since the IPO, investors have been shaken by reports of Facebook’s slowing growth rate and by uncertainty over whether major advertisers are willing to commit their budgets to a still-evolving ad platform. 
+  
+ Last week’s expired lockup added 271.1 million shares to the initial offering of 421 million shares, increasing Facebook’s “float” by more than 64 percent. 
+  
+ Certain early investors and executives were handed control of their shares to trade, including famed investor Peter Thiel, Goldman Sachs, Chief Operating Officer Sheryl Sandberg and Chief Financial Officer David Ebersman. 
+  
+ However, few were expected to sell shares with the price so low; Microsoft, an early Facebook partner that owns more than 26 millions shares of stock, said last week it would probably not divest any stock, for instance. 
+  
+ The stock could face more pressure in the months to come. Facebook is expected to report earnings for the current quarter in October, just weeks before the biggest batch of insider shares become eligible for sale. A large group of mostly Facebook employees will be free to sell 1.2 billion shares as of Nov. 14. 
+  
+ Analysts seemingly still believe in the stock: Of 38 experts tracked by MarketWatch, only two believe investors should sell their shares, with 15 rating the stock a “Hold” and 18 rating it a “Buy.” The average price target — the price at which an analyst believes an investor should sell shares for the greatest return — is $35.30. 
+  
+ Contact Jeremy C. Owens at 408-920-5876; follow him at Twitter.com/mercbizbreak. ||||| Peter DaSilva for The New York Times 
+  
+ In hindsight, perhaps Instagram should have cut a different deal with Facebook. 
+  
+ In April, Facebook agreed to acquire Instagram, the hot social media photo-sharing site, in a deal valued at the time at about $1 billion. 
+  
+ The problem is that Facebook did not agree to pay $1 billion in cash. The deal terms said Instagram would receive $300 million in cash and about 23 million shares of Facebook stock once the deal closed. Facebook stock at the time of the deal was valued by the parties at about $30 a share. 
+  
+ But since that time, Facebook’s initial public offering has taken place — and we all know what happened. Facebook shares have fallen substantially, and the Instagram acquisition is now valued at about $735 million. The Instagram founders are out almost $300 million, at least on paper. 
+  
+ Instagram’s founders could have avoided this situation by bargaining differently. 
+  
+ What is notable is that Instagram and Facebook did not agree to a floating share exchange ratio or a stock collar, two fairly common merger tools. 
+  
+ A floating share exchange ratio ensures that a seller will receive a fixed value in the acquisition regardless of what happens to the purchaser’s shares. As a result, the number of shares issued by the buyer will increase or decrease to match that fixed dollar amount. 
+  
+ This means that the seller does not take the risk of the buyer’s share price going down before the acquisition is completed. In exchange, the seller forgoes any upside increase. 
+  
+ In contrast, Instagram agreed to a fixed number of shares rather than a fixed dollar value. That meant Instagram’s owners took the risk of a decline in Facebook shares in exchange for all the benefits of an increase. 
+  
+ Either type of deal structure can be accompanied by a stock collar. 
+  
+ If the parties agree to a fixed number of shares, as with the Instagram deal, a collar could work like this: the number of shares to be issued is fixed within a range – or a collar. If the share price rises above or below the range, the number of shares adjusts to pay a minimum or maximum dollar amount to a seller. The range, or the collar, is typically set at about 5 to 10 percent around the share price value at the time. 
+  
+ As a result, if the seller’s stock price falls below this 5 to 10 percent range, more stock is issued to compensate the seller — and less if the stock goes up. Again, the goal is to protect the seller on the downside in exchange for giving up some of the benefits of the upside. 
+  
+ The type of exchange ratio and collar can take different forms than the above, generally with the net goal of giving the sellers downside protection. 
+  
+ There are also other protections that Instagram could have asked for to brace itself against a Facebook stock decline, like the right to terminate the deal if Facebook’s stock price declined substantially. But no combination of these mechanisms was used in the Instagram deal. 
+  
+ We do not know why this is the case, but about 80 to 90 percent of stock deals use fixed exchange ratios, according to Factset Mergermetrics, and stock collars were only employed in about 11 percent of recent deals. 
+  
+ It may have been that the Instagram founders did not want to exchange a share of the upside for downside protection, preferring instead to make what is so far a losing bet on Facebook stock. It may also be that since the parties were both in the same industry, a fixed exchange ratio was thought more appropriate because the market would assign them equally in value, a common assumption underlying this choice. 
+  
+ But at the time of the deal, Facebook was pretty bullish on its stock prospects. Facebook probably would have acceded to some type of collar protection, possibly even without a collar on the upside. 
+  
+ This also appears to be a very hastily negotiated deal by some young executives, inexperienced in the world of mergers and acquisitions. The deal may already have been set by the time the lawyers and investment bankers came in, so that probably meant that a collar or floating share exchange ratio was already out of the question. 
+  
+ Instagram’s negotiations are looking particularly important in hindsight because of the delays to the completion of this transaction, delays it probably should have expected. 
+  
+ Facebook still needs antitrust clearance to complete the deal. It received antitrust clearance from British authorities last week, but is still awaiting approval from American regulators. 
+  
+ It appears the parties thought there might be some level of antitrust review and delay because Facebook agreed to pay Instagram $200 million if the deal was terminated as a result of a failure to receive such clearance. If so, this would be another indicator for Instagram to have bargained harder on how it was paid. 
+  
+ Recent reports have implied that Facebook is trying to speed up the close of the acquisition by using a California fairness hearing process. 
+  
+ A California fairness hearing is one of those quirky procedures under the securities laws. For a stock to be able to be traded freely in the public market, it must be registered with the Securities and Exchange Commission or qualify under an exemption. Facebook, for example, just went through the whole registration process to sell its stock in its I.P.O. The registration process can be arduous and take three to four months. 
+  
+ An alternative is to use the exemption under Section 3(a)(10) of the Securities Act, which allows shares to be freely sold without registration if they are qualified through a state fairness hearing. Six states have these procedures. California is the most prominent state providing for this by statute. 
+  
+ A fairness hearing is really an alternative to S.E.C. registration at the state level. The exemption is available under the presumption that the state determination of fairness is sufficient to replace S.E.C. review in a registration. 
+  
+ Supporting documentation is filed with the California Department of Corporations, and a fairness hearing is held at which the presiding officer makes a determination of fairness. The exemption is commonly used in Silicon Valley to sidestep registration. It is cheaper and faster, costing up to $2,500 plus a hearing fee and taking only one to two months. 
+  
+ When the Instagram deal was struck, the parties probably expected an antitrust delay, so using the fairness proceeding was more about saving money and having a less complex proceeding. 
+  
+ In any event, the hearing is scheduled for Aug. 29. It is open to the public, but as Brian Quinn at the M.&A. Law Prof blog has written, nothing much is likely to happen. 
+  
+ Fairness is determined by reference to whether arms’ length bargaining occurred, something that appeared to happen here. Even then you need objectors to state a case against fairness, something not likely to happen as Instagram at this point is probably happy with what they are receiving, given the rerating of social media going on after the soured Facebook I.P.O. And even if the fairness hearing did not result in approval, the acquisition agreement would probably just allow Facebook to register the shares with the S.E.C. as an alternative. 
+  
+ Ultimately, though, the antitrust delay is what has really hurt Instagram, and the timing of the fairness hearing is a nonevent that will not speed up this deal. 
+  
+ The end result is that delay has cost Instagram’s owners hundreds of millions, losses they could have avoided or reduced by negotiating differently. It is a lesson for those who strike deals in the heat of the moment — and perhaps too hastily. |||||

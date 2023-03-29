@@ -1,0 +1,125 @@
+Data sets 
+  
+ We used a data set of 530 sample plots located in the Amazon region (Fig. 1) compiled in the RAINFOR data set28, 29 and curated at ForestPlots.net30. This data set includes a number of plot networks including Tropical Ecology Assessment and Monitoring, PPBio (Brazilian Program for Biodiversity Research) and the Alwyn H. Gentry Forest Transect Dataset. Many of the plots are also included in the Amazon Tree Diversity Network used by ter Steege et al.1 We restricted the analysis to sites below 500 m.a.s.l., in old growth forests (excluding any successional, burnt or logged), occurring on terra firme substrate (excluding swamp and seasonally flooded forests) and excluding cerrado. This allowed us to minimize the possible influence of rare species restricted to rarer and poorly sampled forest types and to ensure that we restricted our questions to the dominant Amazon formations growing on unflooded terrain. The data set consists of repeated measurements of tree diameter (D; diameter at 1.3 m or above buttresses) and species identity of all trees ≥10 cm D, following a standard protocol31. The mean plot size was 0.69 ha (range 0.04–25.0 ha). All recorded species names were checked against the Tropicos database using the Taxonomic Name Resolution Service (TNRS v3.2 (ref. 32)) and corrected as necessary. Morphospecies were considered to be unidentified. Wood density values were taken from the Global Wood Density Database33, 34. The 530 plot data set contained 206,135 trees from 3,458 species, consisting of 114,696 Mg of biomass. For productivity analysis, we used a subset of 221 multiple census plots with at least 2 years between the initial and final censuses, in total accounting for 1,231 Mg biomass per year of aboveground woody productivity. Finally, all analyses were repeated on a data set restricted to 326 plots (148 plots for productivity), where at least 80% of stems within the plot were identified to species, in order to test whether the level of identification in the data set influenced results (see Supplementary Figs 8–11 and Supplementary Tables 4–8 for results based on this data set). 
+  
+ Data analysis 
+  
+ We treated our data as a sample of the terra firme forests of Amazonia and analysed the data set as a whole, rather than at the plot level. Stem abundance and biomass of each species were calculated using the first census of each plot (across all plots 79.0% of all stems were identified to species). Species-level stem abundance was calculated as the total number of stems of a species. Species-level biomass was calculated as the sum of biomass of all stems of a species. Stem-level biomass was calculated using the moist forest biomass equation based on diameter, wood density and height from Chave et al.35, with height based on the region-specific Weibull equations from Feldpausch et al.36 For monocots (families Arecaceae and Strelitziaceae), an Arecaceae-specific equation was used to estimate biomass from diameter only37. 
+  
+ For productivity, we used the 221 multi-census plot data set (‘productivity data set’) and only the stems alive in the first census of each plot (for consistency with the stem abundance and biomass analyses). Mean stem-level productivity (P stem ) was calculated as the mean annual productivity of each stem across all census intervals for which it was present. 
+  
+ where N C is the number of censuses for which an individual stem is alive for, P i is the productivity of a stem in census interval i. We include the productivity of stems in the census interval in which they recruited, assuming a D of 10 cm at the beginning of the census interval. In cases where the point of measurement (POM) was changed between censuses, we used the diameter at a standardized POM to avoid artefacts associated with disjoint diameter sequences38. To estimate productivity of a species across all plots (P species ), we summed the productivity of each stem of that species. See Talbot et al.39 for a discussion of the estimation of productivity; the methods used here are the equivalent of R 2 (for recruits) and G 2 (for POM changes) in Talbot et al.39 In cases where individuals subsequently died in the second plot census, it was not possible to estimate productivity for these stems. In some cases, this was true of all stems of a species (2.2% of species). Hence, the species contributions to productivity are based on a slightly smaller number of trees than contributions to stem abundance and biomass. We assume that the mortality is evenly spread between species and therefore that species relative contributions to total stems, biomass and productivity should not be affected. 
+  
+ For monocot stems, which lack radial growth, we used an alternative method to estimate productivity as repeated height measurements were not available. Biomass for palms can be reasonably estimated using diameter measurements, with few species-specific biases37. Therefore, we used an alternative method by estimating necromass production. This method requires an adequate sample of stems so we limited the analysis to the monocot species classed as stem hyperdominants and hence productivity of rare palms was not estimated. We assumed that the populations of each palm species are in approximate equilibrium, such that the long-term stem biomass mortality rates equal long-term stem biomass production rates. We derived the stem necromass production rates for each palm tree that died, based on its standing biomass (using the allometric model from Goodman et al.37) estimated from its last recorded D, allocated equally over the time period from the initial plot census date to the census date in which it died. As the dicot productivity estimates do not include the 10-cm D inner cylinder of the stem, for equivalence the biomass before death used in the calculation was reduced by the biomass estimate of a 10-cm D palm. Hence, 
+  
+ where B final is the biomass estimated using last D measured for the stem, B 10cm is the biomass of a 10-cm palm, C 1 is the initial census date and C dead is the census date in which the palm was recorded as dead. Palm species productivity was then calculated as the sum of P stem across all dead trees of the species. 
+  
+ Trees not identified to species level were used only to determine the denominator for the relative contribution of each identified species to the total data set. Species-level stem abundance and biomass relative contributions were calculated twice, once using the full 530 plot data set and once using the 221 plot productivity data set for use in further analyses comparing between measures. 
+  
+ To address the first question ‘are biomass and productivity also dominated by few taxa?’, we determined the minimum number of species required to account for 50% of total stems, biomass or productivity in our plots. For simplicity, we term the species contributing 50% of stems ‘stem hyperdominants’, the species contributing 50% of biomass ‘biomass hyperdominants’ and the species contributing 50% of productivity ‘productivity hyperdominants’. 
+  
+ To address the second question ‘is the contribution of each species to biomass and productivity equal to its contribution to stem abundance?’, we calculated the contribution of the stem hyperdominants to the total biomass and productivity of the data set. For biomass, this was based on the full data set, whereas for productivity this was based on the productivity data set, with stem hyperdominant species also defined using the productivity data set to ensure consistency between the species measures. Further, we regressed the percentage contribution of each species to biomass and productivity against their percentage contribution to stems. The regressions were performed using the full data set for biomass, and the productivity data set for productivity. Data were not normally distributed and therefore were log-transformed before analysis. 
+  
+ To address the third question ‘to what extent do maximum diameter and wood density determine which species dominate stem abundance, biomass and productivity?’, we first calculated maximum D as the 95th percentile value for each species with at least 20 individuals included in the full 530 plot data set (and from any census, in total 1,319 species). Only the maximum of all diameter measures of an individual stem was used in the estimation of species maximum D. We then ordered the data set from highest to lowest trait value (maximum D or wood density) and plotted the cumulative percentage of species, stems, biomass and productivity against the trait value, and determined the contribution of the largest and highest wood density species to the different measures. Only the 1,303 species for which a species-specific wood density was available were included in the wood density analysis. In addition, we regressed the residuals from the linear model predicting percentage contribution to biomass or to productivity from percentage contribution to stems (see above) against trait value to examine the relationships with trait values when abundance is accounted for. These analyses were performed on the full data set for biomass and the reduced data set for productivity. To test for a relationship between species contribution to stem abundance and trait values, we regressed trait values against percentage contribution to stem abundance. Maximum D and wood density values were only available for approximately one-third of species in the data set, with rare species typically being those without a value. Although this exclusion of many rare species in this analysis could introduce unknown biases to the results, it also excludes additional noise in the data set from including species that have not been adequately sampled. 
+  
+ Regional analysis 
+  
+ To investigate if the patterns found within the whole data set were consistent within different Amazon regions and to find out how the hyperdominant species are spread between regions, we repeated all analyses at the regional level. We used the Feldpausch et al.36 region delimitation based on substrate maximum geological age that was also used for height allometry (Guiana Shield, Brazilian Shield, East-Central and Western Amazonia), but further split the Western Amazon region at −8° latitude into Northwestern Amazon and Southwestern Amazon, following a similar delimitation by ter Steege et al.1 that separates the mostly aseasonal north from the more seasonal south. Species required to reach 50% of a regions stems/biomass/productivity were considered regional hyperdominants. 
+  
+ Unidentified stems 
+  
+ Stems in the data set that were not identified to species-level were treated slightly differently. In hyperdominance calculations, these stems were used only to determine the denominator (total stems, biomass and productivity in the data set) in the estimation of known species contributions. To estimate their biomass and productivity, a wood density value is required. Wood density values for such stems were applied at the genus- or family-level, if known. For stems with no family-level identification, or where no wood density value was available for the species, genus or family, we applied the plot mean wood density value. Unidentified stems were excluded from further analyses. Because we include unidentified stems in hyperdominance calculations, the percentage of species necessary to account for 50% of total stems/biomass/productivity will be a slightly over-estimated as the exact total number of species in the data set is unknown because of incomplete botanical identifications. 
+  
+ All analyses were carried out in R version 2.15.1 (ref. 40). ||||| Image copyright Roel Brienen Image caption The vast tropical forests of Amazonia account for almost one-fifth of the world's terrestrial vegetation carbon stock 
+  
+ About 1% of all the tree species in the Amazon account for half of the carbon locked in the vast South American rainforest, a study has estimated. 
+  
+ Although the region is home to an estimated 16,000 tree species, researchers found that just 182 species dominated the carbon storage process. 
+  
+ Amazonia is vital to the Earth's carbon cycle, storing more of the element than any other terrestrial ecosystem. 
+  
+ The findings appear in the journal Nature Communications. 
+  
+ "Considering that the Amazon is massively important for the global carbon cycle and stores so much of the planet's biomass, finding out just how that carbon is stored and produced is very important if we want to understand what might happen in the future in different environmental conditions," explained co-author Sophie Fauset from the University of Leeds, UK. 
+  
+ The tropical forest covers an estimated 5.3 million sq km and holds 17% of the global terrestrial vegetation carbon stock. 
+  
+ Image copyright Roel Brienen Image caption Large tree species store and grow more biomass, making them dominant features in the carbon cycle 
+  
+ The findings build on a study published in Science in October 2013 that found that despite being home to an estimated 390 billion trees - made up by 16,000 species - just 227 "hyperdominant" species accounted for half of Amazonia's total trees. 
+  
+ Dr Fauset observed: "If you then take abundance into account and then analyse the data again, then maximum size is very important as well. Trees that are able to reach a large size contribute more to the carbon cycle." 
+  
+ As trees grow larger, they develop more biomass, which contains carbon. So the larger the tree, the greater quantity of carbon locked within its wood. As trees are long-lived organisms, this means the carbon is removed from the atmosphere for decades, if not centuries. 
+  
+ However, Dr Fauset cautioned against the idea of focusing attention on the 182 species and embarking on a vast planting programme to lock more carbon away from the atmosphere, where it contributes to global warming. 
+  
+ "While we have shown that there are a small number of species having a disproportionate influence on the carbon cycle, that is only what we have been able to measure right now," she told BBC News. 
+  
+ "Given the amount of changes that are occurring in tropical regions, such as with the climate and with land-use changes, in the future there might be different species that become more important." 
+  
+ BRAZIL NUT TREE FACTS Image copyright Other Can grow to 50m (160ft) high 
+  
+ The trees live for about 500 years 
+  
+ The trees' fruit have a hard case, which contains 10-25 seeds (nuts) 
+  
+ The seeds remain trapped, unless the case is gnawed open by agoutis 
+  
+ Trees located in dense tropical forests can take up to 150 years to reach maturity 
+  
+ A good example is the Brazil nut tree (Bertholletia excelsa), which can reach heights in excess of 48m (160ft). It is known to thrive best in dense, undisturbed rainforests. 
+  
+ A study in 2010 examining the natural dispersal of Brazil nuts suggested their intensive harvesting could threaten future regeneration of the trees. 
+  
+ Researchers found that large rodents - such as agoutis - quickly ate the nuts, rather than caching them, when supplies were scarce. When supplies were plentiful, almost twice as many nuts were buried, increasing the chance of successful germination. 
+  
+ This means that the species may not play such a dominant role in the carbon cycle in the future. 
+  
+ "Therefore, it is important that you maintain a bio-diverse forest that has a wide range of species with a wide range of life histories and strategies that will be able to deal differently with changes to the environmental conditions, " Dr Faucet added. 
+  
+ "In the future, it might be different species that are more important for the carbon cycle than what we have measured right now." 
+  
+ In a previous study, Dr Faucet and a team of fellow scientists found that the carbon storage capacity of protected forests in West Africa had increased despite the region suffering a 40-year drought. 
+  
+ The team suggested the increase in the forests' carbon-storing biomass was the result of a shift in species composition. 
+  
+ As the drought period stretched over decades, it allowed the species that could survive under those conditions to be favoured. 
+  
+ Unaccounted emissions 
+  
+ The complexity of the global carbon cycle was highlighted in a separate study, also published on Tuesday. 
+  
+ Researchers suggested that global carbon emissions from forests could have been underestimated because calculations have not fully accounted for the dead wood from logging. 
+  
+ A study carried out in Borneo, published in Environmental Research Letters, found that dead wood could account for up to 64% of biomass. In untouched forests, dead wood made up less than 20% of the above-ground biomass. 
+  
+ Lead author Dr Marion Pfeifer, from Imperial College London, observed: "I was surprised by how much of the biomass dead wood accounted for in badly logged forests. 
+  
+ "That such logged forests are not properly accounted for in carbon calculations is a significant factor. 
+  
+ "It means that a large proportion of forests worldwide are less of a sink and more of a source, especially immediately following logging, as carbon dioxide is released from the dead wood during decomposition." 
+  
+ Estimates suggest that forestry, agriculture and land-use changes account for almost a quarter of greenhouse gas emissions from human activities. Only the energy sector emits more. ||||| Within the botanical menagerie that makes up the Amazon rainforest, which is so important it’s frequently dubbed the “lungs of the planet,” scientists have pinpointed a small number of tree species that are doing the heaviest breathing as they help to slow global warming. 
+  
+ Their discovery—that 182 species store half the rainforest’s woodbound carbon—suggests that the future of the world’s climate, and the contours of its coastal areas, are intertwined with the fate of this small portion of an estimated 16,000 Amazonian tree species. 
+  
+ Despite ongoing logging and recent drought, the Amazon is home to perhaps a sixth of the carbon stored in living vegetation the world over, helping to keep levels of climate-changing carbon dioxide down in the atmosphere. 
+  
+ “The Amazon is a massively important carbon stock, and it’s currently acting as a carbon sink,” Leeds University’s Sophie Fauset, who led the research, said. “What we’re trying to do is increase our understanding of where this carbon is going; which trees are storing it.” 
+  
+ The findings were published Tuesday in Nature Communications following analysis of data covering 530 areas. The most common tree identified in the study, a variety of palm known to scientists as Iriartea, was also found to hold the most carbon. But the other 181 species identified as the most important for carbon storage weren’t necessarily the most common species in the rainforest. They were species that shared combinations of important features, being relatively abundant, long-living and large-growing. 
+  
+ “There are a few species that seem to grow big—and those are the ones you’d want to emphasize in conservation,” said University of California at Berkeley forest ecology professor John Battles, who was not involved with the research. “If you were managing these forests, you would leave these trees.” 
+  
+ One of the most carbon-hungry types of trees identified in the study was the Brazil nut tree, which grows trunks that can easily exceed a height of 100 feet. In a list ranking species by the total number of individual trees growing within the 530 studied plots, Brazil nut trees ranked 243rd. In terms of total growth and productivity, by contrast, they ranked fourth overall, and they were found to contain 1.3 percent of the forest’s carbon. 
+  
+ “The default assumption would be, I think, that given the enormous biological diversity of tropical forests, carbon cycling would be more equitably distributed among plant species,” National Center for Atmospheric Research scientist Rosie Fisher, who wasn’t involved with the study, said. “This discovery overturns that paradigm.” 
+  
+ Fisher said she would be “hesitant to suggest the most obvious idea—that we could store lots of carbon by planting these very large species,” because so little is known about how sensitive they are to the types of droughts and fires that are projected to become more common in the future, nor whether they would thrive in managed forests. 
+  
+ More work will be needed to determine how the findings could be applied to conservation and climate protection strategies—particularly as the climate changes in the Amazon and across the rest of the planet. Rainfall rates have dwindled by a quarter across the southeastern Amazon since the turn of the century, with deforestation and changes in atmospheric circulation regarded as culprits. 
+  
+ “We must remember that these species established under 20th century climate conditions,” Fisher said. “The hyper-dominant species of the coming decades may need to possess different characteristics.” 
+  
+ This article is reproduced with permission from Climate Central. The article was first published on April 28, 2015. |||||

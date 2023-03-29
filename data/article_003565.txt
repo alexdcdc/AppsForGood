@@ -1,0 +1,27 @@
+Onion gets hacked by Syrian propagandists, responds with funny article 
+  
+  
+  
+ The Onion got hacked by the Syrian Electronic Army, who proceeded to send out a bunch of tweets that could have been mistaken for actual Onion tweets making fun of the sort of thing that Syrian propagandists would tweet if they hacked the Onion's Twitter (see after the jump for the full list). But no, they actually did get hacked. 
+  
+ The Onion responded by putting up a post called Syrian Electronic Army Has A Little Fun Before Inevitable Upcoming Deaths At Hands Of Rebels, which matches the Assadists' bluster and is much funnier: ||||| Access to the internet in Syria appeared to have been cut off on Monday evening, according to a number of monitoring companies, prompting speculation that the apparent blackout was an attempt by the Syrian government to disrupt the online activities of opponents. 
+  
+ Google also said that its services in the country were inaccessible and released data showing its web traffic in the country dramatically tailing off late in the day. 
+  
+ Monitoring companies reported a similar blackout last November in Syria, where activists seeking to overthrow President Bashar al-Assad have repeatedly uploaded videos to YouTube showing atrocities allegedly being carried out on behalf of the government, and used internet telephony products such as Skype to testify about attacks by government forces on rebel positions and civilians. 
+  
+ The Syrian government blamed "terrorists" for the disconnection in November. 
+  
+ A US internet security firm reported on Monday that it had initially noticed a significant drop in traffic from Syria, adding "On closer inspection it seems Syria has largely disappeared from the internet. 
+  
+ "Effectively, the shutdown disconnects Syria from internet communication with the rest of the world," wrote Dan Hubbard, chief technology officer at OpenDNS. 
+  
+ "It's unclear whether internet communication within Syria is still available. Although we can't yet comment on what caused this outage, past incidents were linked to both government-ordered shutdowns and damage to the infrastructure, which included fibre cuts and power outages. 
+  
+ The apparent blackout was also reported by Renesys, an internet monitoring service which picked up on the disconnection in November. 
+  
+ Last year, Renesys pointed out that some Syrian webservers had survived the November outage – but that they were located "offshore", and included a number which were used to target Syrian activists with malware targeting Skype last summer. 
+  
+ The Egyptian government of Hosni Mubarak cut the country's internet connection with the rest of the world in January 2011, when the levels of protest were growing in the country. The outage lasted a week, but did not prevent the ousting of Mubarak. ||||| At around 18:45 UTC OpenDNS resolvers saw a significant drop in traffic from Syria. On closer inspection it seems Syria has largely disappeared from the Internet. 
+  
+ The graph below shows DNS traffic from and to Syria. Although Twitter remains relatively silent, the drop in both inbound and outbound traffic from Syria is clearly visible. The small amount of outbound traffic depicted by the chart indicates our DNS servers trying to reach DNS servers in Syria. |||||

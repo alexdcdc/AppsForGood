@@ -1,0 +1,18 @@
+A University of Cambridge team has used liquid crystals in place of ink to print tiny dots on a surface covered with a special coating.
+Once the coating dries, the dots become lasers, the researchers wrote in the journal Soft Matter.
+A laser is a directed form of light of a specific range of colours.
+They have well-defined wavelengths, whereas sunlight or the light from a bulb have a very broad wavelength range and consist of many colours.
+Lasers can be produced via a variety of methods, one of them using liquid crystals (LCs), familiar from liquid crystal displays or LCDs, such as some computer monitors or flat-screen TVs.
+To make a laser, molecules in a LC material have to be aligned in a certain way. To do so, liquid crystal is usually poured between two glass plates covered with a specific coating that makes the molecules align in a particular manner.
+But the recent work uses standard ink-jet printing and a polymer solution film - with the polymer being similar to regular white glue used in arts and crafts - to align the molecules.
+"Until now, no one has been able to print lasers; the materials typically used to make lasers only work on certain surfaces and after extensive, and expensive, manufacturing processes," Damian Gardiner of Cambridge University, one of the team members, told the BBC.
+"A laser requires three things to work: a cavity, or space between two mirrors so light can bounce back and forth, a 'gain' medium to increase the amount of light, and energy.
+"Our laser uses the special optical properties of the LC to get rid of the mirrors, and a dye is added to give gain.
+"However, the key thing is that it is a liquid system - and can therefore be inkjet-printed, very inexpensively."
+The scientists printed hundreds of small liquid crystal dots onto a wet film, and as the film dries, the molecules in LC align and the dots turn into individual lasers.
+One of the potential uses could be "smart wallpaper" in museums, said Mr Gardiner's colleague, W-K Hsiao.
+"You can produce hundreds and thousands of small lasers in one step, using technology not very different to the one you use to print letters and holiday photos at home," he said.
+"The lasers can be used for various display and lighting applications, or they can encode information and turn any surface into a 'smart surface'.
+"If you print a museum wallpaper with laser dots inside, blind people who walk around the museum with a low-power scanner can this way know which room they're in, what exhibition is displayed, and where they have to turn to find an emergency exit."
+In the past, researchers have used other non-traditional ways to create laser light - for instance, by using a living cell.
+Modern applications of lasers range from DVD players, surgical equipment and supermarket scanners to industrial machinery and the latest Nasa rover, Curiosity, which uses lasers to probe the Mars surface.

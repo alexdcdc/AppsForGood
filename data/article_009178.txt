@@ -1,0 +1,25 @@
+This is awkward. It appears that HP's new webcams, which have facial-tracking software, can't recognize black faces, as evidenced in the above video. HP has responded: 
+  
+ We are working with our partners to learn more. The technology we use is built on standard algorithms that measure the difference in intensity of contrast between the eyes and the upper cheek and nose. We believe that the camera might have difficulty "seeing" contrast in conditions where there is insufficient foreground lighting. ||||| HP Responds Quickly to Charges of Racist Computer 
+  
+ Question Remains: How Did This Happen? 
+  
+ Give Hewlett Packard credit for responding quickly to a viral video making the round in which an African-American man and a white woman pretty much establish that fancy new face-tracking cameras on HP computers aren't so good (or any good) at tracking black faces. (Via Gizmodo): 
+  
+ According to HP, "The technology we use is built on standard algorithms that measure the difference in intensity of contrast between the eyes and the upper cheek and nose. We believe that the camera might have difficulty 'seeing' contrast in conditions where there is insufficient foreground lighting." The company also goes on to thank Desi, the creator of the video. 
+  
+ Now, that's all well and good. And it makes perfect sense that high-tech camera equipment might have issues with different skin types. After all, a camera doesn't operate on the notion that we are all alike on the inside. That said, HOW DOES THIS HAPPEN?!? 
+  
+ I can see two plausible explanations: 
+  
+ 1. The company didn't test this bit of technology at any time on anyone with dark skin. 
+  
+ or 
+  
+ 2. The company did test it on various skin types but only tested it using optimal lighting. 
+  
+  
+  
+ Either way, not very bright. I know some tech engineers can be a little dim when it comes to recognizing how equipment will work with actual humans, but aren't there other stops along the product-development way? 
+  
+ So far, the computer maker has been lucky in terms of reaction. It might be that HP doesn't have as bad a reputation as the ad industry when it comes to diversity. We haven't seen a social-media firestorm screaming #HPFail across all Twitter. Guess HP would have to offend mommy bloggers or social-media gurus for that sort of thing to happen. |||||

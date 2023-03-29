@@ -1,0 +1,65 @@
+Trials at New Mexico’s Spaceport Authority are using new millimetre wave technology to deliver data from drones – potentially 40 times faster than 4G 
+  
+ Google is testing solar-powered drones at Spaceport America in New Mexico to explore ways to deliver high-speed internet from the air, the Guardian has learned. 
+  
+ In a secretive project codenamed SkyBender, the technology giant built several prototype transceivers at the isolated spaceport last summer, and is testing them with multiple drones, according to documents obtained under public records laws. 
+  
+ In order to house the drones and support aircraft, Google is temporarily using 15,000 square feet of hangar space in the glamorous Gateway to Space terminal designed by Norman Foster for the much-delayed Virgin Galactic spaceflights. 
+  
+ The tech company has also installed its own dedicated flight control centre in the nearby Spaceflight Operations Center, separate from the terminal. 
+  
+ Facebook Twitter Pinterest View of the runway from the Spaceflight Operations Center control tower Photograph: New Mexico Spaceport Authority 
+  
+ Based out of the site near the town called Truth or Consequences, Project SkyBender is using drones to experiment with millimetre-wave radio transmissions, one of the technologies that could underpin next generation 5G wireless internet access. High frequency millimetre waves can theoretically transmit gigabits of data every second, up to 40 times more than today’s 4G LTE systems. Google ultimately envisages thousands of high altitude “self-flying aircraft” delivering internet access around the world. 
+  
+ “The huge advantage of millimetre wave is access to new spectrum because the existing cellphone spectrum is overcrowded. It’s packed and there’s nowhere else to go,” says Jacques Rudell, a professor of electrical engineering at the University of Washington in Seattle and specialist in this technology. 
+  
+ Google's drones have exclusive use of the Spaceport’s runway and will even venture above a neighbouring missile range 
+  
+ However, millimetre wave transmissions have a much shorter range than mobile phone signals. A broadcast at 28GHz, the frequency Google is testing at Spaceport America, would fade out in around a tenth the distance of a 4G phone signal. To get millimetre wave working from a high-flying drone, Google needs to experiment with focused transmissions from a so-called phased array. “This is very difficult, very complex and burns a lot of power,” Rudell says. 
+  
+ Google reports self-driving car mistakes: 272 failures and 13 near misses Read more 
+  
+ The SkyBender system is being tested with an “optionally piloted” aircraft called Centaur as well as solar-powered drones made by Google Titan, a division formed when Google acquired New Mexico startup Titan Aerospace in 2014. Titan built high-altitude solar-powered drones with wingspans of up to 50 metres. 
+  
+ Emails between Spaceport America and Google project managers reveal that the aircraft have exclusive use of the Spaceport’s runway during the tests and will even venture above the neighbouring White Sands Missile Range. 
+  
+ Google spent several months last summer building two communication installations on concrete pads at Spaceport America. Project SkyBender is part of the little-known Google Access team, which also includes Project Loon, a plan to deliver wireless internet using unpowered balloons floating through the stratosphere. 
+  
+ One of the millimetre wave transceivers was located near Spaceport America’s Spaceport Operations Centre (SOC), and the other four miles away at the Vertical Launch Area (VLA), although Google’s plans did not involve any rockets. Google also established a repeater tower and numerous other sites around the Spaceport, presumably to test millimetre wave reception. 
+  
+ Both installations have cabinets full of computer servers and other electronics, while the pad at the SOC required a concrete base to support a dish antenna nearly eight feet across, according to a separate filing with the Federal Communications Commissions (FCC). 
+  
+ Facebook Twitter Pinterest One of Google’s installations at the spaceport. Photograph: New Mexico Spaceport Authority 
+  
+ Work did not proceed smoothly, however. At one point in late August, a lorry showed up at 10.30pm, causing the Spaceport America team to complain to Google: “We have no loading dock and no means to remove a pallet … from the middle of the truck.” The lorry was turned away without making its delivery. 
+  
+ Later, components were installed upside down or supplied by Google without the necessary shelves, nuts and bolts. Near the end of the build in October, Mike Bashore, information systems manager at Spaceport America, even emailed to his Google contact, “We want to run out to Home Depot for grounding straps.” These are needed to protect sensitive electronics from static electricity. The nearest Home Depot hardware shop is over 100 miles from the Spaceport. 
+  
+ Facebook Twitter Pinterest One late-night delivery to the spaceport couldn’t be unloaded. Photograph: New Mexico Spaceport Authority 
+  
+ Google is not the first organisation to work with drones and millimetre wave technology. In 2014, Darpa, the research arm of the US military, announced a program called Mobile Hotspots to make a fleet of drones that could provide one gigabit per second communications for troops operating in remote areas. 
+  
+ Google has permission from the FCC to continue its tests in New Mexico until July. Spaceport America will be glad of the $300,000 SkyBender tests, as Virgin Galactic virtually mothballed its terminal following the 2014 crash of its prototype SpaceShipTwo vehicle in California. Christine Anderson, chief executive officer of Spaceport America, admits that the facility is now running out of money. 
+  
+ “We are transitioning to supporting all aspects of the spaceport from our operational budget, as the [state] bonds have been spent except for the amount reserved for the southern road,” she wrote in a blog post earlier this month. “We are asking the legislature for $2.8m ... We appreciate that our request is a lot of money, but we also feel that it is a relatively small amount to protect the state’s $218.5m investment already made in the new and exciting commercial space industry.” 
+  
+ Alphabet and Facebook develop rival secret drone plans Read more 
+  
+ Google is paying Virgin Galactic $1,000 a day for the use of a hangar in the Gateway to Space building, but had to split its SkyBender tests into two separate flight campaigns to ease Virgin Galactic concerns. An unnamed Virgin Galactic executive emailed Anderson before the tests to note: “We will be arranging numerous activities around these occupancy periods, which would be impacted if there was any [timing changes].” Google also had to promise not to take any photographs inside the building. 
+  
+ Anderson expects Virgin Galactic to unveil its new SpaceShipTwo at the Spaceport in February, and to begin flights there in 2018. 
+  
+ Google declined to comment. ||||| Microsoft today unveiled Project Natick, a fascinating research initiative that could bring cloud computing infrastructure closer to big cities near large bodies of water — by putting data centers underwater. 
+  
+ Microsoft isn’t running any web services, like Office 365, through the data center infrastructure inside of these capsules. But Microsoft did build one (named the Leona Philpot, after the Halo character) and set it 30 feet underwater off of the California coast for four months in 2015. The capsules could have their computing hardware replaced every five years, but eventually they could well be kept underwater, without people onsite, for 20 years or more. And they could be powered by renewable energy, too. 
+  
+ “Project Natick reflects Microsoft’s ongoing quest for cloud datacenter solutions that offer rapid provisioning, lower costs, high responsiveness, and are more environmentally sustainable,” Microsoft explained on the website for the project. 
+  
+ It’s an unusual and forward-looking way for a company at Microsoft’s scale — or any scale, really — to operate its core data center infrastructure. It’s reminiscent of the Google barge that some people suspected had been intended to house data center hardware. (Other reports suggested it could be used for retail purposes.) But that project has been forgotten. Major web companies like Google and Facebook are now focusing on using aircraft to deliver the Internet to people, which has taken up some of the spotlight on research into new or better ways to deliver services. But the servers, storage, and networking equipment have got to live somewhere. 
+  
+ One might think putting data centers in the ocean might have environmental repercussions. But Microsoft is indicating that nothing untoward happened in the initial experiment. 
+  
+ “During our deployment of the Leona Philpot vessel, sea life in the local vicinity quickly adapted to the presence of the vessel,” Microsoft said on the Project Natick website. 
+  
+ Now Microsoft is looking to advance the research by building larger capsules. People working on the project have begun devising one three times as large as the first, according to John Markoff of the New York Times. |||||

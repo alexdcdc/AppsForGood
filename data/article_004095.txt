@@ -1,0 +1,61 @@
+A new technique that can determine a person's level of consciousness could benefit patients who have suffered brain damage. These patients range from those who are fully aware but are unable to respond — known as "locked-in syndrome" — to those in a vegetative state, oblivious to the world. 
+  
+ The technique, which entails sending a magnetic pulse across the brain and measuring the brain's response to it, has the potential to measure consciousness even when the patient cannot reply to other stimuli, such as light, sound or hand squeezing. 
+  
+ The scientists involved in the development of this technique caution that it shouldn't be used to determine whether to "pull the plug" on someone in a vegetative state. Rather, they said, the technique could be used to monitor a patient's day-to-day recovery following a brain injury, and to determine whether the patient is thinking or feeling anything. 
+  
+ A description of the technique, called the Perturbational Complexity Index (PCI), appears today (Aug. 14) in the journal Science Translational Medicine. 
+  
+ Is there anybody in there? 
+  
+ The nature of consciousness has long been elusive, debated by scientists and philosophers alike. People routinely enter an unconscious state when they're in a deep sleep or under anesthesia, but ultimately, they awaken. 
+  
+ Yet a person's appearance does not always yield clues to their consciousness — those who have suffered severe brain injuries may be fully conscious, or awake, yet they simply appear unconscious due to their inability to move or respond to stimuli. Conversely, those in a vegetative state can perceive nothing of the world around them, yet they might appear conscious, occasionally moving, grimacing and even groaning. [10 Ways to Keep Your Mind Sharp ] 
+  
+ The new research, led by Dr. Marcello Massimini at the University of Milan in Italy, started with the theoretical idea that consciousness depends on the brain's ability to coordinate information across interacting regions. A magnetic pulse sent through these regions should stimulate the brain, and produce a specific activity pattern that could be measured by electroencephalography (EEG). 
+  
+ Earlier work by these researchers showed a pulse in a conscious brain produced a rich, full EEG signal across the entire brain. In contrast, a pulse in an unconscious brain, in deep sleep or under anesthesia, produced a shorter, stunted EEG signal. 
+  
+ To sleep, perchance to dream 
+  
+ The new study expanded this test to 52 people in various states of consciousness and unconsciousness: wakefulness, a light stage of sleep called dream sleep, deep sleep, sedation induced by different types of anesthesia, a coma-induced minimally conscious state, locked-in syndrome and a vegetative state (now called "unresponsive wakefulness syndrome"). 
+  
+ The PCI could differentiate among all of these states. The index, based on a complicated mathematical analysis of the EEG, rates people's level of consciousness on a scale from 0 to 1. Fully awake patients in the study had a PCI of 0.6 or higher, patients in a dreaming (light) sleep had a PCI of about 0.4 and patients in a deep sleep had a PCI of about 0.2. 
+  
+ Those who were anesthetized had PCIs as low as 0.12, which means they were in a deep state of unconsciousness. The more potent the anesthesia, the lower the PCI. 
+  
+ Among patients with brain damage, those thought to be in a vegetative state had PCIs similar to people deeply under anesthesia. The patients suffering from locked-in syndrome were wide-awake, with PCIs of about 0.6, and those in a minimally conscious state had PCIs of about 0.3. 
+  
+ A PCI value higher than the anesthesia level in patients who were otherwise completely unresponsive would suggest that they are conscious to some extent, Massimini said. 
+  
+ Christof Koch, chief scientific officer of the Allen Institute for Brain Science in Seattle who was not involved in the study, described the PCI technique as a "consciousness meter." 
+  
+ Massimini said he would like to expand the study to more patients in order to better define the index. Tens of thousands of Americans have severe brain damage, according to various published estimates. These include many soldiers and veterans who fought in Iraq and Afghanistan. 
+  
+ "An important potential application of PCI is to monitor the effect of treatments," Massimini told LiveScience. "The efficacy of drugs or brain-stimulation procedures may be judged objectively and quantitatively based on their effects on brain complexity." 
+  
+ However, Massimini said the PCI can't be used to determine absolute unconsciousness. 
+  
+ "No objective measure can be used to rule out the presence of consciousness, because we do not have a clear understanding of what are the physical properties that are necessary and sufficient for subjective experience," he said. "When measuring consciousness, it is safe to say that the absence of the proof is not proof of the absence." 
+  
+ Christopher Wanjek is the author of a new novel, "Hey, Einstein!", a comical nature-versus-nurture tale about raising clones of Albert Einstein in less-than-ideal settings. His column, Bad Medicine, appears regularly on LiveScience. ||||| Consciousness isn’t easy to define, but we know it when we experience it. It’s not so simple to decide when someone else is conscious, however, as doctors must sometimes do with patients who have suffered traumatic brain injury. Now, researchers have come up with an approach that uses the brain’s response to magnetic stimulation to judge a person’s awareness, reducing it to a numerical score they call an index of consciousness. “You’re kind of banging on the brain and listening to the echo,” says Anil Seth, a neuroscientist at the Sackler Centre for Consciousness Science at the University of Sussex in the United Kingdom who was not involved in the work. 
+  
+ Faced with an unresponsive patient, clinicians do their best to determine whether the person is conscious. Through sound, touch, and other stimuli, they try to provoke verbal responses, slight finger movements, or just a shifting gaze. Yet some conscious patients simply can’t move or speak; an estimated 40% of those initially judged to be completely unaware are later found to have some level of consciousness. 
+  
+ Recently, physicians seeking to resolve a patient’s conscious state have gone right to the source, searching for signs of awareness using brain imaging or recording electrical activity of neurons. Most of these approaches define a conscious brain as an integrated brain, where groups of cells in many different regions activate to form a cohesive pattern, explains Marcello Massimini, a neurophysiologist at the University of Milan in Italy. “But that’s not enough,” he says. Sometimes even an unconscious brain looks highly integrated. For example, stimulating the brain of a sleeping person can create a huge wave of activity that “propagates like a ripple in water.” It’s a highly synchronized, widespread pattern, but it’s not consciousness, he says, and so this measure is often unreliable for diagnosis. 
+  
+ Recently, Massimini and colleagues have been exploring another possible criterion for consciousness. To create our information-rich, moment-to-moment experience, different groups of neurons must have their own timing, or their own unique firing patterns. They must work together, but keep their individuality. “It’s quite a slippery thing to [describe] verbally,” Seth says. The big question for neuroscientists developing computerized tests of consciousness, he says, is “can we make that quite slippery verbal intuition mathematically precise?” 
+  
+ That’s just what Massimini and his colleagues have tried to do with the perturbational complexity index (PCI), which they describe online today in Science Translational Medicine. PCI looks at the brain’s response to transcranial magnetic stimulation (TMS), where a magnetic coil is held up to the surface of the skull, generating a pulse to stimulate the neurons beneath and provoke a response that radiates through the brain. 
+  
+ Massimini and his colleagues record the brain’s “echo” with electroencephalography, a measure of electrical activity, and then turn that data into a numerical score between 0 and 1. Their calculations award higher scores to information-rich responses: those that are distributed across the brain, but also individualized. If two distant groups of neurons are active, but their activity is synchronized, the PCI equation compresses them, meaning they contribute less to the overall score. “The less we can compress the pattern, the more information is in it,” Massimini explains. 
+  
+ The researchers first calibrated their system using healthy patients. They recorded TMS responses in waking subjects, and then used the brain activity from people in deep sleep or under different types of anesthesia as a reference for unconsciousness. There was no overlap in scores between conscious and unconscious subjects, suggesting a potentially useful cutoff or threshold for consciousness, somewhere between the highest unconscious score (0.31) and the lowest conscious score (0.44). 
+  
+ Then the researchers tested the index with 20 people who had suffered different types of brain damage. Those who were believed to be in a vegetative state—awake but completely unconscious—got very low scores (between 0.19 to 0.31). Subjects who had emerged from a coma had varying degrees of awareness and intermediate scores. Two of the patients had a condition known as locked-in syndrome: Their cognitive abilities were normal, but they were unable to move. These patients, who could communicate by shifting their eyes, received PCI scores of 0.51 and 0.62—as high as the waking, healthy subjects. Without requiring any active participation from subjects, this index can reliably place them on a continuum between conscious and unconscious, the team concludes. 
+  
+ “This is a very well-conceived approach,” says Joseph Giacino, a neuropsychologist at Spaulding Rehabilitation Hospital in Boston. “It’s based on what we understand the nature of consciousness to be … to the extent that we can understand it at this point.” 
+  
+ Seth calls the work “a substantial contribution to the state of the art.” The attempt to set a threshold for consciousness with our limited definition is much like early attempts to establish freezing and boiling points without a thermometer or a good definition of temperature, he says. PCI is the most reliable test to date, and is “a first step” toward an absolute scale for consciousness, Seth says. 
+  
+ Giacino points out that there are still gray areas on the PCI scale. There was some overlap between the range of scores for patients considered to be in a “minimally conscious state,” showing intermittent signs of awareness, such as following simple movement commands, and those who had emerged from this state but were still disoriented and had limited communication. He says this distinction is important when doctors decide whether trying simple communication methods, such as indicating “yes” and “no” with the eyes, will be worthwhile or simply overwhelm the patient. Still, if the results can be replicated in a larger group, Giacino predicts the test could be a vast improvement over current tools for locating consciousness in the midst of damage. |||||

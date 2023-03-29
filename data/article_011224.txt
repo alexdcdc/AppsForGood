@@ -1,0 +1,29 @@
+The accounts appear to be controlled by bots - automated software - that uses a variety of names and photos.
+They respond to users' greetings and then engage in a brief conversation before recommending the app and providing a download link.
+Tinder told Techcrunch news site it was taking steps to remove the accounts.
+But one security expert said it would be difficult for the firm to stamp out such abuse of its service.
+Internet Gaming Gate (Igg), the China-based company that publishes the game, said it had taken action to address the problem after discovering the culprit was an advertising publisher registered in the English town of Farnham
+"Using the information provided in the [Techcrunch] article, we were able to trace the source of the spam bots and narrow [it] down to a few advertising providers within an hour, and firmly requested that all such campaigns be stopped immediately," said spokesman Deyang Zheng.
+"Igg strives to deliver fun, quality experiences to our players with fairness and utmost professionalism, and we are angered by the unfair and unethical conduct of the individual who was behind this selfish act. Our sincere apologies go to the Tinder users who were affected."
+Tinder is a free-to-use smartphone app that has seen rapid growth since it launched 18 months ago.
+People sign up by giving the app permission to access their Facebook account, from which Tinder obtains pictures and information about their interests.
+Members then select profiles they find attractive. If two people pick each other they can begin messaging each other.
+At the end of February Tinder's founder, Sean Read, said that the service was generating about 10 million such introductions each day, and that each active user was logging in about seven times over the 24-hour period.
+This highly engaged user-base presents a tempting target to spammers who now struggle to avoid email junk folders.
+"Spam is becoming a lot more sophisticated, and to be effective it has to be targeted," explained Alan Woodward, an independent security consultant.
+"Whittling the process down to writing a unique message for each user would be impractical, so what they try and do is target communities of like-minded people.
+"People looking for love is a classic example of such a group. There's already a lot of scams and spam targeting people on dating websites, and this is a natural extension of that."
+Screenshots posted to Twitter indicate that the conversation used by the bots follows the same pattern.
+After the Tinder member contacts the fake account the software initially says "hey :)".
+It then asks what the user is doing and replies to the response saying: "I'm still recovering from last night :) Relaxing with a game on my phone, castle clash. Have you heard about it?"
+Whatever reply the user provides, it prompts the bot to send them a link with an address beginning www.tinderverified.com/ - which appears to be an attempt to make the URL appear trustworthy.
+The bot then ends the conversation by saying, "play with me a bit and you just might get a phone number".
+David Short, from Raleigh, North Carolina, said he had been repeatedly targeted.
+"The Castle Clash bots are beyond annoying, giving you false hope of a potential match," he told the BBC.
+"It's happened three or four times since I've started, and has me second-guessing girls that are 'too attractive'. At this point, I'm pretty addicted to Tinder, but if they start popping up more and more, it may deter me from using it on a regular basis. "
+This is not the first time bots have been used to fool Tinder users.
+Last year cybersecurity firm Symantec highlighted how fake accounts were attempting to convince members to reveal their credit card details.
+Tinder lets matched users to block each other, allowing affected accounts to break contact with the bots. But Mr Woodward noted that this would not prevent the victims from being targeted again.
+"If anybody can sign up anonymously it's impossible to prevent this," he said.
+"Tinder is trying to outsource trust to Facebook, but it's just as easy to sign up to the social network with fake details as anything else."
+Facebook reported in February that it believed between 4.92 million and 14.76 million of its accounts were "undesirable" fakes created for spam or other purposes that violated its terms of service.

@@ -1,0 +1,79 @@
+
+  
+ Center for Genetics and Society Calls on 23andMe to Disavow “Designer Babies”: Controversial New Patent Raises Critical Questions 
+  
+  
+  
+ [Press statement] 
+  
+  
+  
+ The direct-to-consumer genetic testing company 23andMe has just been awarded a patent for “gamete donor selection based on genetic calculations.” The Center for Genetics and Society, a public interest organization, is calling on the company to abstain from developing or offering any product or service based on this patent, and to use its patent to prevent others from doing so. “It would be highly irresponsible for 23andMe or anyone else to offer a product or service based on this patent,” said Marcy Darnovsky, PhD, Executive Director of the Center for Genetics and Society. “It amounts to shopping for designer donors in an effort to produce designer babies. We believe the patent office made a serious mistake in allowing a patent that includes drop-down menus from which to choose a future child’s traits.” The “gamete donor selection” patent, which was granted by the United States Patent and Trademark Office on September 24, covers computer and genetic algorithms and methods that would purportedly identify prospective egg or sperm providers who would increase the likelihood of producing a baby with pre-selected traits. 23andMe now claims to have changed its mind since filing the application in 2009, and has said it has “no plans” to implement it. "23andMe can demonstrate that it's serious about acting responsibly on this matter by announcing that it will use the patent it now holds to prevent any other parties from adopting this technology," said Darnovsky. According to the patent application, would-be parents could specify “phenotypes of interest in the hypothetical offspring,” and receive a report on the probabilities that using gametes from various providers would produce those traits. The traits mentioned in the patent include both risks of inherited diseases and traits such as height, weight, “muscle performance,” eye color, gender and “personality characteristics.” “Predicting the risk of most common diseases for an existing person has fallen far short of gene testing hype,” Darnovsky said. “Probabilistic estimates of a hypothetical child’s risks are even more scientifically dubious. Increasingly, scientists acknowledge that for many disease and non-disease traits, we don’t now know and may never find the so-called missing heritability.” “But a project like this would also be ethically and socially treacherous,” Darnovsky continued. “Would the company ensure that providers of sperm or eggs have given their consent to genetic testing? Would these people be informed of the findings? And what about 23andMe customers whose DNA was used to come up with the algorithms? They signed contracts that allowed the company to use their genetic data for research, but not to find `designer donors.’” The larger societal concerns are extremely troubling, Darnovsky said. “This project could foster the false belief that biology trumps social, economic and environmental conditions in influencing our health and well-being. And it could encourage the dangerous idea that science should be used to breed `better’ people, breathing new life into the specter of eugenics that has long hung over the field of genetics.” # # # The Center for Genetics and Society (CGS) is a non-profit public affairs and policy advocacy organization working to encourage responsible uses and effective societal governance of human genetic and reproductive biotechnologies. ||||| A patent secured by California-based 23andMe gives the company the rights to match the genetic profile of would-be parents with donor sperm and eggs. WSJ's Gautam Naik explains. Photo: Getty Images. 
+  
+ A personal-genomics company in California has been awarded a broad U.S. patent for a technique that could be used in a fertility clinic to create babies with selected traits, as the frontiers of genetic enhancement continue to advance. 
+  
+ The patented process from 23andMe, whose main business is collecting DNA from customers and analyzing it to provide information about health and ancestry, could be employed to match the genetic profile of a would-be parent to that of donor sperm or eggs. In theory, this could lead to the advent of "designer babies," a controversial idea where genes would be selected to boost the chances of a child having certain physical attributes, such as a particular eye or hair color. 
+  
+ The technique potentially could also be used to create healthier babies, by screening out donors with genes that are predisposed to disease, either on their own, or in combination with the recipient's genes. 
+  
+ The awarding of the patent "is a massive addition to what is currently being done" in fertility clinics, said Sigrid Sterckx of the Bioethics Institute Ghent in Belgium, who co-wrote a commentary on the 23andMe patent in the journal Genetics in Medicine on Thursday. "It indicates a different attitude, not just about disease-related traits, but nondisease traits." 
+  
+ 23andMe, based in Mountain View, Calif., says that while its new patent encompasses trait selection in babies, through a tool called the Family Traits Inheritance Calculator, it has no plans to apply it to that end. Instead, 23andMe said, the tool offers customers "a fun way to look at such things as what eye color their child might have or if their child will be able to perceive bitter taste or be lactose tolerant." 
+  
+ A spokeswoman for 23andMe, Catherine Afarian, said in an emailed response: "When the patent was first filed nearly five years ago, there was some thinking that this feature could have potential applications for fertility clinics where the donor selection process was typically based on photos, family history, and some limited genetic testing of donors—much of this has evolved in the past five years." But 23andMe "never pursued the idea and has no plans to do so," she said. 23andMe was co-founded in 2006 by Anne Wojcicki, who recently separated from her husband, Sergey Brin, co-founder of Google Inc. 
+  
+ The prospect of real designer babies—where it would be possible to reliably choose cosmetic traits such as complexion and hair color or even physical characteristics such as athleticism—remains a distant one. But that day may be drawing closer, thanks to advances in genetic technology. 
+  
+ Some people say it is unethical to bioengineer children because better-off parents could use it to give their children a competitive edge, widening societal divisions. Others worry about the "slippery slope" consequences: while it may relatively be harmless to choose a child's hair or eye color, what if genetic breakthroughs allowed parents to enhance a child's intelligence or athletic ability? But others say there is nothing wrong with genetic enhancement; parents, they argue, should be free to endow their kids with the best start in life. 
+  
+ One potential approach, unrelated to 23andMe's patent, is known as pre-implantation genetic diagnosis, or PGD. It typically entails testing a three-day-old embryo, consisting of about six cells, to see if it carries a particular genetic disease. Only embryos free of that disease are implanted in the mother's womb, to ensure the disease isn't passed on. 
+  
+ However, some U.S. clinics have been using PGD not just to root out unwanted diseases, but also to allow customers to choose the gender of their child. That, some argue, is a step toward designer babies. 
+  
+ In principle, PGD could also be used to weed out—or specifically choose—physical traits such as eye or hair color, which are governed by relatively few genes. It will be much harder to select for other traits, such as height, athleticism or intelligence, because they are governed by multiple genetic factors as well as environmental effects. 
+  
+ 23andMe's patent describes a different technique. It explains how a patient would first specify certain traits that he or she wants in a child. Based on the patient's own genetic profile, a computerized system then "performs inheritance calculations pertaining to the [traits] of interest and identifies one or more preferred donors for the recipient," the patent states. 
+  
+ A chart accompanying the patent describes the outlines of such a system, whereby the recipient can choose a child with a low risk of colorectal cancer, say, along with a high probability of green eyes. For this to work, the genetic profiles of both recipient and donor (the provider of sperm or eggs) would have to be known. It isn't clear whether any fertility clinic today asks donors for a genetic profile. 
+  
+ "Test tube babies were seen as an abomination [initially] but today they are routine and boring," said Jacob Sherkow, an expert on biotechnology patents at Stanford University's law school. In the same way, he added, 23andMe's patent "is a shot across the bow—a signal to the world that this is what the future is going to look like." 
+  
+ Write to Gautam Naik at gautam.naik@wsj.com 
+  
+ A version of this article appeared October 4, 2013, on page A3 in the U.S. edition of The Wall Street Journal, with the headline: New Advance Toward 'Designer Babies'. ||||| What’s even more repulsive than the idea of using DNA tests to help people create a designer babies? Getting a patent for the idea. 
+  
+ 23andMe, the pioneering direct-to-consumer genetic testing company, was awarded such a patent in September. U.S. Patent #8,543,339 is titled “Gamete donor selection based on genetic calculations,” and among the inventions it claims is the idea of using genetic tests and computer programs to predict the likely traits of a baby based on the DNA of its parents. 
+  
+ Needless to say, this patent does not sit well with bioethicists. In a commentary published Thursday in the journal Genetics in Medicine, a group of bioethicists in Europe describes another scenario covered by the patent: prospective parents seeking egg and sperm donors with specific DNA variants to maximize their chance of having a child who will grow to a specific height, or develop the slow-twitch muscles that make someone a better endurance athlete, or have certain personality characteristics. Some traits, such as gender and eye color, could be chosen pretty reliably. 
+  
+ “Selecting children in ways such as those patented by 23andMe is hugely ethically controversial,” the bioethicists wrote. (They did give the company credit for not offering “a cast-iron, fool-proof method guaranteeing that the eventual child will have all the phenotypic traits on the parents’ shopping list, an impossible task.”) 
+  
+ The Center for Genetics and Society, a bioethics think tank based in Berkeley, has called on 23andMe “to abstain from developing or offering any product or service based on this patent, and to use its patent to prevent others from doing so.” 
+  
+ “We believe the patent office made a serious mistake in allowing a patent that includes drop-down menus from which to choose a future child’s traits,” Marcy Darnovsky, the center’s executive director, said in a statement. 
+  
+ Any such system would be “ethically and socially treacherous,” she said. “It could encourage the dangerous idea that science should be used to breed ‘better’ people, breathing new life into the specter of eugenics that has long hung over the field of genetics.” 
+  
+ For its part, 23andMe says it has no plans to offer the sort of designer-baby service that critics are worried about. Speaking on the company’s behalf, blogger “ScottH” wrote that the Mountain View, Calif., company intended to patent the technology behind its Family Traits Inheritance Calculator, which “is used by our customers as a fun way to look at such things as what eye color their child might have or if their child will be able to perceive bitter taste or be lactose intolerant.” 
+  
+ But five years ago, when the patent application was filed, the company thought “the technology could have potential applications for fertility clinics so language specific to the fertility treatment process was included in the patent,” ScottH wrote. As it turned out, the company never pursued that line of business, “nor do we have any plans to do so,” he wrote. 
+  
+ Even if 23andMe never brings a design-your-own-baby DNA test to market -- and even if it uses its patent to prevent anyone else from doing so -- the authors of the Genetics in Medicine report say it’s still troubling that the U.S. Patent and Trademark Office would award this patent in the first place. 
+  
+ “At no stage during the examination of the patent application did the patent office examiner question whether techniques for facilitating the ‘design’ of future human babies were appropriate subject matter for a patent,” they wrote. 
+  
+ In June, the U.S. Supreme Court ruled that individual genes were products of nature, not inventions, and thus could not be patented by companies. The case involved Myriad Genetics, which co-developed a test that is used to see whether people have particular mutations in their DNA that are known to influence the risk of breast, ovarian and other cancers. 
+  
+ The Supreme Court’s opinion in Assn. of Molecular Pathology vs. Myriad Genetics, Inc. was unanimous. 
+  
+ If you’re interested in the ways genetics is changing the way we live, you’re interested in the things I write about. Follow me on Twitter and "like" Los Angeles Times Science & Health on Facebook. 
+  
+ ALSO: 
+  
+ Infertile woman has baby through IVA: A first for mom and medicine 
+  
+ Twin birth can be perfectly safe without a planned C-section 
+  
+ Month of conception can affect child's health at birth 
+  
+ Return to Science Now. |||||

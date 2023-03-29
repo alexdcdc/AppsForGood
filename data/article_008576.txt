@@ -1,0 +1,18 @@
+They used it to scan the blood vessels throughout the brain of a live rat.
+Within a few years, the researchers say their system could reach the clinic and help with cancer and stroke diagnosis.
+For the procedure, published in Nature, the rat was injected with millions of very tiny bubbles, which reflect sound waves much better than blood vessels.
+"Ultrasound propagates easily in water - or in our organs, because almost 90% of our soft tissue is water," explained the study's senior author, Mickael Tanter, from the Institut Langevin in Paris.
+"But as soon as it hits a very small microbubble of gas, there's a big reflection. It's a very good scatterer of ultrasound."
+This is what makes these bubbles, which are already used for some scans in humans, a "contrast agent" for ultrasound.
+But the key to getting a sharp, super-resolution image - unlike conventional ultrasound, which is limited to capturing objects at millimetre scales - was to scan at a very high frame-rate.
+Instead of spending a long time acquiring a single, beautifully detailed image, the team snapped more than 500 coarse images every second and then compared them. The system they have built is able to compile those thousands of images and create a single, high-resolution view by looking at the differences between them - caused as the bubbles move around.
+"We found a way to separate these bubbles by using ultrafast imaging," Prof Tanter told the BBC.
+"If you take ultrafast images of the bubble cloud, and then you take one and you subtract the previous one, you see all the bubbles individually, time after time."
+In two-and-a-half minutes he and his colleagues acquired enough images (75,000 to be precise) to compile a 3D view of the rat's brain with pixels just 10 micrometres (0.01mm) in size.
+"It makes a very, very nice map of the brain vasculature... even down to 2cm deep. You can see the whole brain, with microscopic resolution," Prof Tanter said.
+Within a few years, he added, the system could be used by doctors. The team is already beginning clinical experiments - beginning with liver scans.
+Mengxing Tang, a biomedical engineer at Imperial College London, agreed that the technique has a lot of promise and described the new study as "very commendable".
+With colleagues from King's College London, Dr Tang is also working on super-resolution ultrasound. He said that between his team and Prof Tanter's, plus a third group working in Germany, hopes are high for relatively rapid progress.
+"The significant step in this study is to take the technology and to further improve it, and to demonstrate that it can be done in 3D," Dr Tang told BBC News.
+"This technique is highly translatable, so I would imagine that with the right resources and support, it could go into the clinic in the next few years."
+Follow Jonathan on Twitter

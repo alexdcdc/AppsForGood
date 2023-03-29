@@ -1,0 +1,151 @@
+It may take a giant scandal to make Bitcoin respectable. 
+  
+  
+  
+ Bitcoins, the esoteric digital currency that enthusiasts believe will one day take over the world, may one day be used everywhere from supermarkets to 401k retirement plans, but right now it is in a temporary shambles. Bitcoins are traded by digitally savvy geeks on several exchanges, the same way that Wall Street traders use exchanges to make bets on the US dollar and the Japanese yen. Today, Bitcoin’s biggest and most important exchange, known as Mt Gox, suddenly just disappeared. 
+  
+  
+  
+ The scandal is this: 774,000 bitcoins – worth $409m and a decent outstanding percentage of all bitcoins in existence – are missing. There are no clues as to where they might be. Bankruptcy looms. Bitcoin advocates are turning their backs on the currency as it falls into disgrace. Investigations cannot be far off. 
+  
+ The whole debacle is one of the biggest scandals to happen in the bitcoin world, which knows scandal could create a “disastrous spiral of disbelief”, in the words of Henry Farrell. This could mark the end of bitcoins as we know it – which is great news, because bitcoins as we know it were doomed. 
+  
+  
+  
+ Bitcoin was born in disgrace, in the internet’s back rooms, invented as the favored currency of people who didn’t trust the government and often wanted to make transactions that the law would prohibit. Bitcoin was exceedingly popular with online drug dealers, who favored a now-defunct black market known as Silk Road, which was in turn run by a shadowy young hacker who called himself the Dread Pirate Roberts. 
+  
+ It’s the stuff of thrillers, and it will probably be a great movie one day, but all that back-alley hacker drama was keeping Bitcoin mostly as a punchline instead of a serious currency. Mt Gox, for instance, started as a trading venue for enthusiastic nerds who loved fantasy games; its name, Mt Gox, stands for Magic the Gathering Online Exchange, where users traded cards for the game, giving bitcoins a place in the fringe-culture Venn diagram between Dungeons & Dragons and Renaissance faires. Fun stuff, but not really the stuff of mainstream legitimacy. 
+  
+  
+  
+ The entrance of the bionic Winklevoss brothers – Mark Zuckerberg’s arrogant nemeses – as they accumulated 1% of all the bitcoins in existence only added to the circuslike atmsophere. Then the government cracked down on Mt Gox, seizing $5m from its coffers. 
+  
+ All of this added up to one thing: Bitcoin, for all the hype about its future as the next big digital currency, was operating in an amateur-hour ecosystem of wannabes. It was as relevant to society as the old, forgotten Harlem Shake meme of last year. And Bitcoin’s perceived appeal to criminals kept it from going further. In hearings in Washington in November, regulators couldn’t think of many things they hated about Bitcoin except its past connections to the unethical: druggies, dictators and money launderers. 
+  
+ Then the first cord was cut between Bitcoin and its past: Silk Road collapsed. Look what happened afterward: bitcoins have been winning more and more influence. 
+  
+ After Silk Road, bitcoins’ price may have suffered briefly, but its reputation soared. Bitcoin has slowly become more accepted as a currency, from dating site OK Cupid to car company Tesla. If you’re a consumer, you’ve probably seen jokey invitations to use bitcoins instead of money scattered all around the web. California and New York even have bitcoin ATMs. 
+  
+ Big-name supporters popped up. From the beehive of Silicon Valley wunderkinder, venture capitalist Marc Andreessen took to tweeting pro-bitcoin pronouncements with the tireless persusasive conviction of Cicero addressing the Roman senate. 
+  
+  
+  
+ Larry Summers, a former Treasury secretary, even came out this week as a supporter of bitcoins, particularly to spur some activity from the underachieving financial system we have in place. 
+  
+  
+  
+ This is why Mt Gox’s collapse is a boon for bitcoins. It clears out another attic full of ethical cobwebs from Bitcoin’s past. There are plenty of other bitcoin exchanges – who declined to bail out Mt Gox, according to Tim Fernholz at Quartz. The powerful Second Market, a regulated exchange, is now ready to create a standalone bitcoin business. Second Market’s move is a major one; the company has hurdled financial regulators in the past and acts as a bridge to the Silicon Valley community, with which it already has strong relationships. 
+  
+ To function as a currency, bitcoins need one thing: legitimacy. The further it gets away from its shady, fantasy-currency roots, the closer it will get to practical reality. Bitcoin has been a lively theoretical playground for wonks and nerds. Once it becomes powerful, it will become interesting to consumers. And that’s the real test of a currency. 
+  
+  ||||| itcoin just took a body blow. But even though the virtual currency is staggering, the punch Bitcoin just suffered will pay off in the long run. 
+  
+ Mt. Gox, originally known as Magic the Gathering Online Exchange, and now the industry leader in exchanging Bitcoins to normal currency, is offline — taking more than 700,000 Bitcoins, worth an estimated $409 million, with it. 
+  
+ This follows several days of weirdness for Mt. Gox, in which prices on the exchange were hundreds of dollars lower than in the rest of the market. This was largely due to limitations Mt. Gox had placed on withdrawals. Before its website and Twitter feed disappeared, Mt. Gox claimed that the limits on withdrawals were due to a "software issue." But rumors swirled that it was actually because the exchange was insolvent. Mt. Gox finally going offline will only strengthen these rumors. 
+  
+ (Related: Everything you need to know about the Bitcoin boom) 
+  
+ Of course, the risk of a Bitcoin exchange running off with your money is a risk that Bitcoin exchange users have chosen to take. Bitcoin deposits — unlike typical currency deposits at brick-and-mortar banks — are not insured by any government or regulatory authority. While Mt. Gox users can potentially sue Mt. Gox's owners to try and get their money back, there is hardly a guarantee that such a strategy will yield success. 
+  
+ The Bitcoin Foundation, in an open letter trying to reassure users of other exchanges that their funds are safe, notes: 
+  
+ Acting as a custodian should require a high-bar, including appropriate security safeguards that are independently audited and tested on a regular basis, adequate balance sheets and reserves as commercial entities, transparent and accountable customer disclosures, and clear policies to not use customer assets for proprietary trading or for margin loans in leveraged trading. [Coinbase] 
+  
+ Now, it remains to be seen whether independent oversight through industry bodies like The Bitcoin Foundation will be sufficient to reassure currency users, and to prevent further Bitcoin disappearances. Bitcoin has a very libertarian user base that is hostile to the idea of government oversight. This user base is also very decentralized, suggesting that at least for now, oversight for exchanges will have to come from the Bitcoin community and industry. 
+  
+ The libertarian dream is that untrustworthy, nontransparent exchanges that fail to provide customers with adequate security will be put out of business by the magic of the free market. The reality, however, may be that such busts and breakdowns would likely give Bitcoin so much negative publicity that potential new users would be driven away from Bitcoins (and away from virtual currency in general) altogether. 
+  
+ All that said: In the long run, Mt. Gox's death will be a good thing for Bitcoin. Multiple times in the last year — and especially back in the first half of 2013 — the Bitcoin market has been massively disrupted by trading problems on Mt. Gox. It has been extremely difficult for this online trading card exchange to scale up to a world-leading virtual currency exchange. It should be no surprise that other exchange operations run by companies with more experience in the financial industry have arisen to replace Mt. Gox. 
+  
+ Still, in the meantime, Bitcoin's value is falling, now below $500 for the first time since last year. There is no limit to how far the Bitcoin price could plummet — it came up from nothing and could conceivably go back there. However the belief in Bitcoin by the people in the Bitcoin community — which is the thing that has really fueled Bitcoin's meteoric rise — remains strong, and a decently long period of stability following Mt. Gox's shutdown will gradually reduce worries. This will be especially true if this episode forces the remaining exchanges into better security practices. ||||| The first thing to point out about the meltdown of the Mt. Gox Bitcoin exchange is that this is hardly the first time that massive amounts of currency have been stolen, or that a financial firm has shut down and left its depositors with basically nothing. This is not somehow unique to Bitcoin, or a fatal flaw in its design. 
+  
+ The second thing to point out about the meltdown of the Mt. Gox Bitcoin exchange is that no matter how much cheerleaders continue to insist that it doesn't matter, it does. It matters a lot. 
+  
+ Think of Bitcoin as a new product, one with a lot of network externalities. Fax machines are the classic example of this: The first fax machine wasn't much use to the person who owned it. The second fax machine, however, was useful -- if you wanted to transmit documents to the other guy who owned a machine. The more machines in offices around the world, the more useful they became. 
+  
+ Similarly, Bitcoin is useful as a store of value and a medium of exchange only if lots of other people believe that it is useful as a store of value and a medium of exchange. The more people think so, the more likely this new product is to succeed. 
+  
+ Bitcoin does not yet have enough users to continue its survival; unless more people start using it, it will go the way of laser discs and eight-track tapes. The reason Bitcoins are currently so pricey is that the people buying them believe that, eventually, a lot more people will want to use them, and their limited-edition currency will become even more expensive than it is now. 
+  
+ The Mt. Gox failure highlights some of the major drawbacks of Bitcoin. 
+  
+ The first is that, as with old-fashioned gold coins, thefts are nearly impossible to trace. In this respect, Bitcoins are inferior to plain old dollar bills, which at least have serial numbers that can be monitored and tracked. Of course, if you're trying to keep government eyes off your transactions, untraceable currency has its advantages. But most of us don't do transactions that the government much cares about, so the fear of theft outweighs the benefits of anonymity. 
+  
+ The second is that there is, as yet, no currency exchange like the ones we use for regular currency -- backed by large institutions that can be sued if things go wrong. Again, there are advantages to this for the underground economy. But for folks in the regular old economy, that's a problem. It's hard to get enthusiastic about saving in a system where hundreds of thousands of dollars can disappear overnight, leaving you with no recourse. Not every Bitcoin exchange is Mt. Gox. But for ordinary folks, it can be hard to tell the difference, which is going to make them a little jittery about buying Bitcoins. 
+  
+ The third is that a fledgling currency, like any fledgling product, is very vulnerable to bad publicity. Obviously, the Mt. Gox meltdown is bad publicity, on top of a lot of other bad publicity. And even if it survives this particular mess, it's got a lot of other hurdles in front of it. 
+  
+ I've never been very bullish on Bitcoin, because ultimately, the better it performs at evading government surveillance of currency transactions (and government ability to manage debt loads via inflation), the harder those governments are going to try to shut it down. And it turns out that governments are very good at shutting down these sorts of … call them financial workarounds … because they can order the banks and payment networks that service the vast regular economy to refuse to take Bitcoins or take payments from companies that do take Bitcoins. What governments have done to online poker and offshore banking havens, they can do to Bitcoin vendors. 
+  
+ What happened at Mt. Gox only helps the government make its case for much tighter regulation of these networks. Which means that after yesterday's news, I am less bullish still. 
+  
+ QuickTake The Rise of Bitcoin 
+  
+ This column does not necessarily reflect the opinion of Bloomberg View's editorial board or Bloomberg LP, its owners and investors. 
+  
+ Megan McArdle writes about economics, business and public policy for Bloomberg View. Follow her on Twitter at @asymmetricinfo. ||||| Skip in Skip x Embed x Share The world’s largest Bitcoin exchange looks to have vanished. Bitcoin investors are asking 'Where is our money?' (USA TODAY, USA NOW) 
+  
+ The future of Bitcoin is being hotly debated in the wake of a huge online exchange site, but most say the cryptocurrency will move ahead. 
+  
+ Bitcoin tokens are seen in Sandy, Utah, on April 3, 2013. The website of the major Bitcoin exchange Mt. Gox went offline Feb. 25, 2014, amid reports it suffered a debilitating theft, a new setback for efforts to gain legitimacy for the virtual currency. (Photo: Rick Bowmer, AP) Story Highlights A new wrinkle in the case -- prosecutors eyeing Mt. Gox, 'Journal' says 
+  
+ An estimated 744,000 Bitcoins -- nearly $400 million -- believed lost by exchange closure 
+  
+ Incident may lead to increased government scrutiny of exchanges 
+  
+ Cryptocurrency experts around the globe are waging a furious back-and-forth battle to predict the future of Bitcoin — but the consensus is that the renegade currency will survive its first big setback just fine, even as a report comes that prosecutors are looking into a suddenly shuttered online exchange. 
+  
+ The collapse on Monday of Tokyo-based Mt. Gox, an online exchange site for Bitcoin, triggered seismic waves of anguish and anger across the Twitterverse and other online sites. An estimated 744,000 Bitcoins have been lost by Mt.Gox, valued at nearly $400 million. 
+  
+ Meanwhile, the Wall Street Journal, citing an unnamed person familiar with the matter, reported Tuesday that federal prosecutors in New York issued a subpoena to Mt. Gox. Japanese officials said at a Wednesday news conference that they are looking into the matter. 
+  
+ The world is watching to see how the online currency rebounds. And while some warn of an end for Bitcoin, most experts say the Mt. Gox collapse will be a blip on the electronic currency's radar screen. 
+  
+ BITCOIN: What is it and how does it work? 
+  
+ "The Internet didn't die when the dot.com bubble popped," said Nate Pacer of Venture Scanner, a San Francisco firm that connects Bitcoin entrepreneurs with investors. "The Bitcoin protocol will definitely survive." 
+  
+ Peter Leeds, financial publisher, countered: "It's the beginning of its decline. ... It won't disappear, but it will be much less relevant." 
+  
+ Launched in 2009, Bitcoin is a decentralized digital currency that is traded mostly online and person to person rather than through banks. Started by programmers whose identities remain anonymous, the unregulated cybercurrency has been gaining popularity in the USA and slowly entering the mainstream. 
+  
+ Trading firm SecondMarket has announced plans for a U.S.-based Bitcoin fund that allows investors to invest in Bitcoin without having to buy the cryptocurrency directly. On Tuesday, SecondMarket announced it would start a regulated, U.S.-based exchange. A second fund — from Cameron and Tyler Winklevoss of Facebook fame — has been filed with the Securities and Exchange Commission, further legitimizing the currency. 
+  
+ The Winklevoss twins used the incident to call for U.S. regulation of Bitcoin exchanges. "We are strong believers in the future of Bitcoin as an asset class and we are optimistic about the wider opportunities for Bitcoin," they said in a statement. 
+  
+ Mt. Gox's spectacular crash this week underscores the risk involved in trading in an unregulated, unbacked currency, said Darren Hayes, assistant professor at Pace University's Seidenberg School of Computer Science and Information Systems in New York. Even if an agency investigates, there's no paper trail and traders are mostly anonymous, making it nearly impossible to recover the money, he said. 
+  
+ "This has been a tremendous blow to the confidence of those who believe in the currency," Hayes said. 
+  
+ Marc Andreessen, whose venture-capital firm Andreessen Horowitz has poured more than $20 million into Bitcoin-related start-ups such as Coinbase, compared Mt. Gox to brokerage firm MF Global, which filed for bankruptcy in 2011. 
+  
+ "This is like MF Global, not some huge breakdown of the underlying technology or other exchanges," Andreessen said in an e-mail reply posted on CNBC. "Bitcoin protocol is unchanged and other Bitcoin exchanges and companies are doing fine." 
+  
+ The dramatic series of events began Monday evening with an online post by Bitcoin entrepreneur and blogger Ryan Selkis — who goes by the online pseudonym "Two-Bit Idiot" — detailing the problems at Mt. Gox and warning of its collapse. By late Monday, Mt. Gox's website had gone blank and the company had removed all of its tweets from its Twitter account. 
+  
+ On Tuesday, the company posted a brief statement, saying a decision was made to "close all transactions for the time being." 
+  
+ Online forums ignited, as Mt. Gox users reacted to being locked out of hundreds of millions of dollars in investments. One Reddit message board titled "Gox horror story thread: How much did you lose?" had more than 1,600 comments, many posting about thousands of dollars in losses. "I am the biggest loser at 4700+ [Bitcoins]," one user wrote. Another posted: "I don't know how dying feels, but I'm pretty sure that's how I feel now." USA TODAY cannot verify information about Reddit users or their claims. 
+  
+ Other Reddit posts were more sympathetic. "Let me suggest that the lesson is not that Bitcoin is broken. Bitcoin is fine," posted Erik Voorhees, who runs the Bitcoin-sharing website Coinapult.com. "We are building a new financial order, and those of us building it, investing in it, and growing it, will pay the price of bringing it to the world. This is the harsh truth." 
+  
+ The issues at Mt. Gox had been brewing for years, as the online exchange struggled to keep its transactions secure, said Pacer, the Bitcoin venture capitalist. The problems mounted as more and more illicit transactions went through, ending with this week's closure, he said. 
+  
+ Though the closure was painful for the users who lost money, it won't stop Bitcoin's evolution, Pacer said. "Like any sort of start-up ecosystem, you're going to have some big successes and big failures," he said. "For people around here, this is almost business as usual." 
+  
+ Selkis, the entrepreneur and blogger who broke the story, said the event will likely lead to increased government scrutiny and alter the decentralized, free-spirited feel of Bitcoin today. But the currency will endure, he said. 
+  
+ "The underlying technology is something that cannot be un-invented," Selkis said in an interview with USA TODAY. "It's not going away." 
+  
+ Contributing: Natalie DiBlasio 
+  
+ Read or Share this story: http://usat.ly/1bK9Hf0 ||||| There's an interesting divergence right now. 
+  
+ The news media is filled with BITCOIN IS DOOMED articles in the wake of the collapse of the exchange Mt. Gox. 
+  
+ Meanwhile, the Bitcoin community is mostly saying: "Yeah, this is bad, but not devastating, and we'll be fine." 
+  
+ And the market so far is much more on the side of the Bitcoin community. 
+  
+ Here's a chart going back a couple of days. The entire Mt. Gox crash is basically totally erased. |||||

@@ -1,0 +1,35 @@
+Get to Know Pippa Middleton, Kate's Party Planning Maid of Honor 
+  
+ Email This One member of the Middleton family who seems to be relishing her moment in the spotlight is Pippa, Kate's younger sister. 
+  
+  
+  
+ The 27-year-old, who will serve as the chief maid of honor at her sister's wedding on Friday, had paparazzi clamoring for her snap at the engagement party of Richard Branson's daughter Holly last week in London -- and she happily obliged. She already looks like a seasoned pro preening in front of the cameras. 
+  
+  
+  
+ Pippa, which is short for Philippa, works as a party planner three days a week at a company called Table Talk and two days a week editing an online magazine called The Party Time, which is an off-shoot of her parents' successful party supply company, Party Pieces. One member of the Middleton family who seems to be relishing her moment in the spotlight is Pippa, Kate's younger sister.The 27-year-old, who will serve as the chief maid of honor at her sister's wedding on Friday, had paparazzi clamoring for her snap at the engagement party of Richard Branson's daughter Holly last week in London -- and she happily obliged. She already looks like a seasoned pro preening in front of the cameras.Pippa, which is short for Philippa, works as a party planner three days a week at a company called Table Talk and two days a week editing an online magazine called The Party Time, which is an off-shoot of her parents' successful party supply company, Party Pieces. 
+  
+ As of Monday, Party Times was encouraging customers to purchase bunting (streamers) for Royal Wedding Street parties but it was taken down after accusations of opportunism. She has given one interview to publicize the site but another one was canceled at the last minute. Apparently big sister Kate nixed it.She has taken the last two weeks off work to organize a post-nuptial bash for 300 at the Palace. Apparently she angered Royal officials by ordering in mirrored disco balls for the breakfast/disco event. According to the Daily Mail the Queen's minions were not overly impressed with transforming Buckingham Palace into a glittery 80's style nightclub but Prince William stepped in and overruled saying he wanted something different from the parties being thrown by his grand-mother which will be a formal champagne and canape reception immediately following the I-do's.While big sister Kate has been involved with Prince William for years, Pippa has quickly become one of England's most eligible bachelorettes. In 2008, Tatler magazine named her the number one society singleton. Last December she started dating city financier and former professional cricketer, Alex Loudon who is an old friend of Prince William's and will reportedly be Pippa's date for the big day.She is said to have honed her party planning skills as a student at the University of Edinburgh where she arranged after-dinner activities at posh house parties for other students who were 'bright young things,' i.e. either titled or wealthy.Currently living in a flat in Chelsea that her parents purchased with her brother James. Both of the Middleton siblings are not the shy and retiring type. Photos of Pippa clad in a dress constructed out of toilet paper and photos of little brother James clad in well, a dress circulated the web but have been discreetly pulled down in advance of their big sister's wedding day.Somehow we get the feeling we're going to be seeing lots more of Princess Kate's lil' sis. ||||| Web wide crawl with initial seedlist and crawler configuration from March 2011. This uses the new HQ software for distributed crawling by Kenji Nagahashi. 
+  
+ What’s in the data set: 
+  
+  
+  
+ Crawl start date: 09 March, 2011 
+  
+ Crawl end date: 23 December, 2011 
+  
+ Number of captures: 2,713,676,341 
+  
+ Number of unique URLs: 2,273,840,159 
+  
+ Number of hosts: 29,032,069 
+  
+ The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date. We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives. The scope of the crawl was not limited except for a few manually excluded sites. 
+  
+ However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it. For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them). We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed. 
+  
+ We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with. We have also done some further analysis of the content. 
+  
+ If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it. We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered. |||||

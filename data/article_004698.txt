@@ -1,0 +1,14 @@
+The company, which supplies 40% of the landlines in the UK, said more than 12 million of those were about accident claims.
+The figures were collected over seven days between 13 and 19 December.
+BT is now launching a new service for its customers which it says could block up to 30 million such nuisance calls a week.
+Called BT Call Protect, the system analyses call data to identify rogue numbers. Typically it will highlight phone numbers that make large numbers of calls.
+Those calls will then be automatically diverted into a junk voicemail box.
+The system will continue to  block such callers even if they change their number, a common tactic used by spammers.
+Customers will also be able to identify other nuisance callers, by dialling in the code 1572 after receiving such a call.
+Talk Talk introduced a similar central call blocking system for landlines three years ago, while Vodafone operates a system for mobiles.
+The Talk Talk system now blocks 92 million calls a month, a spokesperson told the BBC, double the amount it did a year ago.
+However the Minister for Digital and Culture, Matt Hancock, said he welcomed BT's new technology.
+"Nuisance callers are a terrible blight on society and government and industry are working together to crack down on them," he said.
+"We've forced companies to display their numbers when they call you, made it easier to prosecute those involved in making the calls, and increased the maximum fines up to Â£500,000."
+Earlier this month, the Information Commissioner's Office (ICO) said that more than 370 people were complaining about nuisance calls every day, and that half of those were about automated calls.
+Consumers can block some calls by registering with the Telephone Preference Service (TPS), but many firms get around the restrictions by basing themselves abroad.

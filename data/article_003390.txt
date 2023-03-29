@@ -1,0 +1,24 @@
+The satellite will be used by the US National Oceanic and Atmospheric Administration to monitor the Sun.
+It will provide warnings on hazardous outbursts from our star.
+The Sun can hurl vast clouds of charged particles and radiation towards Earth, disrupting a range of critical services from GPS to electricity distribution.
+"DSCOVR will serve as our 'tsunami buoy in space', if you will, giving forecasters up to an hour's warning on the arrival of the huge magnetic eruptions from the Sun that occasionally occur called Coronal Mass Ejections (CMEs)," explained Tom Berger, the director of Noaa's Space Weather Prediction Center in Boulder, Colorado.
+"CMEs are the cause of the largest geomagnetic storms at Earth, some of which can severely disrupt our technological society, causing loss of communications with aircraft, particularly those flying over the poles; damage to satellites in orbit; and even damage to power grid equipment on the ground."
+DSCOVR, operating from a point in space 1.5 million km nearer to our star, will succeed the capability provided by the Advanced Composition Explorer, or Ace satellite, for the past 17 years.
+The satellite's Falcon 9 rocket left the pad at Cape Canaveral at 18:03 local time (23:03 GMT) on Wednesday.  It was actually the third attempt at a lift-off. Problems with an Air Force tracking radar and poor weather conditions had previously forced the postponement of the flight.
+Ejection of DSCOVR from the Falcon's upper-stage occurred some 36 minutes later. It is now on a path to reach its operational station in 110 days.
+The satellite carried the name Triana when it was first envisaged by the US space agency (Nasa) in the late 1990s.
+Back then, its primary mission was going to be to look at the Earth from its distant position.
+Strong support at the time from Democratic Vice President Al Gore saw the satellite dubbed "GoreSat" in some quarters. He had wanted it to return a continuous video stream of the planet, in part for inspiration value.
+But Triana was cancelled when a Republican administration took over the White House, and the spacecraft was put in storage for much of the 2000s.
+In 2008, consideration was then given to reviving Triana, but refocusing its prime mission on looking at the Sun.
+Although it will no longer return the video stream, DSCOVR will still take full-face images of the Earth.
+Four to six of these pictures a day will be acquired and then posted on a publicly accessible website about a day later.
+"And I think it will be an inspiration for people to see the Sun-lit disc (of Earth)," said Steven Clarke from Nasa's science mission directorate. "I know it will be for me, and I know my children will be happy to see that kind of thing."
+Scientists will use DSCOVR's Earth observations to study ozone, clouds, and vegetation. The satellite will also help track the amount of solar energy falling on the planet versus the amount of energy it gives back to space - an important measure for understanding climate change.
+Mr Gore himself issued a statement immediately on spacecraft separation. He said: "DSCOVR has embarked on its mission to further our understanding of Earth and enable citizens and scientists alike to better understand the reality of the climate crisis and envision its solutions.  DSCOVR will also give us a wonderful opportunity to see the beauty and fragility of our planet, and in doing so remind us of the duty to protect our only home."
+In addition to launching DSCOVR, the SpaceX company intended to use Wednesday's flight to test once again the technology for recovering the first-stage - or lower segment - of its Falcon rocket.
+The idea is to re-light the engines on the booster after its ascent and separation, and then fly it back under control to land on a floating robotic platform in the Atlantic.
+In the previous experiment in January, the stage successfully found the platform but exploded on impact. Wednesday's mission had to abandon the drone landing because of a big swell, but engineers still used the occasion to bring the booster to a hovering stop over the water where the automated vessel would have been.
+SpaceX CEO, Elon Musk, later tweeted: "Rocket soft landed in the ocean within 10m of target & nicely vertical! High probability of good droneship landing in non-stormy weather."
+The rocket company says that if it can recycle its rockets, it should be able to offer lower prices for launches.
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos

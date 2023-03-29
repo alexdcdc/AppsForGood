@@ -1,0 +1,24 @@
+In a study,  
+          published in Nature
+, they prevented brain cells dying in mice with prion disease.
+It is hoped the same method for preventing brain cell death could apply in other diseases.
+The findings are at an early stage, but have been heralded as "fascinating".
+Many neuro-degenerative diseases result in the build-up of proteins which are not put together correctly - known as misfolded proteins. This happens in Alzheimer's, Parkinson's and Huntington's as well as in prion diseases, such as the human form of mad cow disease.
+Researchers at the University of Leicester uncovered how the build-up of proteins in mice with prion disease resulted in brain cells dying.
+They showed that as misfolded protein levels rise in the brain, cells respond by trying to shut down the production of all new proteins.
+It is the same trick cells use when infected with a virus. Stopping production of proteins stops the virus spreading. However, shutting down the factory for a long period of time ends up killing the brain cells as they do not produce the proteins they actually need to function.
+The team at the Medical Research Council laboratory in Leicester then tried to manipulate the switch which turned the protein factory off. When they prevented cells from shutting down, they prevented the brain dying. The mice then lived significantly longer.
+Each neuro-degenerative disease results in a unique set of misfolded proteins being produced, which are then thought to lead to brain cells dying.
+Prof Giovanna Mallucci told the BBC: "The novelty here is we're just targeting the protein shut-down, we're ignoring the prion protein and that's what makes it potentially relevant across the board."
+The idea, which has not yet been tested, is that if preventing the shut down protects the brain in prion disease - it might work in all diseases that have misfolded proteins.
+Prof Mallucci added: "What it gives you is an appealing concept that one pathway and therefore one treatment could have benefits across a range of disorders.
+"But the idea is in its early stages. We would really need to confirm this concept in other diseases."
+The study has been broadly welcomed by other scientists although many point out that the research is in its infancy.
+Professor of Molecular Neurobiology at King's College London, Roger Morris, said it was a "breakthrough in understanding what kills neurons".
+He added: "There are good reasons for believing this response, identified with prion disease, applies also to Alzheimer's and other neuro-degenerative diseases.
+"And because it is such a general response, we already have some drugs that inhibit this response."
+Prof Andy Randall, from the University of Bristol, said: "This is a fascinating piece of work.
+"It will be interesting to see if similar processes occur in some of the common diseases with such deposits, for example Alzheimer's and Parkinson's disease.
+"Furthermore, if this is the case, can modulating this same pathway be a route to new therapeutic approaches in these more prevalent conditions that afflict many millions of sufferers around the world? Ultimately only more research will tell us this."
+Dr Eric Karran, the director of research at Alzheimer's Research UK, said: "The findings present the appealing concept that one treatment could have benefits for a range of different diseases; however the idea is in its early stages.
+"The research focuses on the effects of the prion protein and we would need to see the same results confirmed in Alzheimer's and Parkinson's to really strengthen the evidence."

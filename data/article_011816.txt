@@ -1,0 +1,24 @@
+The firm adds that the "multi jet fusion" technology it has developed means its machines can build "superior quality" prototypes.
+One expert said the innovation had the potential to be "revolutionary".
+But, at present, HP's machines only print in one colour and one material, which will limit their appeal.
+The company is hoping to challenge Stratasys and 3D Systems - the two leaders in the 3D-printing industry.
+"HP's printers can produce really high-resolution parts at a cost and a speed that blows the competition out of the water," commented Joe Kempton, an analyst at the tech consultancy Canalys.
+"Its technology really is a huge step forward and a game-changer.
+"What its competitors have, at the moment, is a wider range of materials and the ability to print in multi-colour. But in the long term, HP should be able to close that gap."
+Unlike many high-end 3D printers, HP's technology does not use a laser to administer its print material.
+Instead, it lays down a thin layer of powder before using a thermal "inkjet" array to introduce an added chemical agent that fuses the material together.
+This is repeated layer-by-layer until the object is complete.
+The company says its machines can target 340 million points - called volumetric pixels (voxels) - every second.
+The caveat is that its first printers to use the tech can only produce goods made from a monochrome thermoplastic.
+Competing machines can build models out of metals, various types of plastics, waxes and other materials - sometimes combining different elements together - as well as different colours.
+HP's entry-level model is the Jet Fusion 3D 3200, which is about the same size as a washing machine.
+It will cost $130,000 (Â£89,750) when it is released next year. The firm is pitching it as a way to make prototypes.
+Its higher-end Jet Fusion 3D 4200 - whose price has not yet been announced - is targeted at customers who also want to be able to turn around "same-day" small-scale production runs.
+HP's head of imaging and printing Stephen Nigro told the BBC his company wanted to "move 3D printing from prototyping to production".
+He added that future printers would also be able to make ceramic-based objects and multi-coloured items.
+Demand for 3D printers is growing but they remain a relatively niche product category.
+About 245,000 models were sold in 2015, according to the research firm Gartner.
+It forecasts the number will grow to 5.6 million in 2019, although much of that growth will be driven by models costing $2,500 or less.
+HP announced it was going to enter the 3D-printing market in 2014, but said it did not want to release a product until it had a "significant" market advantage.
+"Competitors have had a significant amount of time to try and adapt and advance their own research," said Mr Kempton.
+"However, at the moment there's nothing on the market that is comparable in terms of speed and cost to HP's printers".

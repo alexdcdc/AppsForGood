@@ -9,16 +9,20 @@ def removeSource(title):
     return title[:lastDash - 1]
 
 def getUSHeadlines():
-    params = {"apiKey": "544e968c75464718852ae9cf280729af",
-            "country": "us", #possible to search by source in params
-            "pageSize": 100
+    params = {
+                "apiKey": "544e968c75464718852ae9cf280729af",
+                "language" : "en", #possible to search by source in params
+                "from" : "2023-03-26",
+                "domains" : "nbcnews.com"
             }
-    url = " https://newsapi.org/v2/top-headlines"
+    url = " https://newsapi.org/v2/everything"
 
     response = requests.get(url = url, params = params).json()
 
+    print(response)
+
     if response["status"] == "ok":
-        return [removeSource(article["title"]) for article in response["articles"]]
+        return [article["description"] for article in response["articles"]]
 
     else:
         return None

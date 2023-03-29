@@ -1,0 +1,81 @@
+An embyronic shark whose head has been dyed to show genetic expression of the electrosensory organs. 
+  
+ The same genes that give sharks their sixth sense and allow them to detect electrical signals are also responsible for the development of head and facial features in humans, a new study suggests. 
+  
+ The finding supports the idea that the early sea creatures which eventually evolved into humans could also sense electricity before they emerged onto land. 
+  
+ The study, led by Martin Cohn and his lab at the University of Florida, is detailed in the current issue of the journal Evolution & Development. 
+  
+ Sixth sense 
+  
+ Sharks have a network of special cells that can detect electricity, called electroreceptors, in their heads. They use them for hunting and navigation. 
+  
+ This sense is so developed that sharks can find fish hiding under sand by honing in on the weak electrical signals emitted by their twitching muscles. 
+  
+ The researchers examined embryos of the lesser spotted catshark. Using molecular tests, they found two independent genetic markers of neural crest cells in the sharks' electroreceptors. Neural crest cells are embryonic cells that pinch off early in development to form a variety of structures. In humans, these cells contribute to the formation of facial bones and teeth, among other things. 
+  
+ The finding suggests that neural crest cells migrate from the sharks' brains to various regions of the head, where they develop into electroreceptors. 
+  
+ Glenn Northcutt, a neuroscientist at the University of California, San Diego, who was not involved in the study, said the finding was interesting, but that more studies are needed before a direct link between neural crest cells and electroreceptors can be established. 
+  
+ "It still requires a definitive experiment, where the developing neural crest cells are marked with dye, the embryo develops and the dye clearly shows up in the electroreceptors," Northcutt said. 
+  
+ In the new study, the researchers found snippets of genetic material associated with neural crest cells in the electroreceptors. They did not dye the neural crest cells and trace their development. 
+  
+ Our electrical ancestors 
+  
+ Scientists think that all primitive animals with backbones, including the early ancestors of humans, could sense electricity. As they evolved, mammals, reptiles, birds and most fish lost the ability. Today, only sharks and a few other marine species, such as sturgeons and lampreys, can sense electricity. 
+  
+ "Our fishy ancestors had the anatomy for it," said study team member James Albert, a biologist from the University of Louisiana. 
+  
+ The ability to sense electrical signals is useful in aquatic environments because water is so conductive. On land, however, the sense is useless. 
+  
+ "Air doesn't conduct electricity as well," Albert said. "When it happens, it's called a lightning bolt and you don't need special receptors to sense it." 
+  
+ The development of the electroreceptors is believed to mirror the development of the lateral line, a sense organ in fish that allows them to detect motion in surrounding water. Similar processes are thought also to be involved in the development of the inner ear, the organs which help humans keep their balance. 
+  
+ The electroceptors are also believed to behind many sharks' ability to detect changes in the Earth's magnetic field. Other studies indicate that like sailors, sharks can also navigate by celestial cues. 
+  
+ Scientists think that these two abilities are what allow some sharks to swim straight lines across vast distances of featureless ocean. One recent study found that a great white shark, nicknamed Nicole, swam nearly 7,000 miles between South Africa and Australia in just under 100 days. ||||| A Great White Shark at the surface in New Zealand. (Photo: Lwp Kommunikáció/flickr) 
+  
+ Each summer, sharks get a bad rap, with the mere sight of a dorsal fin clearing entire beaches. Indeed, as the unprecedented seven shark attacks in the span of a few weeks off the coast of North Carolina have shown, sharks are ace killers, apex predators perfected for the hunt. They pick up on the scent of blood from miles away, their sleek, torpedo-like bodies and powerful jaws no match for the unsuspecting fish or seal. 
+  
+ And if that’s not frightening enough, it turns out that these killing machines also have a secret weapon—a sixth sense—that allows them to prey in murky waters or even complete darkness. 
+  
+ Sharks can sense electricity. All animals produce weak electric fields because ion concentrations inside their bodies differ from ion concentrations in the surrounding seawater. This difference produces a slight voltage, which sharks detect at close range—from about half a meter away—when going in for the kill. 
+  
+ “You’re like a battery,” says Stephen Kajiura, a Professor of Biological Sciences at Florida Atlantic University. “The best I can say is it’s like there’s an electric aura around any organism,” says Kajiura, “We don’t have an analogous sense.” 
+  
+ Sharks, always the superlative, are about 10,000 times more sensitive than any other animal with an electric sense, and much more sensitive than even our best measuring equipment. They can detect electric field gradients as small as a billionth of a volt across a distance of a centimeter, making them the best electrical sensors on the planet. 
+  
+ Close up of a tiger shark’s snout, showing the ampullae of Lorenzini pores. (Photo: Lwp Kommunikáció/flickr) 
+  
+ Such stealthy skills are why movies like Jaws, celebrating its 40th anniversary this year, are so terrifying–because they appear to show sharks that can track and outwit humans. But the more that scientists learn about the shark’s remarkable electrical sensitivity, the more it appears we may be able to harness this alien sense not only to protect ourselves from sharks, but also to protect sharks from ourselves. 
+  
+ In 1678, the Italian anatomist Stefano Lorenzini described a mysterious set of pores concentrated on a shark’s head. But it wasn’t until the late 1960s when a Dutch scientist, Adrianus Kalmijn, discovered that these pores sensed electricity. He connected two separate aquarium tanks with metal wires. In one tank was a fish, and in the other, a shark. 
+  
+ Kalmijn noticed that the shark began biting at the wires, which means the shark was responding to the fish’s electric field transmitted by the wires. This observation led him to conduct a series of experiments in 1971 in which he definitively demonstrated that sharks use the electrical sense, rather than odor or vision, to close in for the kill. Kalmijn’s experiments astonished the scientific community—the discovery of an entirely new sense isn’t common. “That’s like discovering vision for the first time,” Kajiura says. 
+  
+ Over the next few decades, scientists realized that the electric sense is common throughout the animal kingdom, at least in aquatic animals (air is a poor conductor of electricity, so the sense is less useful for terrestrial animals). Not only sharks but also stingrays and many other kinds of fish were shown to be electrosensitive. Just a few years ago, scientists learned that river dolphins could sense electricity, the first instance in placental mammals. Even the platypus, that evolutionary grab bag, has electroreceptors studding its bill. 
+  
+  
+  
+ Electroreceptors in a sharks head. (Photo: Public Domain/WikiCommons) 
+  
+ Some scientists believe that in the past electrosensitivity may have been even more widespread. “Most basal groups [of animals] have at least one electrosensitive member,” says Christine Bedore, a professor of biology at Georgia Southern University. “Evolutionarily, electrosensitivity is the primitive condition. Animals may have started out this way and then lost it.” 
+  
+ Humans produce electric fields too, but unlike fish, we are almost completely covered by very insulating skin. This means that our electric fields are mostly contained in our bodies. That said, if we open our mouths underwater, we would suddenly produce a detectable electric field because ions can leak across the mucous membranes lining our mouth and tongue. 
+  
+ “If a shark bites you,” Kajiura advises, “Don’t scream.” Of course, if a shark is already biting you, it’s a bit too late. 
+  
+ Now that we know about the shark’s electric sense, could we design an electrical repellant to protect divers? This idea has been toyed with since the sense was discovered several decades ago, but now there is a diving suit on the market, called SharkShield, supposedly with electrical properties that repel sharks. But shark attacks are so rare that such as suit wouldn’t be necessary unless you were diving in shark-infested waters. Then, Kajiura notes, “You’d have to wonder why you’re doing that in the first place.” 
+  
+ A great white feeds on a whale carcass in South Africa, with the ampullae visible. (Photo: Fallows, Gallagher, Hammerschlag/Wiki Commons/CC BY 2.5) 
+  
+ But electric repellants could work in the other direction, too—to protect sharks. Sharks are common by-catches of fishing equipment, so scientists are working on systems of magnets and metals that will repel sharks from nets and lines. This will deter sharks from eating the fisherman’s catch, and prevent sharks from getting caught in the equipment. 
+  
+ “This obscure sensory system might actually be used to simultaneously help fisherman and conserve shark populations,” says Kajiura. “That’s one reason why I study this esoteric topic.” 
+  
+ As one of the ocean’s top predators, sharks play a key role in marine ecosystems, yet their numbers in the wild are dwindling. Perhaps with a better understanding of their secret electric life, we can help save them rather than simply fear them. 
+  
+ Hammerhead sharks, whose electroreceptor pores are spread over a larger area. (Photo: Ryan Espanto/flickr) |||||

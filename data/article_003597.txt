@@ -1,0 +1,39 @@
+Web wide crawl with initial seedlist and crawler configuration from March 2011. This uses the new HQ software for distributed crawling by Kenji Nagahashi. 
+  
+ What’s in the data set: 
+  
+  
+  
+ Crawl start date: 09 March, 2011 
+  
+ Crawl end date: 23 December, 2011 
+  
+ Number of captures: 2,713,676,341 
+  
+ Number of unique URLs: 2,273,840,159 
+  
+ Number of hosts: 29,032,069 
+  
+ The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date. We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives. The scope of the crawl was not limited except for a few manually excluded sites. 
+  
+ However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it. For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them). We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed. 
+  
+ We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with. We have also done some further analysis of the content. 
+  
+ If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it. We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered. ||||| Pushing back school start times by just 30 minutes each day can improve alertness, mood and health in adolescents, according to a study published in JAMA's Archives of Pediatrics and Adolescent Medicine. 
+  
+ "Ranging from the amount of sleep they were getting, to self-reported sleepiness, to self-reported depressed mood to tardiness, the study demonstrates you can make a positive impact with relatively small change in start time, " said lead study author Dr. Judith A. Owens, director of the pediatric sleep disorder center at Hasbro Children’s Hospital in Providence, Rhode Island. 
+  
+ According to the National Sleep Foundation (NSF), most adolescents experience biological changes to their internal clocks during this transition from childhood to adulthood. Those changes often cause them to fall asleep later. When those young people must awake early for school, they don't get the 8.5 to 9.25 hours of sleep their bodies need. 
+  
+ In addition, a 2006 poll by the NSF found that nearly one-half of adolescents in America were getting less than eight hours of sleep, and many reported that they were aware they were getting less sleep than they needed to feel their best. 
+  
+ In the current study, researchers looked at just over 200 students in grades nine-12 at a private school. The students took a survey, both before and after the school start time was changed from 8 a.m. to 8:30 a.m. to find out about sleep-related problems and both sleep and wake behaviors. 
+  
+ Overall, the number of students who reported feeling unhappy, depressed, annoyed or irritated decreased. Also, fewer found themselves at the health center for fatigue-related concerns. 
+  
+ "If you really need nine hours, and you're only getting six and a half hours or seven hours, even that extra half-hour can make a big difference," Owens said. She says future studies should include looking at academic performance. 
+  
+ "There are a lot of schools around the country at least contemplating doing this. I think it would be very important for these schools to make an effort to systematically examine the impact- whether that's positive or negative, because we need to have the data to show to schools who are thinking about doing this, because it's not a trivial challenge from an operational standpoint. There are a lot of issues to be resolved. We need to have strong enough evidence that it has a positive beneficial effect in order to recommend this- that other schools do the same thing," she added. 
+  
+ Owens noted that the school in the study did not go back to their 8 a.m. start time, as originally intended. |||||

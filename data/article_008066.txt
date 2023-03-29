@@ -1,0 +1,91 @@
+Google 
+  
+ It looks like a rare misadventure of Google’s Larry Page era is about to come to an end. Google (GOOG) says it is selling its Motorola handset business to the Chinese computer maker Lenovo (992:HK) for around $2.91 billion. 
+  
+ In May 2012, Page, then the newly installed chief executive of Google, acquired the storied handset maker Motorola Mobility for $12.5 billion. The company appointed longtime executive Dennis Woodside to the helm of the new subsidiary and talked about using the new hardware arm to push the boundaries of its Android mobile operating system. 
+  
+ But there were two other factors behind the merger that are key to understanding why it unraveled. Google, like so many other companies, had Apple (AAPL) envy—and wanted to exert the same control over design and manufacturing as its Silicon Valley rival has over the iPhone. Google also wanted to get its hands on Motorola’s deep patent portfolio and to neutralize the threats Motorola was making against Google and other members of the Android world. 
+  
+ Google succeeded in avoiding an all-out Android legal apocalypse. But as a way to mimic Apple, acquiring Motorola was a failure. Phones such as the Moto X have not performed spectacularly; at the same time, Google’s ownership of Motorola irritated other handset makers, such as Samsung Electronics (005930:KS). 
+  
+ Page admitted as much in a blog post on the Google website and said the company was not abandoning its other hardware efforts. 
+  
+ “This move will enable Google to devote our energy to driving innovation across the Android ecosystem, for the benefit of smartphone users everywhere. As a side note, this does not signal a larger shift for our other hardware efforts. The dynamics and maturity of the wearable and home markets, for example, are very different from that of the mobile industry. We’re excited by the opportunities to build amazing new products for users within these emerging ecosystems.” 
+  
+ Chetan Sharma, a mobile analyst, said that Google wanted to relieve so-called channel conflict between Motorola and other big Android manufacturers, such as Samsung. “It didn’t make sense when they acquired them from a product point of view, and it was creating a lot of tensions in the ecosystem.” 
+  
+ Sharma added: “I think they very quickly realized they cannot compete on a global scale with Apple under the Google or Motorola brand.” 
+  
+ Meanwhile, Lenovo is rapidly expanding in the U.S., and in Motorola the Beijing-based company gets a valuable brand in the smartphone world. Page wrote: 
+  
+ “Lenovo has the expertise and track record to scale Motorola into a major player within the Android ecosystem. They have a lot of experience in hardware, and they have global reach. In addition, Lenovo intends to keep Motorola’s distinct brand identity—just as they did when they acquired ThinkPad from IBM (IBM) in 2005. Google will retain the vast majority of Motorola’s patents, which we will continue to use to defend the entire Android ecosystem.” ||||| Google just took to the wires and announced the sale of Motorola Mobility to Lenovo for $2.91 billion. TechCrunch obtained the following internal Google memo that outlines the reason for the sale and plan going forward. 
+  
+ Towards the end of the memo, Larry Page thanks the Motorola team and states the obvious that he is confident that Lenovo can drive the Motorola brand forward. 
+  
+ More as we get it. 
+  
+ CONFIDENTIAL – DO NOT FORWARD 
+  
+ Googlers, 
+  
+ We are just in the process of announcing the sale of Motorola to Lenovo for $2.91 billion. This is important news so I wanted to communicate directly with you. 
+  
+ We acquired Motorola in 2012 to help supercharge the Android ecosystem by creating a stronger patent portfolio for Google and great smartphones for users. Over the past nineteen months, Dennis Woodside and the Motorola team have done a tremendous job reinventing the company. They’ve focused on building a smaller number of great (and great value) smartphones that consumers love. Both the Moto G and the Moto X are doing really well and I’m very excited about the smartphone line-up for 2014. And on the intellectual property side, Motorola’s patents have helped create a level playing field, which is good news for all Android’s users and partners. 
+  
+ But the smartphone market is super competitive, and to thrive it helps to be all in when it comes to making mobile devices. It’s why we believe that Motorola will be better served by Lenovo–which has a rapidly growing smartphone business and is the largest (and fastest growing) PC manufacturer in the world. This move will enable Google to devote our energy to driving innovation across the Android ecosystem, for the benefit of smartphone users everywhere. As a side note, this does not signal a larger shift for our other hardware efforts. The dynamics and maturity of the wearable and home markets, for example, are very different from that of the mobile industry. We’re excited by the opportunities to build amazing new products for users within these emerging ecosystems. 
+  
+ Lenovo has the expertise and track record to scale Motorola into a major player within the Android ecosystem: they have a lot of experience in hardware and they have global reach. In addition, Lenovo intends to keep Motorola’s distinct brand identity–just as they did when they acquired ThinkPad from IBM in 2005. Google will retain the vast majority of Motorola’s patents, which we will continue to use to defend the entire Android ecosystem. 
+  
+ The deal has yet to be approved in the US or China and this usually takes time. So please don’t speculate about the impact of the deal either outside or inside Google, and direct any press inquiries to press@google.com. Until it closes it’s business as usual. But if you have any questions, please come to TGIF tomorrow (or add them to the dory). 
+  
+ Finally, a big thank you to the entire hard working Motorola team. I’d also like to thank Dennis for taking this on and also working really hard to make great products. I’m proud of everything the team at Motorola has achieved and confident that with Lenovo as a partner, Motorola will build more and more great products for people everywhere. ||||| Google is selling Motorola Mobility to Lenovo, giving the Chinese smartphone manufacturer a major presence in the US market. Lenovo will buy Motorola for $2.91 billion in a mixture of cash and stock. Google will retain ownership of the vast majority of Motorola's patents, while 2,000 patents and a license on the remaining patents will go to Lenovo. At the deal's closing, Lenovo will pay Google $660 million in cash and $750 million in stock, while the remaining $1.5 billion will be paid out over three years. 
+  
+ Lenovo CEO Yang Yuanqing said that although his company doesn't have "an effective plan yet," it has confidence that it can turn the currently unprofitable Motorola's fortunes around. Yang also stated that, within a year of the Motorola acquisition, Lenovo expected to sell 100 million smartphones worldwide. In 2013, Lenovo shipped an estimated 45 million smartphones, a 90 percent growth from the previous year. 
+  
+ Google believes Lenovo can turn Motorola into "a major player within the Android ecosystem." 
+  
+ "Lenovo has the expertise and track record to scale Motorola Mobility into a major player within the Android ecosystem," Google CEO Larry Page said in a statement. "This move will enable Google to devote our energy to driving innovation across the Android ecosystem, for the benefit of smartphone users everywhere." 
+  
+ Google initially bought Motorola Mobility for $12.5 billion back in 2012, but it said at the time that it was mainly interested in the company's patent portfolio. Now, Google is offloading its subsidiary's handset business, which has been losing hundreds of millions each quarter since the purchase. Google will hold on to Motorola's ambitious Advanced Technology and Projects group, however, and it previously sold off Motorola's set-top box unit for over $2 billion. 
+  
+ Though patents are a large part of what drew Google's interest to Motorola in the first place, those patents haven't been as helpful as Google initially hoped. Google seems to have highly overvalued Motorola's portfolio, which hasn't been able to bring in nearly as much in royalties as either company seemingly expected. It also hasn't been able to use those patents very aggressively, seeing them fail when used in an attempt to block sales of the iPhone. The entire ownership of Motorola has been something of a headache for Google, and it appears that it's finally time for Google to cut its losses. 
+  
+ That's good news for Lenovo, which has been vocal about its intention to move into the US smartphone market this year. Lenovo hasn't made much headway with that until now. It made a bid for BlackBerry late in 2013, but its offer was ultimately blocked. Now, it'll see a much stronger start with the purchase of Motorola. Motorola actually marks Lenovo's second acquisition announcement this month: just last week it said that it had reached a deal to buy IBM's x86 server business. 
+  
+ We’ve just signed an agreement to sell Motorola to Lenovo for $2.91 billion: http://t.co/PKDXrTq6Oe pic.twitter.com/vLcDBXlvIh — A Googler (@google) January 29, 2014 
+  
+ The purchase of Motorola plays to Lenovo's experience in taking an established brand and building upon it. It purchased its ThinkPad business from IBM in 2005, and has gone on to create a continually successful line of laptops from it. Lenovo is certainly hoping to do the same with Motorola, which has consistently built strong devices but has often struggled against competitors with more marketing muscle. 
+  
+ "The acquisition of such an iconic brand, innovative product portfolio and incredibly talented global team will immediately make Lenovo a strong global competitor in smartphones," Yang said in a statement. "We will immediately have the opportunity to become a strong global player in the fast-growing mobile space." 
+  
+ "We will become a much stronger number three smartphone company." 
+  
+ Both Lenovo and Google have high expectations for Motorola coming out of the acquisition. Motorola said the acquisition will help it to achieve the rapid growth it's looking for. "With the recent launches of Moto X and Moto G, we have tremendous momentum right now and Lenovo’s hardware expertise and global reach will only help to accelerate this," Motorola CEO Dennis Woodside said in a statement. 
+  
+ In an alleged email to employees, which has been leaked to TechCrunch, Page said that he believes Motorola will do better under a company that can fully commit to a focus on smartphones. "The smartphone market is super competitive, and to thrive it helps to be all in when it comes to making mobile devices," Page wrote. "It’s why we believe that Motorola will be better served by Lenovo." 
+  
+ On a conference call discussing the acquisition, Yang said that Woodside and Motorola's existing management team would be staying on board. Yang also said that he felt the two brands were complimentary, and that both the Motorola and Lenovo brand would remain in use where they were already strong. "A detailed plan will be made after we close the deal," Yang said. 
+  
+ "Why am I so confident? I have several reasons." 
+  
+ Despite Motorola's ongoing struggle to reach profitability, Yang is extremely optimistic about what it will do under Lenovo. "Why am I so confident? I have several reasons." Yang cites five: it will immediately make Lenovo a major smartphone company in the US and give it relationships with over 50 wireless carriers worldwide, Motorola is an established and respected brand, the deal includes important patents and licenses, it will help address new markets with a diverse smartphone lineup, and it brings along Motorola's expertise in mature smartphone markets. 
+  
+ Despite his intention to continue using the Lenovo name where it's strong, Yang emphasized that the Motorola name would play a major role in its ability to compete in the United States and other major markets. "We had a similar opportunity with the Think brand, and we succeeded," Yang said. He believes the acquisition will ultimately make Motorola a far stronger smartphone manufacturer, turning it into a capable competitor against the industry's giants. 
+  
+ "We will become a much stronger number three smartphone company," Yang said, referencing Motorola's position as the third-place Android smartphone manufacturer in the US. "Motorola brings a strong brand, brilliant engineering, great products, [and] outstanding relationships with retailers." 
+  
+ News of Lenovo's acquisition of Motorola comes just a day before Google reports its quarterly earnings. Investors have been interested to know what Google plans to do about Motorola's mounting losses. Tomorrow may not deliver them good news from the previous quarter, but it appears that Google has given its final answer. ||||| Well this is unexpected. Google is selling Motorola, the iconic handset maker it bought for $12.5 billion in May of 2012, to Chinese PC maker Lenovo for $2.91 billion. Google CEO Larry Page has penned a short note about the sale, but he doesn’t get into details. Here’s why the deal makes sense. 
+  
+ Motorola was always an odd acquisition for Google; more than a year after the deal closed, analysts were still “scratching their heads” about what Google could have been thinking. It put Google in the awkward position of owning a company that competed with all of the other makers of Android smartphones. And while Google regularly protested that Motorola was just another partner, like all its other Android partners, it was a hard case to make given that Google installed one of its own, Dennis Woodside, as the CEO of Motorola. It was as if, at the height of the PC era in the mid 1990s, Microsoft had decided to undermine Dell and HP by buying Gateway and retooling it to selling Microsoft’s own PCs. 
+  
+ Aside from Motorola’s enormous trove of patents, which Google explicitly said at the time of acquisition were to be used to protect Android handset makers from being sued by Apple and Microsoft, the only reason for Google to buy Motorola was to transform it into a healthy counterweight to Samsung, which sells the overwhelming majority of Android smartphones. (Tellingly, Google is retaining the rights to Motorola’s patents, but will license them to Lenovo.) 
+  
+ And Google accomplished that. Motorola now makes one of the best, if not the best mid-range Android smartphone, the Moto X, along with its equally well-reviewed (and even cheaper) cousin the Moto G. But the Android phone hardware business resembles the PC business more every day. And margins in that business are brutal—after years of competition, they’re down to 2% to 3%. 
+  
+ What’s more, Google never ran Motorola with an eye toward profit. And given the recent fire-sale prices it’s been offering on the Moto X and G, ($70 discount on the former, half off on the latter) it’s clear that it’s always wanted to sell its Motorola-branded Android phones at the cheapest possible price, to get more people on Android, where they’ll use Google’s services, which is how Google actually makes money. Motorola has lost money for Google—hundreds of millions of dollars—every quarter it’s been on Google’s balance sheet. 
+  
+ From the consumer’s perspective, the way Google ran Motorola is the same model Google has used with its Google-branded tablets and other hardware, like the Nexus 7, which is built by its partner Asus and sells for less than half what the comparable retina iPad mini retails for. Google is like Amazon; the company is willing to break even on hardware in order to increase the market share of its money-making services. 
+  
+ It might seem like Google is taking a $10 billion bath on the sale of Motorola to Lenovo. But Motorola has already helped Google save what could amount to billions of dollars on its taxes, which softens the blow. And there’s another way to look at this: Google has created a competitor to Samsung that is headed by an ex-Googler (for now) that will now go to a company, Lenovo, that has proved itself quite capable of succeeding in the low-margin hardware business. Lenovo is the #1 seller of PCs in the world by volume, and it’s also just taken on IBM’s low-end server business. 
+  
+ Yes, it costs Google billions of dollars to make the Android hardware ecosystem more diverse, but even if that wasn’t Google’s plan all along, it could in the end be worth the cost. Samsung, after all, is nervous enough about its dependence on Google that it’s trying to incubate its own smartphone operating system, called Tizen. |||||

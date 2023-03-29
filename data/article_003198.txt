@@ -1,0 +1,79 @@
+Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. 
+  
+ / Updated By Maggie Fox 
+  
+ Flu activity increased “sharply” across the U.S. last week, and the virus is still widespread in all states except Hawaii, federal health officials said Friday. 
+  
+ At least four different strains of influenza are making people sick, the Centers for Disease Control and Prevention said. Flu vaccines are designed to protect against three or four of the strains but work poorly against the most common strain circulating, called H3N2. 
+  
+ Another 10 children were reported to have died from flu, the CDC said, although not all the deaths occurred last week. It can take weeks for states to gather the information and send it to CDC. So far this flu season, 30 children have died from influenza. 
+  
+ Last season, 110 children died from flu in the U.S. 
+  
+ Every year, influenza kills between 12,000 and 49,000 people and can send as many as 700,000 people to the hospital, the CDC says. It affects so many people that adult cases and deaths can only be estimated. 
+  
+ Related: Flu season's coming early, looking tough 
+  
+ The CDC says this is the worst flu season since the 2014-2015 season. Flu can vary a lot from year to year, and this year it’s spreading actively in all the states at the same time. In other years, it has usually moved in irregular waves, peaking in different parts of the country at different times. 
+  
+ “We’re seeing flu throughout the entire country,” said Dr. Nicole Alexander-Scott, director of the Rhode Island Department of Health and president-elect of the Association of State and Territorial Health Officials (ASTHO). 
+  
+ “By every measure – whether it’s by outpatient visits, hospitalizations, laboratory testing - this has been a very early season and a more severe one than recent influenza seasons,” agreed Dr. Karen Smith, director of the California Department of Public Health. 
+  
+ Related: How about a better flu vaccine? 
+  
+ Some hospitals are overwhelmed, said Dr. Larry Wolk, Colorado’s chief medical officer. 
+  
+ “We’ve had well over 2,000 influenza-associated hospitalizations. That’s double our average number of cases we usually see this time of year,” Wolk told reporters in a briefing organized by ASTHO. 
+  
+ Worried flu patients are flooding emergency rooms and Alexander-Scott said her state health department was trying to steer those who are not suffering emergencies away from emergency departments. Only the urgently sick or injured should be in the ER, she said – others should be calling their own primary care doctors or visiting urgent care clinics. 
+  
+ Related: Flu might be airborne 
+  
+ It’s still not too late to get a flu shot, all the officials said. Pharmacies and drug stores reported they still had plenty of supplies, and the CDC predicts flu season will last several more weeks at the least. 
+  
+ “It may be several months before this flu season ends,” Wolk said. ||||| All data are preliminary and may change as more reports are received. 
+  
+ An overview of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, is available at http://www.cdc.gov/flu/weekly/overview.htm. 
+  
+ Influenza activity remains elevated in the United States. Influenza A(H1N1)pdm09, influenza A(H3N2), and influenza B viruses continue to co-circulate. Below is a summary of the key influenza indicators for the week ending January 12, 2019: 
+  
+ WHO and NREVSS collaborating laboratories, which include both public health and clinical laboratories located in all 50 states, Puerto Rico, Guam, and the District of Columbia, report to CDC the total number of respiratory specimens tested for influenza and the number positive for influenza by virus type. In addition, public health laboratories also report the influenza A subtype (H1 or H3) and influenza B lineage information of the viruses they test and the age or age group of the persons from whom the specimens were collected. 
+  
+ Additional virologic data, including national, regional and select state-level data, can be found at: http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html. Age group proportions and totals by influenza subtype reported by public health laboratories can be found at: http://gis.cdc.gov/grasp/fluview/flu_by_age_virus.html. 
+  
+ The results of tests performed by clinical laboratories are summarized below. 
+  
+ Week 2 Data Cumulative since 
+  
+ September 30, 2018 (Week 40) No. of specimens tested 31,051 407,503 No. of positive specimens (%) 3,856 (12.4%) 26,430 (7.3%) Positive specimens by type Influenza A 3,730 (96.7%) 30,028 (94.5%) Influenza B 126 (3.3%) 1,752 (5.5%) 
+  
+ The results of tests performed by public health laboratories are summarized below. 
+  
+ Week 2 Data Cumulative since 
+  
+ September 30, 2018 (Week 40) No. of specimens tested 1,399 21,296 No. of positive specimens* 752 7,035 Positive specimens by type/subtype Influenza A 743 (98.8%) 6,789 (96.6%) (H1N1)pdm09 605 (89.1%) 5,214 (81.6%) H3N2 74 (10.9%) 1,173 (18.4%) Subtyping not performed 64 411 Influenza B 9 (1.2%) 237 (3.4%) Yamagata lineage 4 (100%) 110 (59.5%) Victoria lineage 0 (0%) 75 (40.5%) Lineage not performed 5 52 
+  
+ Influenza Virus Characterization: 
+  
+ Close monitoring of influenza viruses is required to better assess the potential impact on public health. CDC characterizes influenza viruses through one or more tests including genomic sequencing, hemagglutination inhibition (HI) and/or neutralization assays based Focus Reduction assays (FRA). These data are used to compare how similar currently circulating influenza viruses are to the reference viruses used for developing new influenza vaccines and to monitor evolutionary changes that continually occur in influenza viruses circulating in humans. Antigenic and genetic characterization of circulating influenza viruses gives an indication of the influenza vaccine's ability to induce an immune response against the wide array of influenza viruses that are co-circulating every season. However, annual vaccine effectiveness estimates are needed to determine how much protection was provided to the population by vaccination. 
+  
+ For nearly all influenza-positive surveillance samples received at CDC, next-generation sequencing is performed to determine the genetic identity of circulating influenza viruses and to monitor the evolutionary trajectory of viruses circulating in our population. Virus gene segments are classified into genetic clades/subclades based on phylogenetic analysis. However, genetic changes that classify the clades/subclades do not always result in antigenic changes. “Antigenic drift” is a term used to describe gradual antigenic change that occurs as viruses evolve changes to escape host immune pressure. Antigenic drift is evaluated by comparing antigenic properties of cell-propagated reference viruses representing currently recommended vaccine components with those of cell-propagated circulating viruses. 
+  
+ CDC has antigenically or genetically characterized 562 influenza viruses collected September 30, 2018 – January 12, 2019, and submitted by U.S. laboratories, including 341 influenza A(H1N1)pdm09 viruses, 163 influenza A(H3N2) viruses, and 58 influenza B viruses. 
+  
+ Influenza A Viruses 
+  
+ A (H1N1)pdm09: Phylogenetic analysis of the HA genes from 341 A(H1N1)pdm09 viruses showed that all belonged to clade 6B.1. One hundred thirty-six A(H1N1)pdm09 viruses were antigenically characterized, and 134 (98.5%) were antigenically similar (analyzed using HI with ferret antisera) to A/Michigan/45/2015 (6B.1), a cell-propagated A/Michigan/45/2015-like reference virus representing the A(H1N1)pdm09 component for the 2018-19 Northern Hemisphere influenza vaccines. 
+  
+ A (H3N2): Phylogenetic analysis of the HA genes from 163 A(H3N2) viruses revealed extensive genetic diversity with multiple clades/subclades co-circulating. The HA genes of circulating viruses belonged to clade 3C.2a (n=48), subclade 3C.2a1 (n=78) or clade 3C.3a (n=37). Six A(H3N2) viruses were antigenically characterized by FRA with ferret antisera, and all 6 (100%) A(H3N2) viruses tested were well-inhibited (reacting at titers that were within 4-fold of the homologous virus titer) by ferret antisera raised against A/Singapore/INFIMH-16-0019/2016 (3C.2a1), a cell-propagated A/Singapore/INFIMH-16-0019/2016-like reference virus representing the A(H3N2) component of 2018-19 Northern Hemisphere influenza vaccines. 
+  
+  
+  
+ Influenza B Viruses 
+  
+ B/Victoria: Phylogenetic analysis of 18 B/Victoria-lineage viruses indicate that all HA genes belonged to genetic clade V1A, however genetic subclades which are antigenically distinct have emerged. Genetic subclades which are antigenically distinct include viruses with a two amino acid deletion (162-163) in the HA protein (V1A.1, previously abbreviated as V1A-2Del) and viruses with a three amino acid deletion (162-164) in the HA protein (abbreviated as V1A-3Del). Eight B/Victoria lineage viruses were antigenically characterized and 4 (50%) were antigenically similar with ferret antisera raised against cell-propagated B/Colorado/06/2017-like V1A.1 reference virus. Four (50%) reacted poorly (at titers that were 8-fold or greater reduced compared with the homologous virus titer) and belonged to clade V1A. 
+  
+ B/Yamagata: Phylogenetic analysis of 40 influenza B/Yamagata-lineage viruses indicate that the HA genes belonged to clade Y3. A total of 33 influenza B/Yamagata-lineage viruses were antigenically characterized, and all were antigenically similar to cell-propagated B/Phuket/3073/2013 (Y3), the reference vaccine virus representing the influenza B/Yamagata-lineage component of the 2018-19 Northern Hemisphere quadrivalent vaccines. 
+  
+ The majority of U.S. viruses submitted for characterization come from state and local public health laboratories. Due to Right Size Roadmap considerations, specimen submission guidance to laboratories is that, if available, 2 influenza A(H1N1)pdm09, 2 influenza A(H3N2), and 2 influenza B viruses be submitted every other week. Therefore, the numbers of each virus type/subtype characterized should be more balanced across subtypes/lineages but will not reflect the actual proportion of circulating viruses. In the figure below, the results of tests performed by public health labs are shown on the left and CDC sequence results (by genetic clade/subclade) are shown on the right. |||||

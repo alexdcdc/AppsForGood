@@ -1,0 +1,17 @@
+The "living lab", built by Bristol Robotics Laboratory (BRL), mimics a single-storey flat and contains a network of Wi-Fi cameras and sensors.
+Scientists believe it is the first time helper robots have been developed in a "real-life" environment.
+Dr Praminda Caleb-Solly, from BRL, said the robots could step in "if someone forgets to eat or take medicines".
+They will be tested to see how they overcome realistic scenarios, like navigating household clutter or picking things up for mobility-impaired residents.
+Wi-fi cameras and sensors have also been installed on furniture, doors, medicine bottles, fridges, plugs and kettles inside the flat, dubbed the Personalised Assisted Living facility.
+The sensors will gather data to create a picture of a person's individual habits and needs.
+One of the features is a telepresence robot, which allows nurses, social workers or doctors to monitor patients remotely.
+Dr Caleb-Solly said: "If an alert is sent because there is no activity in the house when a person would normally be up and about, an alert might be sent to the carer remotely.
+"If there is no response from the person then the carer could activate the telepresence robot and see if there is a problem."
+The studio will also enable elderly people, carers and clinicians to give their views on what they think is important.
+"It's important for us to work in a participatory way for the people whose homes its going to be in," said Dr Caleb-Solly.
+BBC Points West business correspondent, Dave Harvey:
+There have been other caring robots, all over the world. Several were developed at the Bristol Robotics Lab, the largest academic research centre of its kind in the UK. But they have all been born in labs, and lived in lab conditions. The new centre is the first in the world to build a real life apartment, with its own bedroom, bathroom, kitchen and lounge as a reality check for the robot scientists.
+And they have another unique ingredient, just as important as the high tech sensors, computers, and voice synthesisers. Older people, have been recruited to help the lab scientists assess their work. How do older people respond to an automated machine asking them if they want to play a game? What happens when Molly, the robot carer, talks to someone who has dementia?
+These are vital questions, and the new lab hopes that asking them in a real-life situation will improve their work. How long before robots can live with us, keep a watchful eye over us in old age? "It's still a way off," smiles Dr Caleb-Solly, who leads the research. "But our new lab will make it sooner than it was."
+The facility has been sponsored by The Anchor Society which supports elderly, frail and isolated people in Bristol.
+It is hoped the apartment will speed up the development process.

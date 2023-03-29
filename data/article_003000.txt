@@ -1,0 +1,32 @@
+The two men were left with Post-traumatic Stress Disorder (PTSD) after working at the firm, the lawsuit alleged.
+Their jobs involved viewing and reporting material, communicated via Microsoft services, that had been flagged by automated software as being potentially illegal.
+Microsoft told the BBC it disputed the claims, and that it offered industry-leading support.
+"Microsoft takes seriously its responsibility to remove and report imagery of child sexual exploitation and abuse being shared on its services, as well as the health and resiliency of the employees who do this important work."
+It said the balance of protecting internet users while minimising the impact on its employees was a continued learning process.
+Saving children’s lives
+Henry Soto and Greg Blauert worked for Microsoft’s Online Safety Team, a division responsible for upholding the firm’s legal obligation to pass on any illegal images to the US National Center for Missing and Exploited Children.
+When an image is reported, or automated software has “spotted” an issue, a human being is required to view the material and forward it on to the authorities, a Microsoft spokeswoman said.
+The company said people with this role are only required to do this particular task for a short period of time - and that they are kept in a “different office” from other staff.
+But in papers filed on 30 December 2016, the two men said the company did little to warn or prepare them for the disturbing images they were required to view.
+The lawsuit says both men’s efforts were “instrumental” in saving children’s lives and securing prosecutions, but that both were paying a serious psychological toll.
+But the documents described Mr Blauert as suffering greatly from this work, contributing to a mental breakdown in 2013. When he expressed his discomfort, it is alleged that he was told to "smoke", "go for walk" or "play video games" as a distraction.
+'Horrible and inhumane'
+Mr Soto viewed "many thousands of photographs and videos of the most horrible, inhumane and disgusting content one can imagine," the papers said.
+"Many people simply cannot imagine what Mr Soto had to view on a daily basis as most people do not understand how horrible and inhumane the worst people in the world can be."
+In an internal employee review, Mr Soto was praised by his bosses for having "courage". However, he said the work resulted in him suffering "panic attacks, disassociation, depression, visual hallucinations" as well as the inability to be around young children, including his own son.
+Doing so would remind him of "horribly violent acts against children that he had witnessed," the court papers said.
+Mr Soto alleged that when he requested a transfer out of the team in 2014, he was told he would have to apply for a new job within Microsoft "just like any other employee". When he was eventually moved to a different section of the safety team, he said he was still being asked questions related to his prior role.
+Microsoft disputed this particular detail, saying: "If an employee no longer wishes to do this work, he or she will be assigned other responsibilities."
+Wellness
+Employees on the Online Safety Team are automatically put on a “Wellness program”, Microsoft said, which included mandatory monthly one-on-one sessions with a counsellor to combat what is referred to as "compassion fatigue".
+The company said many measures are taken to minimise the psychological impact on people viewing the material.
+The measures include efforts to reduce the "realism" of the content.
+Microsoft’s software automatically blurs imagery, lowers the resolution, makes it black and white and separates the audio from video. Images are only seen as thumbnails, not full size.
+Furthermore: "Employees are limited in how long they may do this work per day and must go to a separate, dedicated office to do it; they can’t do this work at home or on personal equipment.”
+However, a spokeswoman could not speak to whether employees undergo any psychological assessment prior to taking on the work.
+Collaboration
+Technology companies, particularly those offering web storage or social networking, are under continued pressure to do more to remove images depicting a variety of problems - from terrorist propaganda to child abuse.
+The companies are working on better ways to share data so that an image flagged by one company would automatically be removed by another, minimising the number of people exposed to the material.
+The lawsuit in this case is suing for an unspecified amount in damages, but also for its suggestions on how to improve the Online Safety Team to be taken on board.
+Microsoft confirmed to the BBC it will oppose the lawsuit, but has not yet made its response to the court.
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook

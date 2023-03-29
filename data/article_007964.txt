@@ -1,0 +1,11 @@
+The 18-year-old was arrested at an address in Southport, near Liverpool.
+He is accused of unauthorised access to computer material and knowingly providing false information to law enforcement agencies in the US.
+The investigation was a joint operation between UK cybercrime units and the Federal Bureau of Investigation (FBI).
+Microsoft and Sony were attacked on Christmas Day, making it difficult for users to log on. The distributed-denial-of-service attack - which floods servers causing them to stop working - caused major disruptions.
+The arrest was part of a joint operation between officers from the South East Regional Organised Crime Unit (Serocu) and the North West Regional Crime Unit (Rocu), supported by the National Cyber Crime Unit (NCCU).
+Craig Jones, head of the Cyber Crime Unit at Serocu said: "This investigation is a good example of joint law enforcement co-operation in relation to a type of criminality that is not restricted by any geographical boundaries.
+"We are still at the early stages of the investigation and there is still much work to be done. We will continue to work closely with the FBI to identify those who commit offences and hold them to account."
+He explained more about one of the charges, known as swatting.
+"Offences referred to as 'swatting' involve law enforcement forces in the United States receiving hoax calls via Skype for a major incident in which Swat teams were dispatched."
+Peter Goodman, national policing lead for cybersecurity at the Association of Police Officers (Acpo), added: "This is a significant arrest... of a UK citizen suspected of engaging in serious and organised cybercrime on the national and international stage."
+A hacking group called Lizard Squad said it carried out the attacks which caused major disruption to the gaming platforms at one of the busiest times of the year.

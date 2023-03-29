@@ -1,0 +1,11 @@
+Parse is a toolkit for creating and running mobile apps.
+Facebook acquired the cloud-based service in 2013 for a reported $85m (Â£59m). At the time it claimed to power "tens of thousands" of mobile apps.
+Co-founder Kevin Lacker said in a blog post that it would be wound down over the next 12 months, so the company could focus resources elsewhere.
+The firm has already made its server open source and is also offering a database migration tool to help people switch to alternatives.
+"We're proud that we've been able to help so many of you build great mobile apps," wrote Mr Lacker. "We know that many of you have come to rely on Parse, and we are striving to make this transition as straightforward as possible."
+The New York Times reports that travel website Expedia and productivity app Quip are among its customers.
+One developer tweeted that the move was "disingenuous" and that he felt the developer community had been "misled".
+"Parse is [the] perfect counterargument to build-n-flip Silicon Valley. Only losers are the thousands (millions?) of users," tweeted Dan Frommer, tech editor of Quartz.
+At the time of its acquisition by Facebook, co-founder Ilyar Sukhar reassured users that Parse was "not going away".
+"It's going to get better," he wrote. "We are excited about the future of Parse".
+Parse will close on 28 January 2017.

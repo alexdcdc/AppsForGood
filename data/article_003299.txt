@@ -1,0 +1,13 @@
+Visitors to the site are greeted with a message that says "Page Not Found! It's not you. It's the internet's fault".
+A group called "Lizard Squad" has taken credit for the outage, posting "PSN Login #offline #LizardSquad" as their Twitter status.
+The outage is the most recent in a series of attacks on tech giant Sony.
+The Japanese firm's Hollywood film studios' corporate network was hacked into last month, followed by an online leak of unreleased movies, along with confidential information such as actors' salaries.
+Sony Entertainment Network has responded by tweeting that they are aware of the issues that users are having in connecting to the PlayStation network.
+"Thanks for your patience as we investigate," the company tweeted at about midnight GMT.
+The disruption comes just days after the gaming console celebrated its 20th anniversary last week.
+Meanwhile, the outage on the PlayStation network follows one on Microsoft Xbox network, which was down for at least a day last week.
+Lizard Squad also claimed it was behind the attack.
+The Xbox network was hit with a DDOS, or a distributed denial of service attack, which overloaded the system, stopping users from getting online.
+The hacker group had then said that its Xbox attack was just "a small dose" of what was to come over the Christmas season.
+Lizard Squad has claimed responsibility for attacks that have taken high-profile targets like EA games and Destiny offline in the past.
+Known as Lizard Patrol on Twitter, the anonymous collective has a Russian-based website.

@@ -1,0 +1,34 @@
+The Bristol-raised creator of the Open Bionics project says he can 3D-scan an amputee and build them a custom-fitted socket and hand in less than two days.
+It typically takes weeks or months to obtain existing products.
+Joel Gibbard says he aims to start selling the prosthetics next year.
+"We have a device at the lower-end of the pricing scale and the upper end of functionality," he told the BBC.
+"At the same time it is very lightweight and it can be customised for each person.
+"The hand is basically a skeleton with a 'skin' on top. So, we can do different things to the skin - we can put patterns on it, we can change the styling and design. There's quite a lot of flexibility there."
+The 25-year-old inventor intends to charge customers £2,000 for the device, including the cost of a fitting.
+Although prosthetic arms fitted with hooks typically can be bought for similar prices, ones with controllable fingers are usually sold for between £20,000 and £60,000.
+That cost can sometimes be prohibitive for children, who usually need to change their prosthetic once or twice a year to take account of their growth.
+Open Bionics' hand relies on myoelectric signals, meaning it detects muscle movements via sensors stuck to the owner's skin and uses them to control its grip.
+A single flex of the wearer's muscles opens and closes the fingers, while a double flex changes the shape to form a pinch grip.
+Although the user cannot feel what the fingers are touching, sensors built into the digits can tell when they come into contact with an object to limit the pressure they exert.
+This means owners can pick up objects as fragile as an egg without crushing them.
+However, Mr Gibbard acknowledges there are still some limitations to his design.
+"We're using lower-cost motors than they have in high-end devices, so the overall strength is lower," he said.
+"So, we are testing it with users and household objects and trying to come to a compromise that means it is very affordable and still has enough power to do most of the stuff that people want."
+The UK engineering prize includes a £2,220 reward and the chance to compete for an international title worth $45,000 (£28,600).
+But, perhaps more valuably, it will also help the project gain wider recognition.
+"Joel Gibbard is to be congratulated in advancing the availability of functioning prosthetic devices at affordable prices," commented Miss Barbara Jemec, founding chair of the British Foundation for International Reconstructive Surgery and Training (BFirst), on learning of the prize.
+"Amputees, especially in developing countries, such as Sierra Leone where the civil war left many upper limb amputees, need to have access to affordable and durable prosthetics that work.
+"A working hand can make all the difference between hunger and being able to work and take care of yourself and your family. I shall be following the development with interest."
+Open Bionics started as a bedroom-based crowdfunding project in 2013, which was supported by Bristol Robotics Laboratory.
+Since then the design has been revised 10 times, and the number of separate parts radically reduced.
+Mr Gibbard says he can now size up a user in a matter of minutes using a tablet equipped with a special sensor, 3D-print the parts in about 40 hours, and finally fit them together in a further two hours.
+"The original design was primarily made of different plastic parts that were screwed and bolted together along with off-the-shelf components," he recalls.
+"It took a very long time to build, and because it was all made of plastic it was subject to a lot of weak points where it could break.
+"The new design is made of thermoplastic elastomer, which is basically a flexible rubbery plastic.
+"So, we're able to print something in far fewer pieces and then have flexible joints.
+"That means it's much more robust to impact forces and it requires much less assembly, so there are savings in cost, time and improvements in performance."
+While the current design only supports patients whose limb loss is limited to their forearms, the ultimate goal is to be able to help those with above-elbow amputations as well.
+The roboticist is currently based in Los Angeles where his work is being supported by Walt Disney's  Techstars Accelerator mentorship and investment programme.
+Although he intends to start a business by selling custom-made robotic hands in the second half of 2016, the project is also "open source" - meaning anyone can share and use its designs without charge so long as they in turn share any improvements they make.
+This is not the first time a James Dyson Award has gone to a robotic appendage.
+In 2013, the University of Pennsylvania's Titan Arm - an exoskeleton for one arm designed to help people with back injuries - won the top prize.

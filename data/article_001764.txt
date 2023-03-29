@@ -1,0 +1,19 @@
+Chatham House said there was a reluctance to share information with institutions that might be targeted.
+It also criticised those same institutions for putting up with an "unacceptably high level of risk".
+The government said that it ranked cyber security as a top priority.
+Last year it announced Â£650m of additional funding to help tackle computer-based threats.
+Around Â£130m or 20% is specifically earmarked for critical infrastructure projects.
+The Chatham House report questions what that money will be used for given that "the vast majority of critical infrastructure in the UK is privately owned."
+There have been numerous warnings in recent years about the risk of computerised systems being vulnerable to attack.
+The issue received additional prominence following the discovery of the Stuxnet worm which was used to damage systems used in Iran's nuclear programme.
+Chatham House's review was based on a series of interviews with senior figures in companies considered to be part of the critical national infrastructure, such as electricity, oil and gas.
+Many were searching for guidance, according to the report, but government had failed to create an "authoritative 'big picture'... that could help develop a more comprehensive and urgent sense of the cyber threats that need to be tackled."
+It recommends that government assumes an "integral role in shaping the discourse, informing wider society and raising levels of awareness."
+The report also contains criticism of the private sector.
+With large parts of the UK's infrastructure - such as nuclear and the power grid - being run by private companies, there was an expectation that they would be alert to growing online threats.
+The reality was often very different, according to David Clemente, a cyber security researcher at Chatham House.
+"Many only pay attention to it after something unpleasant has happened to them or a competitor and they realise they have to pay attention, perhaps throw some money at the problem," said Mr Clemente.
+The report urges companies to make cyber security a key component of their risk strategy.
+It also warns against cutting corners "in the pursuit of efficiency savings and improved quarterly returns."
+In a statement, the Cabinet Office, which looks after the UK's cyber security strategy said: "Closer collaboration between the government and the private sector is crucial to protecting our interests in cyberspace, including critical national infrastructure."
+The government is expected to announced a revised cyber security plan next month.

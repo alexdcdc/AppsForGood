@@ -1,0 +1,23 @@
+The "body on a chip" project replicates human cells to print structures which mimic the functions of the heart, liver, lung and blood vessels.
+The organs are then placed on a microchip and connected with a blood substitute, allowing scientists to closely monitor specific treatments.
+The US Department of Defense has backed the new technology with $24m (Â£15m).
+Bioprinting, a form of 3D printing which, in effect, creates human tissue, is not new. Nor is the idea of culturing 3D human tissue on a microchip.
+But the tests being carried out at the Wake Forest Institute for Regenerative Medicine in North Carolina are the first to combine several organs on the same device, which then model the human response to chemical toxins or biologic agents.
+The modified 3D printers, developed at Wake Forest, print human cells in hydrogel-based scaffolds.
+The lab-engineered organs are then placed on a 2in (5cm) chip and linked together with a circulating blood substitute, similar to the type used in trauma surgery.
+The blood substitute keeps the cells alive and can be used to introduce chemical or biologic agents, as well as potential therapies, into the system.
+Sensors which measure real-time temperature, oxygen levels, pH and other factors feed back information on how the organs react and - crucially - how they interact with each other.
+Dr Anthony Atala, institute director at Wake Forest and lead investigator on the project, said the technology would be used both to "predict the effects of chemical and biologic agents and to test the effectiveness of potential treatments".
+"You are actually testing human tissue," he explained.
+"It works better than testing on animals."
+A group of experts from around the US is involved in putting together the technology, which will carry out toxicity testing and identification.
+The funding for the project was awarded by the Defense Threat Reduction Agency (DTRA), a division of the US government which combats nuclear, chemical and biological weapons.
+The tests being carried out at Wake Forest "would significantly decrease the time and cost needed to develop medical countermeasures" for bioterrorism attacks, said Dr Clint Florence, acting branch chief of vaccines within the Translational Medical Division at DTRA.
+Wake Forest said it was able to test for antidotes to sarin gas, recently used against civilians in Syria.
+Dr Atala, whose field is regenerative medicine, said the bioprinting technology was first used at Wake Forest for building tissues and organs for replacement in patients.
+His team had managed to replicate flat organs, such as skin, tubular organs such as blood vessels, and even hollow non-tubular organs like the bladder and the stomach, which have more complex structures and functions.
+But building solid organs like the heart and the liver is the hardest challenge yet.
+It takes about 30 minutes just to print a miniature kidney or heart, which is the size of a small biscuit.
+"There are so many cells per centimetre that making a big organ is quite complex," Dr Atala told the BBC.
+But the bioprinting of full size solid organs might not be far away.
+"We are working on creating solid organ implants," said Dr Atala.
