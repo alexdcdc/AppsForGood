@@ -1,4 +1,6 @@
 import requests
+import datetime
+from datetime import date
 
 def removeSource(title):
     lastDash = 0
@@ -9,24 +11,28 @@ def removeSource(title):
     return title[:lastDash - 1]
 
 def getUSHeadlines():
-    params = {
-                "apiKey": "544e968c75464718852ae9cf280729af",
-                "language" : "en", #possible to search by source in params
-                "from" : "2023-03-26",
-                "domains" : "nbcnews.com"
-            }
-    url = " https://newsapi.org/v2/everything"
+    today = date.today() - datetime.timedelta(3)
+    descriptions = []
 
-    response = requests.get(url = url, params = params).json()
+    sources = ["axios.com", "theguardian.com", "newsweek.com", "forbes.com", 
+               "businessinsider.com", "usatoday.com", "npr.org", 
+               "washingtonpost.com", "nbcnews.com"]
+    
+    for s in sources:
+        params = {
+                    "apiKey": "544e968c75464718852ae9cf280729af",
+                    "language" : "en", #possible to search by source in params
+                    "from" : str(today),
+                    "domains" : s
+                }
+        url = " https://newsapi.org/v2/everything"
 
-    print(response)
+        response = requests.get(url = url, params = params).json()
 
-    if response["status"] == "ok":
-        return [article["description"] for article in response["articles"]]
+        if response["status"] == "ok":
+            descriptions.extend([article["description"] for article in response["articles"]])
 
-    else:
-        return None
-
+    return descriptions
     
 
 if __name__ == "__main__":

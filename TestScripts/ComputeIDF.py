@@ -31,7 +31,7 @@ def computeIDF(n):
     return counts
 
 if __name__ == "__main__":
-    n = 1000
+    n = 10000
     counts = computeIDF(n)
     idf = {}
     

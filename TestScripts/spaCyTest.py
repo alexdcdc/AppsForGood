@@ -27,7 +27,8 @@ def get_hotwords1(text):
         if(token.text in nlp.Defaults.stop_words or token.text in punctuation):
             continue
         if(token.pos_ in pos_tag):
-            result.append(token.lemma_)
+            if not (token.lemma_ in {"trump", "biden"}):
+                result.append(token.lemma_)
 
     return result
 
@@ -61,7 +62,6 @@ def tf_idf(text):
 def extractDailyKeywords():
     words = Counter()
     texts = NewsTest.getUSHeadlines()
-    print(texts)
 
     if not texts:
         print("ERR: Error occurred while getting news sources.")
@@ -88,7 +88,6 @@ def extractDailyKeywords():
 fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
 
 words = tf_idf(fh.read())
-print(words)
 most_common_list = extractDailyKeywords().most_common(10)
 
 for item in most_common_list:
