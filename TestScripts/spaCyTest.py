@@ -1,6 +1,7 @@
 import spacy
 import importlib
 from collections import Counter
+from collections import deque
 from string import punctuation
 import NewsTest
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator 
@@ -14,6 +15,8 @@ nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("spacy_wordnet", after='tagger')
 nlp.add_pipe("textrank")
 
+filter = {"axios", "guardian", "newsweek", "forbes", "nbc", "npr", "trump", "biden", "desantis"}
+
 def getSynonyms(token):
     return token._.wordnet.synsets()
 
@@ -24,11 +27,29 @@ def get_hotwords1(text):
         return []
     doc = nlp(text.lower()) 
     for token in doc:
-        if(token.text in nlp.Defaults.stop_words or token.text in punctuation):
+        if(token.text in nlp.Defaults.stop_words or token.text in punctuation or token.text in filter):
             continue
         if(token.pos_ in pos_tag):
-            if not (token.lemma_ in {"trump", "biden"}):
-                result.append(token.lemma_)
+            result.append(token.lemma_)
+    
+    return result
+
+def get_hotwordsDouble(text):
+    pair = deque()
+    result = []
+    pos_tag = ['PROPN', 'ADJ', 'NOUN'] 
+    if not text:
+        return []
+    doc = nlp(text.lower()) 
+    for token in doc:
+        if len(pair) == 2:
+            pair.popleft()
+        pair.append(token.lemma_)
+        if(token.text in nlp.Defaults.stop_words or token.text in punctuation or token.text in filter):
+            continue
+        if(token.pos_ in pos_tag):
+            result.append(list(pair))
+            
 
     return result
 
@@ -57,20 +78,8 @@ def tf_idf(text):
     for t in tf:
         scores[t] = tf[t] * math.log((n + 1)/((idf[t] + 1) if t in idf else 1))
     
-    return sorted(scores.keys(), key = lambda x: -scores[x])[:3]
-
-def extractDailyKeywords():
-    words = Counter()
-    texts = NewsTest.getUSHeadlines()
-
-    if not texts:
-        print("ERR: Error occurred while getting news sources.")
-        return
-
-    for text in texts:
-        words.update(tf_idf(text))
     
-    return words
+    return sorted(scores.keys(), key = lambda x: -scores[x])[:3]
 
 def extractDailyKeywords():
     words = Counter()
@@ -87,8 +96,9 @@ def extractDailyKeywords():
 
 fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
 
-words = tf_idf(fh.read())
 most_common_list = extractDailyKeywords().most_common(10)
+
+print(get_hotwordsDouble(fh.read()))
 
 for item in most_common_list:
   print(item[0])
