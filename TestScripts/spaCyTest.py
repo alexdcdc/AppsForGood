@@ -10,6 +10,7 @@ from rake_nltk import Rake
 from nltk.corpus import stopwords
 import json
 import math
+import BuzzwordsDatabase
 
 nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("spacy_wordnet", after='tagger')
@@ -20,7 +21,7 @@ filter = {"axios", "guardian", "newsweek", "forbes", "nbc", "npr", "trump", "bid
 def getSynonyms(token):
     return token._.wordnet.synsets()
 
-def get_hotwords1(text):
+def get_hotwords1(text: str) -> list:
     result = []
     pos_tag = ['PROPN', 'ADJ', 'NOUN'] 
     if not text:
@@ -34,7 +35,7 @@ def get_hotwords1(text):
     
     return result
 
-def get_hotwordsDouble(text):
+def get_hotwordsDouble(text: str) -> list:
     pair = deque()
     result = []
     pos_tag = ['PROPN', 'ADJ', 'NOUN'] 
@@ -53,20 +54,20 @@ def get_hotwordsDouble(text):
 
     return result
 
-def get_hotwords2(text):
+def get_hotwords2(text: str) -> list:
     if not text:
         return []
     doc = nlp(text)
     return [phrase.text for phrase in doc._.phrases]
 
-def get_hotwords3(text):
+def get_hotwords3(text: str) -> list:
     if not text:
         return []
     r = Rake()
     r.extract_keywords_from_text(text)
     return r.get_ranked_phrases()
 
-def tf_idf(text):
+def tf_idf(text: str) -> list:
     tf = Counter(get_hotwords1(text))
     fh = open("idf.json")
     idf = json.load(fh)
@@ -81,7 +82,7 @@ def tf_idf(text):
     
     return sorted(scores.keys(), key = lambda x: -scores[x])[:3]
 
-def extractDailyKeywords():
+def extractDailyKeywords() -> Counter:
     words = Counter()
     texts = NewsTest.getUSHeadlines()
 
@@ -98,10 +99,9 @@ fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
 
 most_common_list = extractDailyKeywords().most_common(10)
 
-print(get_hotwordsDouble(fh.read()))
+BuzzwordsDatabase.DBWrite({"Trending": most_common_list})
 
 for item in most_common_list:
   print(item[0])
-  #print(nlp(item[0])[0]._.wordnet.synsets())
 
 fh.close()

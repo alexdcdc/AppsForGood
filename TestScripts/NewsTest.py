@@ -2,13 +2,11 @@ import requests
 import datetime
 from datetime import date
 
-def removeSource(title):
-    lastDash = 0
-    for i in range(len(title)):
-        if title[i] == "-":
-            lastDash = i
-    
-    return title[:lastDash - 1]
+def format(article):
+    replacements = {"“" : "\"", "”" : "\"", "’" : "'", "‘" : "'", "…": "..."}
+    for k in replacements:
+        article = article.replace(k, replacements[k])
+    return article
 
 def getUSHeadlines():
     today = date.today() - datetime.timedelta(3)
@@ -30,7 +28,7 @@ def getUSHeadlines():
         response = requests.get(url = url, params = params).json()
 
         if response["status"] == "ok":
-            descriptions.extend([article["description"] for article in response["articles"]])
+            descriptions.extend([format(article["description"]) for article in response["articles"]])
 
     return descriptions
     
