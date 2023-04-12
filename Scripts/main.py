@@ -1,26 +1,44 @@
+'''
+Name: 
+main.py
+
+Purpose:
+Core script to extract keywords from news 
+articles and transfer them to Firebase
+
+Used by:
+None
+'''
+
 import spacy
-import importlib
 from collections import Counter
 from collections import deque
 from string import punctuation
-import NewsTest
+import news_get
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator 
 import pytextrank
 from rake_nltk import Rake
 from nltk.corpus import stopwords
 import json
 import math
-import BuzzwordsDatabase
+import buzzwords_database
 
+# Initialize the nlp pipeline
 nlp = spacy.load("en_core_web_sm")
 nlp.add_pipe("spacy_wordnet", after='tagger')
 nlp.add_pipe("textrank")
 
-filter = {"axios", "guardian", "newsweek", "forbes", "nbc", "npr", "trump", "biden", "desantis"}
+# Create a filter of a few commonly-occurring 
+# words that should not be keywords
+filter = {"axios", "guardian", "newsweek", "forbes", "nbc", 
+          "npr", "trump", "biden", "desantis"}
 
+# Given a word, return its set of synonyms
 def getSynonyms(token):
     return token._.wordnet.synsets()
 
+# Algorithm 1 for finding keywords: 
+# filter all noun/adjective words into a list
 def get_hotwords1(text: str) -> list:
     result = []
     pos_tag = ['PROPN', 'ADJ', 'NOUN'] 
@@ -35,6 +53,7 @@ def get_hotwords1(text: str) -> list:
     
     return result
 
+# Algorithm for finding two-word keyphrases (WIP)
 def get_hotwordsDouble(text: str) -> list:
     pair = deque()
     result = []
@@ -54,12 +73,16 @@ def get_hotwordsDouble(text: str) -> list:
 
     return result
 
+# Algorithm 2 for finding keywords:
+# Extract all phrases in the text into a list
 def get_hotwords2(text: str) -> list:
     if not text:
         return []
     doc = nlp(text)
     return [phrase.text for phrase in doc._.phrases]
 
+# Algorithm 3 for finding keywords:
+# Use Rake built-in keyword extractor
 def get_hotwords3(text: str) -> list:
     if not text:
         return []
@@ -67,6 +90,9 @@ def get_hotwords3(text: str) -> list:
     r.extract_keywords_from_text(text)
     return r.get_ranked_phrases()
 
+# tf-idf algorithm for calculating keyword "scores"
+# in a document: see https://monkeylearn.com/blog/what-is-tf-idf/
+# for more details. Returns top three highest scorers in input text.
 def tf_idf(text: str) -> list:
     tf = Counter(get_hotwords1(text))
     fh = open("idf.json")
@@ -82,9 +108,12 @@ def tf_idf(text: str) -> list:
     
     return sorted(scores.keys(), key = lambda x: -scores[x])[:3]
 
+# Gets current news articles and applies tf-idf
+# to get top 3 keywords for each article. Returns
+# a counter of how often each term appears as a top-3 KW.
 def extractDailyKeywords() -> Counter:
     words = Counter()
-    texts = NewsTest.getUSHeadlines()
+    texts = news_get.getUSHeadlines()
 
     if not texts:
         print("ERR: Error occurred while getting news sources.")
@@ -95,13 +124,10 @@ def extractDailyKeywords() -> Counter:
     
     return words
 
-fh = open("TestScripts\\Example.txt", "r", encoding = "utf-8")
+if __name__ == "__main__":
+    most_common_list = extractDailyKeywords().most_common(10)
 
-most_common_list = extractDailyKeywords().most_common(10)
+    buzzwords_database.DBWrite({"Trending": most_common_list})
 
-BuzzwordsDatabase.DBWrite({"Trending": most_common_list})
-
-for item in most_common_list:
-  print(item[0])
-
-fh.close()
+    for item in most_common_list:
+        print(item[0])

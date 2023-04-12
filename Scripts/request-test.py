@@ -1,3 +1,14 @@
+'''
+Name: 
+RequestTest.py
+
+Purpose:
+Test script for making HTTP requests to websites
+
+Used by:
+None
+'''
+
 from requests_html import HTMLSession
 
 session = HTMLSession()

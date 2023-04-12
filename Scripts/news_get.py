@@ -1,13 +1,30 @@
+'''
+Name: 
+news-get.py
+
+Purpose:
+Core script to extract keywords from news 
+articles and transfer them to Firebase
+
+Used by:
+main.py
+'''
+
 import requests
 import datetime
 from datetime import date
 
+# Replaces some wonky unicode characters in 
+# news articles to make parsing less awkward.
 def format(article):
     replacements = {"“" : "\"", "”" : "\"", "’" : "'", "‘" : "'", "…": "..."}
     for k in replacements:
         article = article.replace(k, replacements[k])
     return article
 
+# Makes an API request to NewsAPI's endpoint for
+# articles from the past three days from a variety
+# of reputable sources. 
 def getUSHeadlines():
     today = date.today() - datetime.timedelta(3)
     descriptions = []
