@@ -1,0 +1,12 @@
+Nasa's Nuclear Spectroscopic Telescope Array (Nustar), launched into orbit in 2012, views the universe in very high-energy X-rays.
+Now on an extension to its original two-year mission, Nustar has already measured how fast black holes spin.
+This image proves that it can gather data about the Sun.
+Because of its very high sensitivity, Nustar could solve some long-standing puzzles, such as whether "nanoflares" exist.
+These proposed smaller versions of the Sun's giant flares could help explain why its outer atmosphere is many times hotter than its surface - a decades-old question.
+Physicists first thought of using Nustar to study the Sun when it was already under construction.
+"At first I thought the whole idea was crazy," said the mission's principal investigator Prof Fiona Harrison, from the California Institute of Technology.
+"Why would we have the most sensitive high energy X-ray telescope ever built, designed to peer deep into the universe, look at something in our own back yard?"
+But she was eventually convinced by Prof David Smith, a solar physicist at the University of California, Santa Cruz.
+"Nustar will give us a unique look at the Sun, from the deepest to the highest parts of its atmosphere," said Prof Smith, a solar physicist at University of California, Santa Cruz.
+This is only possible because in the very high-energy X-rays that Nustar "sees", our sun does not shine as brightly as it does in other wavelengths. That brightness would probably damage the detectors of other telescopes like Nasa's Chandra X-ray Observatory.
+As well as probing the Sun, the Nustar team will also use the mission extension, which runs to 2016, to continue studying more far-flung objects including black holes and supernova remnants.

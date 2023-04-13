@@ -1,0 +1,12 @@
+A tiny satellite made by Glasgow-based Clyde will be used for a mission to create "cold atoms" in space.
+The 6U CubeSat will carry quantum-based technology developed by sensor specialist Teledyne e2v and the University of Birmingham.
+No date has yet been set for the Cold Atom Space Payload (Caspa) mission.
+It hopes to replicate lab experiments that have shown cold atoms can be used as "ultra-sensitive sensors" capable of mapping tiny changes in the strength of gravity across the earth's surface.
+Clyde and Teledyne e2v said the space mission could pave the way for cold atom instruments to be used in space.
+They believe the technology could lead to more accurate monitoring of changes in polar ice mass, ocean currents and sea level and the ability to monitor underground water resources.
+It could also be applied to deep space navigation.
+The project is funded by Innovate UK and also includes technology from project partners Gooch & Housego, XCAM, Covesion and the University of Southampton.
+Clyde Space chief executive Craig Clark, said: "We are always pushing the boundaries of what is possible with small spacecraft, as are Teledyne e2v with quantum technology.
+"We are delighted to provide our technical solution in support of Teledyne e2v's vision for the commercialisation of quantum technologies."
+Trevor Cross, â€Žfrom Teledyne e2v, said: "Quantum technology is giving us new abilities in a wide range of markets and applications.
+"Our partnership with Clyde Space is representative of the collaboration required to commercialise the technology and really maximise the benefits of quantum in industry."

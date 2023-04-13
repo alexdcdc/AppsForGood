@@ -1,0 +1,14 @@
+The firm said that it was working to boost capacity at telephone exchanges in the worst hit areas.
+The news coincided with the launch of Sky Go Extra - a service allowing users to download movies and TV shows so they can be watched offline.
+One expert said the product might add to the strain.
+Sky Go Extra still works at slow internet speeds - however, Sky's other streaming services rely on the user having a 2 megabit per second connection. Some subscribers have complained their download speeds have fallen below this level at peak times.
+A Sky spokeswoman apologised for the problems.
+"Following a combination of an underlying increase in network traffic as well as a high rate of new customer additions, we are aware of capacity issues in a small number of exchanges," she said.
+"We are working on adding new capacity to those exchanges as quickly as we can. We apologise to all customers who have been impacted by this issue."
+She confirmed a report by The Register that users in Doncaster, North Wales and Bristol were among those affected, but declined to be more specific or name other locations.
+However, the firm has provided an online postcode checking facility for its subscribers to check if their local exchange has been flagged as having an issue.
+Sky also indicated that less than 5% of its broadband customer base used the affected exchanges.
+Andrew Ferguson, editor of the Thinkbroadband news site noted that Sky had recently run a major promotion highlighting the fact it did not place "fair use" caps on the amount of data its customers use.
+As a result, he said, the firm had probably attracted subscribers who downloaded significantly more than the average 23 gigabytes per month consumed by the average UK broadband user.
+"Sky had this problem last year in some of its exchanges, and it's definitely not the only service provider to have experienced this problem," he told the BBC.
+"It's very much related to the firms' promotional activities. Sky has also been pushing its fibre products recently - they offer higher speeds and people who sign up generally use more data afterwards."

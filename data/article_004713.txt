@@ -1,0 +1,18 @@
+They will work with German engineering firm Bosch Rexroth on a standardised offshore generator for the industry.
+Work has already started on the WavePOD (Wave Power Offtake Device).
+Project leaders said it could transform the sector "in the same way the internal combustion engine made the motor car possible".
+The project aims to address the problem of transforming linear motion into electrical energy.
+The WavePOD comprises an offshore hydraulic generator housed in a sealed nacelle which generates electrical power, which is then cabled back to shore.
+The new collaboration brings together project founders Aquamarine Power and drive and control specialist Bosch Rexroth, along with wave technology developers Albatern and Carnegie Wave Energy UK and Manchester University.
+The group also includes Irish utility ESB, which is developing the European-funded Westwave wave farm off the west coast of Ireland.
+Bosch Rexroth and Edinburgh-based Aquamarine Power are developing a 10th-scale prototype which will be tested at Aachen University, Germany.
+Louis Verdegem, ocean technology specialist at Bosch Rexroth, said: "Creating a way of converting kinetic energy into electricity is essential if we are to effectively harness the power of waves.
+"Currently however, cost-effective transformation of the captured energy into electricity remains beyond the industry's grasp.
+"This is due in part to the fragmented nature of current research and development, which is largely commissioned by individual manufacturers.
+"Through this collaboration we expect the use of standardised components and system architectures to accelerate learning and propel the industry forward."
+Martin McAdam, chief executive of Aquamarine Power, described the device as a "quantum leap" for the wave energy industry.
+"The global wave energy market has an estimated value worth hundreds of billions of pounds and the WavePOD addresses the sector's challenges of improving reliability, developing standard components, fostering collaboration and driving down costs," he added.
+The pan-industry initiative was welcomed by trade body Ocean Energy Europe.
+Chief executive Sian George said: "If Europe is to turn its advantage in ocean energy technologies into a new industrial sector, collaboration will be key.
+"The WavePOD project provides a vehicle for ocean energy developers from all over Europe to work together and tackle problems in an efficient and cost-effective way.
+"We would encourage as many developers as possible to get involved in this project and hope to see this partnership approach applied to other barriers on the road to commercialisation."

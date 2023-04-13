@@ -1,0 +1,87 @@
+Abstract 
+  
+ We measured maps of atmospheric water (H 2 O) and its deuterated form (HDO) across the martian globe, showing strong isotopic anomalies and a significant high D/H enrichment indicative of great water loss. The maps sample the evolution of sublimation from the north polar cap, revealing that the released water has a representative D/H value enriched by a factor of about 7 relative to Earth’s ocean (VSMOW). Certain basins and orographic depressions show even higher enrichment, while high altitude regions show much lower values (1 to 3 VSMOW). Our atmospheric maps indicate that water ice in the polar reservoirs is enriched in deuterium to at least 8 VSMOW, which would mean that early Mars (4.5 billion years ago) had a global equivalent water layer at least 137 meters deep. ||||| A massive ancient ocean once covered nearly half of the northern hemisphere of Mars making the planet a more promising place for alien life to have gained a foothold, Nasa scientists say. 
+  
+ The huge body of water spread over a fifth of the planet’s surface, as great a portion as the Atlantic covers the Earth, and was a mile deep in places. In total, the ocean held 20 million cubic kilometres of water, or more than is found in the Arctic Ocean, the researchers found. 
+  
+  
+  
+ Unveiled by Nasa on Thursday, the compelling evidence for the primitive ocean adds to an emerging picture of Mars as a warm and wet world in its youth, which trickled with streams, winding river deltas, and long-standing lakes, soon after it formed 4.5bn years ago. 
+  
+  
+  
+ The view of the planet’s ancient history radically re-writes what many scientists believed only a decade ago. Back then, flowing water was widely considered to have been a more erratic presence on Mars, gushing forth only rarely, and never forming long-standing seas and oceans. 
+  
+  
+  
+ “A major question has been how much water did Mars actually have when it was young and how did it lose that water?�? said Michael Mumma, a senior scientist at Nasa Goddard Space Flight Center in Maryland. 
+  
+  
+  
+ Writing in the journal, Science, the Nasa team, and others at the European Southern Observatory (ESO) in Munich, provide an answer after studying Mars with three of the most powerful infra-red telescopes in the world. 
+  
+  
+  
+ The scientists used the Keck II telescope and Nasa’s Infrared Telescope Facility, both in Hawaii, and the ESO’s Very Large Telescope in Chile, to make maps of the Martian atmosphere over six years. They looked specifically at how different forms of water molecules in the Martian air varied from place to place over the changing seasons. 
+  
+  
+  
+ Martian water, like that on Earth, contains standard water molecules, made from two hydrogen atoms and one oxygen atom, and another form of water made with a heavy isotope of hydrogen called deuterium. On Mars, water containing normal hydrogen is lost to space over time, but the heavier form is left behind. 
+  
+ When normal water is lost on Mars, the concentration of deuterium in water left behind goes up. The process can be used to infer how much water there used to be on the planet. The higher the concentration of deuterium, the more water has been lost. 
+  
+ Ancient Mars was a warm and wet planet 
+  
+ The infrared maps show that water near the Martian ice caps is enriched with deuterium. The high concentration means that Mars must have lost a vast amount of water in the past, equivalent to more than six times that now locked up in the planet’s frozen ice caps. 
+  
+  
+  
+ The scientists calculate that the amount of water was enough to create a global ocean that covered the entire surface of Mars to a depth of 137m. But Mars was probably never completely submerged. Based on the Martian terrain today, the scientists believe the water pooled into a much deeper ocean in the low-lying northern plains, creating an ocean that covered nearly a fifth of the planet’s surface. The Atlantic, by comparison, covers about 17% of Earth’s surface. 
+  
+  
+  
+ “Ultimately we can conclude this idea of an ocean covering 20% of the planet which opens the idea of habitability and the evolution of life on the planet,�? said Geronimo Villanueva, the first author on the study. 
+  
+ Methane on Mars: does it mean the Curiosity rover has found life? Read more 
+  
+ The huge body of water lasted for millions of years. But over time, the Martian atmosphere thinned. The drop in pressure meant more ocean water wafted into space. The planet lost much of its insulation too. No longer warm enough to keep the water liquid, the ocean receded and eventually froze. Today, only 13% of the ocean remains, locked up the Martian polar caps. 
+  
+  
+  
+ “We now know Mars was wet for a much longer time than we thought before,�? said Mumma. Nasa’s Curiosity rover has already shown that Mars had standing water for 1.5 billion years, longer than it took for life to emerge on Earth. “Now we see that Mars must have been wet for a period even longer,�? Mumma added. 
+  
+  
+  
+ John Bridges, a planetary scientist at Leicester University, who works on Nasa’s Curiosity rover mission, said Mars was surely at least habitable in the distant past. “Ten years ago, the story of water on Mars was an occasional flood of rocky debris every 100m years that then switched off again. We now know it’s more continuous. There were long-standing bodies of water: lakes, deltas and perhaps even seas,�? he said. 
+  
+  
+  
+ “It seems to me that we have excellent evidence that Mars was once habitable, though whether it was ever inhabited is not clear. But there’s a chance. A life-bearing meteorite might have been ejected from Earth and could have landed in the water on Mars,�? he added. 
+  
+  
+  
+ The search for life on Mars will ramp up in 2018 when the European Space Agency sends its Exomars rover to the red planet. The rover will look for chemical signatures of life, perhaps emanating from microbes living deep beneath the Martian soil. Last year, Nasa’s Curiosity rover detected methane in the Martian atmosphere. The finding sparked intense speculation that the gas might be coming from living organisms. It might, but there is no evidence to suggest it is. Methane is regularly produced on planets through geological processes without any need for life. 
+  
+ Charles Cockell, professor of astrobiology at Edinburgh University, said: “The longer water persists on a planetary body in one location, particularly if there is geological turnover, the more likely it is that it would provide a habitable environment for a suitable duration for life to either originate or proliferate. An ocean would meet this need.�? That life was possible does not make it inevitable though. “Of course, it could have been uninhabited,�? he added. 
+  
+  ||||| View Images Originally Earth and Mars had identical proportions of ordinary hydrogen and deuterium in their water. But on Mars the ordinary hydrogen has been gradually leaking into outer space—the planet's thin atmosphere can be seen in this photo taken by the Viking 1 orbiter. 
+  
+ Photograph by NASA 
+  
+ Astronomers using some of the world's most powerful telescopes have determined that an ocean at least a mile deep covered a significant fraction of the Martian surface four billion years ago. 
+  
+ This time, the evidence comes from an analysis of the water vapor that lingers today in the Martian atmosphere. A team of scientists led by Geronimo Villanueva, of NASA's Goddard Space Flight Center, took a series of measurements of sunlight reflecting off the Martian surface and through the atmosphere, which revealed the chemical composition of the atmosphere's vapor. The hydrogen in water, whether it's on Mars or on Earth, comes in two varieties: ordinary hydrogen, whose nuclei contain just a proton, and "heavy" hydrogen, also known as deuterium, with a proton and a neutron. 
+  
+ An ancient sea once covered a fifth of the planet’s surface, astronomers found by calculating how much water the planet has lost over time. 
+  
+ NASA/VILLANUEVA/MUMMA/GALLAGHER/FEIMER ET AL. 
+  
+ Both Earth and Mars started out with identical proportions of ordinary hydrogen and deuterium in their water. But on Mars, with its weaker gravity, the ordinary hydrogen has been gradually leaking from the atmosphere out into space. As a result, Mars now has a higher proportion of deuterium in its water than Earth does—seven times as high, in fact. Since the scientists can estimate the escape rate that would have led to this imbalance, Geronimo and his co-authors can calculate how much water overall there once was. 
+  
+ It would have been enough, they say, that if it had covered the entire planet evenly, it would have reached a depth of about 450 feet (137 meters). In practice, says Geronimo, "it probably would have formed an ocean in the northern hemisphere, which has a consistently lower altitude." 
+  
+ "Their results are quite believable," says James Kasting, a planetary scientist at Penn State. But they probably suggest only the minimum amount of water that pooled on the ancient surface of Mars, he says. "My guess is that the true amount of water was much larger." 
+  
+ The reason: A paper Kasting co-authored in 2014 argues that the early Martian atmosphere was unusually rich in heavy hydrogen and that much of it escaped along with the ordinary variety. That would skew any calculations based on today's values, he says. 
+  
+ Either way, the evidence continues to mount that Mars was once far wetter—and, since the water was mostly in liquid form rather than in the icy polar caps where it's now locked up, much warmer—than it is today. That, along with increasing signs that the ancient chemical environment was hospitable to biology, means support for the notion that life might once have existed on Mars is only getting stronger. |||||

@@ -1,0 +1,23 @@
+This will affect businesses that use the VAT Flat Rate Scheme but which spend very little on goods, including raw materials - such as firms providing services.
+The VAT Flat Rate Scheme simplifies businesses' record keeping, and makes it easy to work out the VAT they have to pay.
+The proposed changes are the most important element of the Autumn Statement for this type of business.
+Normally a business deducts the VAT on its inputs (what they buy) from the VAT charged on what they sell (outputs).
+Under the Flat Rate Scheme, that two stage process is simplified to one step.
+For example, the flat rate percentage for a clothes shop is 7.5% - so if the owner of that shop sells a dress for £120 including VAT of £20 he will pay a flat rate of £9 (£120 x 7.5%) to HMRC.  The flat rate percentage for a detective agency is 12%.
+Exactly which sales count can be complicated - the details can be found on the HM Revenue and Customs (HMRC) website.
+The percentages for each type of business vary - there is a list here.
+The flat rate scheme is designed to give the government roughly the same amount of VAT, but should be much easier to work out.
+However, because it is an approximation, some businesses will pay more, and some less.  The government is concerned that some businesses are using the Flat Rate Scheme to pay less VAT than is appropriate
+In the Autumn Statement, Chancellor Philip Hammond announced changes which affect businesses which have a very low cost base. These businesses are now called "limited cost traders".
+Limited cost traders can still use the Flat Rate Scheme, but their percentage will be 16.5%.  So if they sell £120 of work, including £20 of VAT, the flat rate amount is £19.80 (£120 x 16.5%).
+A limited cost trader is defined as one that spends less than 2% of its sales on goods (not services) in an accounting period.
+When working out the amount spent on goods, it cannot include purchases of:
+A firm will also be a limited cost trader if it spends less than £1,000 a year, even if this is more than than 2% of the firm's turnover on goods.
+It will increase the VAT paid by labour-intensive businesses where very little is spent on goods. For example, this may affect IT contractors, consultants, hairdressers and accountancy firms.
+It will also affect construction workers who supply their labour, but where the raw materials are provided by the main contractor.
+Mike Cherry, national chairman of the Federation of Small Businesses, said: "Many small businesses rely on the optional VAT flat rate scheme to simplify the management of their tax affairs.
+"We welcome the government's attempts to clamp down on any misuse of this scheme by a small minority of businesses that use it. However we would be concerned if any small businesses who play by the rules now end up having to pay more to remain within the scheme.
+"Following these reforms, it is important HMRC now produces clear guidance so that small firms understand whether or not to join the scheme."
+The new rules start on 1 April 2017, but may also affect invoices issued, and goods bought, from now on.
+There is more about these "anti-forestalling" rules at sections 8.2 and 9.7 of the newly updated HMRC leaflet on the Flat Rate Scheme.
+The scheme can be more complicated than expected, and this note is only an overview, so be sure to read the guidance carefully.

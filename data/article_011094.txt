@@ -1,0 +1,115 @@
+Safe Cities Index: Security in a rapidly urbanising world 
+  
+ Safe Cities Index 2017 The paper analyses the results of the 2017 index, both overall and by each of the four categories: digital security, health security, infrastructure security, and personal security. Additional insight into the index results and urban safety, more generally, was gained through interviews with experts. Download PDF Download XLS PDF 日本語 
+  
+ About the report 
+  
+ The Safe Cities Index 2017 is a report from The Economist Intelligence Unit sponsored by NEC. The report is based on the second iteration of the index, which ranks 60 cities across 49 indicators covering digital security, health security, infrastructure security and personal security. 
+  
+ The index was devised and constructed by Chris Clague, Stefano Scuratti and Ruth Chiah. The report was written by Sarah Murray and edited by Chris Clague. Findings from the index were supplemented with wide-ranging research and in-depth interviews with experts in the field. Our thanks are due to the following people (listed alphabetically by surname) for their time and insights: 
+  
+ Nathalie Alvarado , citizen security lead specialist, Inter-American Development Bank 
+  
+ , citizen security lead specialist, Inter-American Development Bank Alan Brill , managing director, Kroll Cyber Security 
+  
+ , managing director, Kroll Cyber Security David Buck , senior fellow, public health and inequalities, The King’s Fund 
+  
+ , senior fellow, public health and inequalities, The King’s Fund Elizabeth Johnston , executive director, European Forum for Urban Security and executive director, French Forum for Urban Security 
+  
+ , executive director, European Forum for Urban Security and executive director, French Forum for Urban Security Dan Lewis , chief, Urban Risk Reduction Unit and head, City Resilience Profiling Programme, UN Habitat 
+  
+ , chief, Urban Risk Reduction Unit and head, City Resilience Profiling Programme, UN Habitat Mitchell Moss , professor of urban policy and planning, and director, Rudin Center for Transportation, New York University 
+  
+ , professor of urban policy and planning, and director, Rudin Center for Transportation, New York University Robert Muggah , co-founder, Igarapé Institute 
+  
+ , co-founder, Igarapé Institute Brian Nussbaum , assistant professor, Department of Public Administration and Policy, Rockefeller College of Public Affairs, State University of New York at Albany 
+  
+ , assistant professor, Department of Public Administration and Policy, Rockefeller College of Public Affairs, State University of New York at Albany Michael Nutter , professor of professional practice in urban and public affairs, Columbia University 
+  
+ , professor of professional practice in urban and public affairs, Columbia University Michael O’Hanlon , senior fellow in Foreign Policy, Brookings Institution 
+  
+ , senior fellow in Foreign Policy, Brookings Institution Jacqueline Poh , chief executive office, GovTech Singapore 
+  
+ , chief executive office, GovTech Singapore John Rossant , chairman, New Cities Foundation 
+  
+ , chairman, New Cities Foundation Ana Diez Roux , dean and professor of epidemiology, Dornsife School of Public Health, Drexel University 
+  
+ , dean and professor of epidemiology, Dornsife School of Public Health, Drexel University Dan Smith, director, Stockholm International Peace Research Institute 
+  
+  
+  
+  
+  
+ Executive summary 
+  
+ In many respects it’s the very success of cities, in their role as global social and economic hubs, that makes them more vulnerable. As rural residents head for the city in developing countries—which for purposes here we define as non-OECD countries, with the exception of Singapore—and wealthy global capitals draw in international talent, vast demographic shifts are creating cities with previously unimagined population sizes. In 2016, there were 31 megacities—cities with more than 10m inhabitants. This is projected to rise to 41 by 2030.1 
+  
+ And size matters. While cities generate economic activity, the security challenges they face expand and intensify as their populations rise. These include growing pressure on housing supply (prompting the spread of slums) and services such as healthcare, transport, and water and power infrastructure. 
+  
+ Man-made risks are also growing. As tragic recent events in European cities such as London, Paris and Barcelona have demonstrated, high profile, wealthy urban centres are becoming targets for terrorist activities. And as income divides widen, growing inequalities can create tensions that contribute to violent outbursts such as the 2011 London riots. 
+  
+ Meanwhile, another major shift has come to the fore: the rapid deployment of digital technologies in pursuit of the so-called “smart city”. The technologies no doubt bring benefits. As part of Internet of Things (IoT) technologies, sensors collect and wirelessly transmit data from physical objects, delivering new insights into city operations and permitting remote and more efficient management of infrastructure and services. Connecting apartments and office buildings to the electricity grid via smart meters, for example, delivers energy efficiency and cost savings. 
+  
+ And with the spread of closed-circuit televisions (CCTVs) and webcams around cities, technologies such as artificial intelligence and data analytics can greatly enhance the capabilities of law enforcement agencies to combat urban crime and terrorism. 
+  
+ Yet the rush to embrace smart city technologies also creates vulnerabilities if investments in digital technologies are not accompanied by commensurate investments in cyber security. Wealthy cities are making investments, albeit to varying degrees, but security often comes lower on the list of spending priorities for cities with already stretched finances. 
+  
+ The consequences of neglecting cyber security could be dire. For example, if hackers were to shut down the power supply, an entire city would be left in chaos. This prospect is something city officials now need to plan against. 
+  
+ Cities are also defined by the complex, interlinked nature of their systems and infrastructure. This complexity has a bearing on safety. For example, experts are uncovering links between the quality of housing and the health of citizens. And while terrorist attacks are what make headlines, traffic accidents are a greater day-to-day danger for urban residents. Natural forces are also coming in to play as climate change poses new risks to cities, with extreme weather events becoming an even greater threat, as illustrated by the devastation Hurricane Harvey just delivered to Houston, Texas. 
+  
+ The 2017 Safe Cities Index retains the four categories of security from the 2015 version— digital, health, infrastructure and physical. However, we have added six new indicators and expanded the index to cover 60 cities, up from 50 in 2015. 
+  
+ The index’s key findings include the following: 
+  
+ As in 2015, Tokyo tops the overall ranking. The Japanese capital’s strongest performance is in the digital security category while it has risen seven places in the health security category since 2015. However, in infrastructure security, it has fallen out of the top ten, to 12th. 
+  
+ The Japanese capital’s strongest performance is in the digital security category while it has risen seven places in the health security category since 2015. However, in infrastructure security, it has fallen out of the top ten, to 12th. In many cities, security is falling rather than rising: With two exceptions (Madrid, which is up 13 places and Seoul, up six), cities tend to have fallen in the index since 2015 (for example, New York is down 11 places, Lima is down 13, Johannesburg is down nine, Ho Chi Minh City is down ten and Jakarta is down 13) 
+  
+ With two exceptions (Madrid, which is up 13 places and Seoul, up six), cities tend to have fallen in the index since 2015 (for example, New York is down 11 places, Lima is down 13, Johannesburg is down nine, Ho Chi Minh City is down ten and Jakarta is down 13) Asian and European cities remain at the top of the index: Of the cities in the top ten positions in the overall index, four are East Asian cities (Tokyo, Singapore, Osaka and Hong Kong), while three (Amsterdam, Stockholm and Zurich) are European. 
+  
+ Of the cities in the top ten positions in the overall index, four are East Asian cities (Tokyo, Singapore, Osaka and Hong Kong), while three (Amsterdam, Stockholm and Zurich) are European. Asia and the Middle East and Africa dominate the bottom of the index: Dhaka, Yangon and Karachi are at the bottom of the list. Of the ten cities at the bottom of the overall index, three are in South-east Asia (Manila, Ho Chi Minh City and Jakarta), two are in South Asia (Dhaka and Karachi) and two are in the Middle East and Africa (Cairo and Tehran). 
+  
+ Dhaka, Yangon and Karachi are at the bottom of the list. Of the ten cities at the bottom of the overall index, three are in South-east Asia (Manila, Ho Chi Minh City and Jakarta), two are in South Asia (Dhaka and Karachi) and two are in the Middle East and Africa (Cairo and Tehran). Security remains closely linked to wealth but the rankings of high-income cities are falling: While cities in developed economies dominate the top half of the index (with the lower half dominated by cities in poorer countries), of the 14 cities in high-income countries, the rankings of ten have fallen since 2015. 
+  
+ While cities in developed economies dominate the top half of the index (with the lower half dominated by cities in poorer countries), of the 14 cities in high-income countries, the rankings of ten have fallen since 2015. Income is not the only factor governing city performance on security: Most of the cities in the top ten of the index are high-income or upper middle-income cities. However, two high-income cities in the Middle East (Jeddah and Riyadh) fall below position 40 in the index. 
+  
+ Most of the cities in the top ten of the index are high-income or upper middle-income cities. However, two high-income cities in the Middle East (Jeddah and Riyadh) fall below position 40 in the index. America’s failing infrastructure is reflected in its cities’ rankings: No US city makes it into the top ten in this category and only San Francisco appears in the top 20. The top ten cities in this category are either in Europe (Madrid, Barcelona, Stockholm, Amsterdam and Zurich) or Asia-Pacific (Singapore, Wellington, Hong Kong, Melbourne and Sydney). 
+  
+ No US city makes it into the top ten in this category and only San Francisco appears in the top 20. The top ten cities in this category are either in Europe (Madrid, Barcelona, Stockholm, Amsterdam and Zurich) or Asia-Pacific (Singapore, Wellington, Hong Kong, Melbourne and Sydney). However, the US performs well in digital security: Of the cities in the top ten in this category, four are North American (Chicago, San Francisco, New York and Dallas). 
+  
+ 1 The World’s Cities in 2016: Data Booklet, United Nations. Available at: http://www.un.org/en/development/desa/population/publications/pdf/urbanization/the_worlds_cities_in_2016_data_booklet.pdf 
+  
+  
+  
+  
+  
+ Introduction 
+  
+ In the two years since we published the inaugural Safe Cities Index, the world’s urban population is estimated to have grown by more than 150m people, raising the total number of people living in cities to above 4bn. More than 90% of the increase in urbanisation over this period occurred in the developing world, where massive migration from rural areas has continued to accelerate. In the developed world, however, the size of most cities remained roughly the same, with some cities even beginning to shrink in those countries with ageing and declining populations. 
+  
+  
+  
+  
+  
+ The results of the 2017 Safe Cities Index, which now covers 60 cities, again show a sharp divide in overall levels of safety between the fast urbanising developing world and the stagnant developed world. The top three cities in the index are unchanged from 2015, with Tokyo, Singapore and Osaka ranked first, second and third and still separated by mere tenths of a point. Likewise, the remainder of the top ten continues to be comprised of mainly Asian and European cities. 
+  
+ At the bottom of the Index is one of the ten new cities added in 2017: Karachi. Although it performs poorly across all of the categories, it was dragged down by a very low level of personal security (60th). This is a reflection of a number of factors, but the main reason is that among the cities in the index, it experiences by far the most frequent and most severe terrorist attacks. Jakarta, which ranked last in 2015, is 57th this year, pulled from the bottom by the addition of Karachi and other cities like Yangon and Dhaka. 
+  
+ In 2017 only one city in the developing world cracks the top half of the index, Buenos Aires, which places 29th, between two Middle Eastern cities, Abu Dhabi (28th) and Doha (30th). Two other Middle Eastern cities, Jeddah (42nd) and Riyadh (47th), are the worst performing of the 21 cities from the developed world, having scored below average in all of the four categories and particularly poorly in the infrastructure and personal security categories. 
+  
+ All the seven cities in North America are in the top half of the overall rankings but many underperform their developed country peers in key areas. New York, for example, ranks 31st in health security, with Dallas (29th) faring only slightly better. Dallas is also in the bottom half of the infrastructure security category, a category in which Chicago (27th) and Washington, DC (28th) are relatively weak as well. The decaying state of infrastructure in the US has long been a subject of debate in the country. The index shows that the debate has yet to translate into much action. 
+  
+ In general, while the Safe Cities Index measures relative rather than absolute safety, there does not appear to have been a vast improvement in overall levels of safety since 2015. In parts of the developed world, particularly Europe, a series of terrorist attacks has affected personal security. At the same time, city governments in the developing world are still struggling to keep pace with the rapid expansion of their populaces, which is straining infrastructure and overwhelming health services and law enforcement, the extent to which it is even present. 
+  
+ That is not to say progress hasn’t been made. At least in the developed world, more cities are devoting resources to digital security. Seoul, for one, improved its ranking in the category by 29 places by reducing the number of computers infected with viruses and the frequency of identity theft. But significant gaps in safety remain. In many instances, it’s a matter of resources—financial, human and political. Yet in others, it’s a question of understanding. The latter is easier to bridge and cities can start with identifying the problems and understanding how they’ve been solved elsewhere. The Safe Cities Index was designed to help policymakers address these and other issues. ||||| Our world has evolved beyond just thinking of safety in terms of personal well-being, health, and infrastructure—we now live in a digital age. Therefore, quantifying what is classed as a safe place to live means looking at more than crime rates and building regulations. 
+  
+ Perhaps, one of the most granular ways to determine where the safest places in the world to live are is by looking The Economist Intelligence Unit, which ranks countries in its Safe Cities Index. It looks at health security, infrastructure safety, personal safety, as well as digital security. 
+  
+ The 2017 index ranked 60 major cities, scoring 49 indicators in the same four subindexes to get a final score out of 100. The ranking also includes more nuanced and weighted data to get a more accurate result. For example, it added man-made threats such as indicators about terrorism and civil unrest. It also revised how it looks at gender safety, which “was changed from the number of rape cases to female homicide victims. This is to address issues on the underreporting of sexual violence crimes as well as differing definitions of rape. Homicide tends to be less underreported, and the focus on female victims also captures gender safety issues,” said the EIU. 
+  
+ Tokyo came out on top as the safest city to live in the world. Overall, Asian and European cities hit most of the top ten positions in the index. 
+  
+ Ranking Country 1 Tokyo 2 Singapore 3 Osaka 4 Toronto 5 Melbourne 6 Amsterdam 7 Sydney 8 Stockholm 9 Hong Kong 10 Zurich 
+  
+ Tokyo reached poll position for digital security, second place for health security, and fourth place for personal security. However it didn’t rank in the top five for infrastructure security, which is why its overall score in the Safe Cities Index hit 89.80. Singapore came in a close second with 89.64, while Osaka came in at third place with 88.87. |||||

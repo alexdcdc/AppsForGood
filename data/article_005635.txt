@@ -1,0 +1,10 @@
+Earlier this month, Dutch police told the BBC they had decrypted messages on Blackberrys modified by third parties.
+Blackberry has now said the message recovery, if there was any, could be down to third-party applications or the insecure practices of users.
+It prides itself on providing one of the most secure means of communication.
+World leaders, including US President Barack Obama, have been pictured using the company's devices.
+Some third parties sell modified handsets known as PGP Blackberrys, which promise to add an additional layer of encryption to communications.
+It is those PGP Blackberrys the Netherlands Forensic Institute (NFI) said it had been able to crack.
+"If such an information recovery did happen, access to this information from a Blackberry device could be due to factors unrelated to how the Blackberry device was designed," the company said in a blog post.
+"There are no backdoors in any Blackberry devices.
+"And Blackberry does not store and therefore cannot share Blackberry device passwords with law enforcement or anyone else.
+"Provided that users follow recommended practices, Blackberry devices remain as secure and private as they have always been."

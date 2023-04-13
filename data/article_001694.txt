@@ -1,0 +1,16 @@
+It says that a deal with Deutsche Telekom and satellite firm Inmarsat will allow passengers to enjoy "the same speed and quality" of internet surfing that they are used to at home.
+Lufthansa has not decided how much the service will cost, but it could be linked to the type of ticket purchased.
+Broadband is still relatively rare on short-haul flights.
+Norwegian is one of the few airlines to offer broadband for free.
+Simon Calder from the BBC's Travel Show says that, so far, wifi on planes is "not very good" and he does not expect Lufthansa to improve on that.
+"It's feasible to provide a broadband connection at 500mph. But if 150 people want to connect then it is likely to be fragile, and not a great experience," he said.
+However, Lufthansa says its service will be based on the most modern technology available and may be fast enough to offer streaming of videos.
+According to Deutsche Telekom the combination of satellite technology and a sophisticated ground network will "deliver the fastest, best and most consistent in-flight broadband experience that meets the needs of airlines in this region".
+Analysis: Jonathan Amos, BBC Science correspondent
+There is no doubt there is pent up demand for good wifi in the sky.
+But many people who've used the internet onboard an aeroplane may well have a less than favourable view of the experience: low speeds, delays in pages loading, and, significantly, a high cost compared with what can can be purchased in a cafÃ© on the ground.
+The new EU-wide system on which Inmarsat and Deutsche Telekom are partnering is designed to tackle all these flaws.
+By getting planes to link to ground cell towers should significantly increase speeds - to allow even streaming video in the aircraft seat - while at the same time transforming the cost-per-bit economics of onboard wifi.
+But you still need a satellite to fill in any gaps in cell coverage, and to pick up customers' connections when their planes head out of Europe and over the ocean on long-haul flights.
+For Inmarsat - even with its current, lower-speed, satellite-only systems - the aero business is now the fastest growing sector in the London company's portfolio.
+For Lufthansa, which will be the first carrier to offer the network - it has done survey work in which two-thirds of customers say good connectivity will influence the airline they choose.

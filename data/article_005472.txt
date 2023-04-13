@@ -1,0 +1,63 @@
+Verizon Wireless (NYSE:VZ) plans to eliminate the $30 per month unlimited data plan that it still provides to 3G customers who were "grandfathered" into the plan because they were data customers prior to the company's switch to tiered data pricing last July. Speaking at the 40th Annual J.P. Morgan Technology, Media and Telecom conference, Verizon Communications CFO Fran Shammo said that as these 3G unlimited data plan customers migrate to 4G LTE, they will have to purchase the company's data-share plan (which Verizon plans to launch in mid-summer) and move off the $30 per month unlimited data plan. "Everyone will be on data share," Shammo said. 
+  
+ Shammo 
+  
+ Verizon's data share plan is scheduled to launch in mid-summer but no pricing details have been announced. Shammo said that he believes this new plan will make it easier for families and small businesses to connect multiple devices. The industry, Shammo said, has constrained the market around connected devices because people think they need an additional data plan. "If I can add as many devices as I want, that is more efficient from a family perspective and a small business perspective," he said. 
+  
+ However, Shammo said that with the launch of this new data share plan, the industry will have to change a key metric--average revenue per user. Shammo said that Verizon will move to a "revenue per account" metric that will more accurately measure the company's business. 
+  
+ When asked how Verizon will drive customers to this new data share plan, Shammo said that LTE will be the anchor for the new plan and that as customers upgrade from 3G to LTE, they will have to be on a data share plan, allowing the company to sunset its unlimited 3G data plan. "So as you come through an upgrade cycle and you upgrade in the future, you will have to go onto the data share plan," Shammo said, according to a transcript of his remarks. "And moving away from, if you will, the unlimited world and moving everybody into a tiered structure data share-type plan." 
+  
+ "So when you think about our 3G base, a lot of our 3G base is unlimited," he added. "As they start to migrate into 4G, they will have to come off of unlimited and go into the data share plan. And that is beneficial for us for many reasons, obviously." 
+  
+ Verizon later issued a statement clarifying Shammo's remarks, as there was some confusion about when the unlimited data plan would sunset. Specifically, the company said that customers with unlimited plans will get to keep their unlimited plans. However, when shared data plans become available, the unlimited option will no longer be available to customers when they buy a new device at a subsidized price, which usually happens with a two-year service contract. 
+  
+ In an unrelated note, Shammo also said that the company will launch Voice over LTE technology at year end, but will not push the technology until mid-2013 when it has a bigger LTE footprint. In fact, Shammo noted that by the end of 2013 Verizon's LTE footprint will be equal to or even bigger than its existing 3G footprint. 
+  
+ For more: 
+  
+ - see this webcast 
+  
+ - see this Verizon transcript 
+  
+ - see this New York Times article 
+  
+  
+  
+ Related Articles: 
+  
+ Verizon to launch family data plan by mid-year 
+  
+ Verizon revives double LTE smartphone data promotion 
+  
+ Verizon LTE subscribers climb to 8M in Q1, iPhone activations decline to 3.2M 
+  
+ Verizon's McAdam: Family data plans coming in 2012 
+  
+ This article was updated May 17 to include the statement from Verizon providing more details about what happens to unlimited data plans when consumers upgrade their devices. ||||| Verizon Wireless said today that users grandfathered into unlimited data plans will soon have to switch to tiered pricing if they upgrade their devices. 
+  
+ "As you come through an upgrade cycle and you upgrade in the future, you will have to go onto the data-share plan and mov[e] away from, if you will, the unlimited world," Verizon Communications CFO Fran Shammo said during an appearance at a J.P. Morgan technology conference. 
+  
+ Over the summer, Verizon plans to introduce data share plans, which will allow for multiple devices to be connected to the same account - whether that be families or small businesses. Pricing details have not been released, but when that happens, those upgrading to a newer gadget will have to bid adieu to unlimited data consumption. 
+  
+ "A lot of our [90 million] 3G base is unlimited," Shammo said. "As they start to migrate into 4G, they will have to come off unlimited and go onto the data share plan. And that's beneficial for us for many reasons." 
+  
+ The news was first reported by Fierce Wireless. 
+  
+ Verizon dropped unlimited smartphone data plans for new customers in July 2011 in favor of several tiered options. Existing unlimited data customers could keep their plans, but earlier that year, Verizon had already started throttling those who consumed an "extraordinary" amount of data. Other carriers, with the exception of Sprint, have also moved to a tiered pricing/throttling combination to offset the influx of data customers. 
+  
+ The idea behind the data share plans, meanwhile, is partly to encourage users to adopt more devices. "We've kind of constrained the marketplace now around connecting more devices because everyone thinks, 'Well, if I connect that device, I now have to buy an additional data plan,'" Shammo said. "If I can add as many devices as I want and share that data plan, that's ... much more efficient from a family share perspective [and] from a small business perspective." 
+  
+ "It's a win for the consumer, but it's also a win for us that we're not going to take a huge revenue dilution here when we launch this plan," Shammo continued. 
+  
+ Given that 4G LTE devices tend to consume data at a more rapid clip than 3G, "we are fairly confident that we will see people start to uptake in the tiers, which is really where we'll get the revenue accretion in the future," Shammo said. 
+  
+ In April, Verizon Wireless announced that it would start charging a $30 upgrade fee for those who want to trade in their old phone for a newer model. Shammo said today that Verizon is "not seeing any impact from a customer base from that fee, so that was the right thing to do." 
+  
+ When asked about the FCC's review of Verizon's effort to purchase $3.6 billion worth of spectrum from several cable firms, meanwhile, Shammo said Verizon is "still extremely confident that the deal will get approved." 
+  
+ Update: Verizon issued an official statement on the matter Wednesday evening. "As we have stated publicly, Verizon Wireless has been evaluating its data pricing structure for some time. Customers have told us that they want to share data, similar to how they share minutes today. We are working on plans to provide customers with that option later this year. We will share specific details of the plans and any related policy changes well in advance of their introduction, so customers will have time to evaluate their choices and make the best decisions for their wireless service. It is our goal and commitment to continue to provide customers with the same high value service they have come to expect from Verizon Wireless." 
+  
+ For more from Chloe, follow her on Twitter @ChloeAlbanesius. 
+  
+ For the top stories in tech, follow us on Twitter at @PCMag. |||||

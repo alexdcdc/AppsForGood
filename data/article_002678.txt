@@ -1,0 +1,167 @@
+View Images Calculations reveal that Cinderella’s glass slipper would have broken, along with her heart. 
+  
+ Photograph by AF archive, Alamy 
+  
+ We all know the story: The clock strikes midnight and Cinderella, facing an imminent wardrobe malfunction, flees the royal ball, leaving behind a single glass slipper. The prince travels the kingdom until he finds the woman who fits the shoe, and the two are married. 
+  
+ But, Cinderella’s chance to live happily ever after could just as easily have been shattered, say physics students who used stress calculations to assess the durability of her glass footwear. 
+  
+ “When standing, the force acting downward is assumed to be evenly shared between her feet,” they explain. But, if she’s walking or running, that downward force is pushing entirely on one foot at a time. 
+  
+ The result? Cinderella’s glass slippers would have broken (as would her heart) unless her heels were less than half-an-inch high—thus proving that aspiring princesses should always opt for flats over pumps. 
+  
+ This and other cautionary tales for imaginary characters can be found in the Journal of Physics Special Topics. Published by the University of Leicester, the online journal publishes the work of students who apply real physics skills to creative problems, then "peer review" one another. 
+  
+ Some of their papers tackle real-world calculations—such as why doors slam when you leave windows open in your house—but most are rooted in fantasy and fiction, including fairy tales, Greek mythology, comic books, films, and video games. 
+  
+ “There’s only one real world,” says physics professor Mervyn Roy, who oversees the course. “Students can run out of relatively simple problems because other groups have done them in the past. But once you start to look at fiction, there’s a huge realm of things to explore.” 
+  
+ View Images In the 1978 film Superman, the Man of Steel committed a super error when he reversed the spin of the Earth. 
+  
+ Photograph by AF archive, Alamy 
+  
+ In doing so, the students are in good company. Over the decades, prominent scientists have written their fair share of fanciful papers. The esteemed oceanographer Karl Banse published a journal article, "Mermaids: Their Biology, Culture, and Demise." Thomas Woolley, at Oxford University's Mathematical Institute, showed how diffusion equations could be used to predict zombie migration patterns. 
+  
+ Scientists love problem solving, says Roy, and curiosity-driven research can yield unexpected insights. He cites as an example some papers written on the physics of coffee-ring stains in the 1990s. “I imagine when scientists were doing that, a lot of people we saying, what's the point?” he says. “But now, the models that they worked out are used for things like techniques to self-assemble nanoparticles.” 
+  
+ And, of course, there’s the simple fact that scientists, like everyone else, just wanna have fun. 
+  
+ “In my career, I have seen both scientists and the public criticize scientists for having 'fun,'” declares oceanographer Craig McClain, the founder and chief editor of the blog Deep-Sea News. “I for one went into science to have fun, and if my Ph.D. gives me the skills to calculate the urine production of Godzilla then I will wear that nerd badge with glee." 
+  
+ In that spirit, here’s a sampling of some of the other research papers just published in the Journal of Physics Special Topics: 
+  
+ Superman’s Super Error 
+  
+ In the 1978 film, Superman, the Man of Steel, grief-stricken by the death of Lois Lane, travels backwards in time by flying at speeds that cause the Earth to spin backwards. 
+  
+ Of course, time travel using this method is nonsense, but could the Last Son of Krypton reverse the rotation of an entire planet? 
+  
+ If my Ph.D. gives me the skills to calculate the urine production of Godzilla then I will wear that nerd badge with glee. Oceanographer Craig McClain 
+  
+ It’s possible . According to Einstein’s General Theory of Relativity, a moving object increases in mass as it approaches the speed of light. If Superman were to fly fast enough, his relativistic mass would be 13.7 million times his normal mass. Doing so would generate a gravitational field sufficient to change the polarity of the Earth’s spin. 
+  
+ Unfortunately, that gravitational field would also attract nearby asteroids that would pummel Superman’s adopted planet into extinction. “So spread the word: Do not try this at home,” the students caution. 
+  
+ The Santa Paradox 
+  
+ Einstein’s theory also stipulates that time moves slower for an object in motion relative to one standing still (the “Twin Paradox”). 
+  
+ So, what does that mean for Santa Claus ? In order to deliver all his presents in one night (12 hours) he would need to be traveling at 0.76% of the speed of light during the entire time. 
+  
+ As such, the principle of time dilation stipulates that, after spending 194 years transporting gifts on Christmas Eve, Santa is 242 seconds younger than the rest of us. 
+  
+ View Images When Santa Claus comes to town, he’s traveling so fast that he ages slower than the rest of us. Photograph by Joel Sartore, National Geographic Creative 
+  
+ The Vampire’s Drinking Problem 
+  
+ Vampires who wish to optimize their feeding habits should drink no more than 15% of a human being’s blood. Beyond that point, the human heart rate begins to change, increasing and allowing more blood to be lost through the puncture holes in the external carotid artery (where the vampire drinks). It would be like turning a drinking straw into a firehose. 
+  
+ Using fluid dynamics, students calculated that it would only take 6.4 minutes for a vampire to drain this much blood and make a swift getaway. 
+  
+ Flashy Footwear 
+  
+ On the TV show The Flash, the lighting-quick superhero runs so fast that, in one scene, his shoes catch fire. 
+  
+ Assuming that he’s wearing rubber soles, he would have to reach a speed of 15,459 miles per hour (6,911 meters per second) to generate enough frictional heat to, literally, burn rubber. However, in “real life,” the Flash’s shoes would have completely worn out upon hitting 881 miles per hour (394 meters per second). 
+  
+ The Best Laid Evil Plans 
+  
+ In the James Bond film, Die Another Day, evil genius Gustav Graves threatens the world with his Icarus satellite, which harnesses sunlight to generate a deadly laser beam. How big would the satellite’s solar panel have to be? 
+  
+ Taking into account the initial energy of the laser—plus the additional energy required to counteract atmospheric effects as it rains destruction down on the Earth’s surface—the panel would need to be 52,420 square feet (4,870 square meters) about half the size of a city block. 
+  
+ “The satellite could possibly be built in stages,” the students conclude, “however, funding this would be very difficult as it would take several launches to complete.” Perhaps evil villains should crowdsource? ||||| Physics Special Topics is a journal of short, often fun and quirky, quantitative science articles that are written, refereed and edited by undergraduate students as part of their MPhys degree. The journal is designed to help students develop transferable skills in communication, team work, problem solving and critical reviewing. 
+  
+ Articles written by students often make the national and international news. This can be both interesting and exciting for the students, but sometimes causes a little controversy! However, at its root the journal serves a serious educational purpose, and this is discussed below. 
+  
+ The educational purpose of the journal 
+  
+ The Journal of Physics Special Topics forms a 10-credit module in the final year of the four-year undergraduate MPhys degree. 
+  
+ The module gives students an important insight into the process of peer review and scientific publishing. It provides scope for creativity, for group work in a realistic context, and for the opportunity to revise some basic physics. 
+  
+ Split into small groups, the students are asked to come up with ideas for, research, and write, simple papers of no more than two pages, properly presented with formulae, diagrams, references etc. 
+  
+ The groups referee each other’s work and sift out any ‘low quality’ papers containing mistakes or invalid conclusions in a process overseen by a student editorial board. 
+  
+ The end result is the annual edition of the Journal of Physics Special Topics. 
+  
+ The module can be a lot of fun, and - especially for those interested in a career in research - the introduction to the world of scientific publishing and peer review is absolutely invaluable. 
+  
+ Dr. Mervyn Roy, course leader 
+  
+ Thinking outside of the box 
+  
+ It's important for a research physicist - in academia or in industry - to be creative. To think outside the box. If you are facing a new and challenging problem you usually need to apply some imagination to develop a solution or to find a way to approach the problem from a new perspective. 
+  
+ In PST the students exercise their imagination in choosing the problems they research and the approximations they use to make the problems tractable. The papers are not meant to contain ground breaking new physics. Instead, the goal is for the students to apply some of the basic physics they already know in different areas, or in a completely different context. 
+  
+ The choice of topic for each paper is completely up to the students. The only constraints are that the students must calculate something relatively original and quantitative using basic physics from their undergraduate course. Each paper should only take around a few hours of student time - the important thing is that each paper written gives other groups something to peer review. 
+  
+ The peer review process 
+  
+ Even in the most off-the-wall topics, the physics must be correct and the approximations appropriate. Every paper that is submitted to the journal is refereed by at least two other students. As part of this peer review process, the physics is checked, approximations are challenged, and errors are exposed. Not every paper submitted to PST is published. 
+  
+ The world of scientific publishing 
+  
+ Research physicists spend a significant proportion of their professional lives on scientific publishing: writing and submitting papers, and writing and responding to referee reports. Because PST is run like a professional journal, the students practice and develop all the skills they will need when dealing with high profile journals like Nature or Science later on in their careers. 
+  
+ Transferable skills 
+  
+ The journal also provides the opportunity for students to further develop soft skills that are useful in every walk of life - they need to present often quite complex information clearly and concisely; they need to both give and accept professional criticism. Every student also takes a turn serving on the student editorial board that oversees the journal. 
+  
+ History of the Journal 
+  
+ The concept of the Journal of Physics Special Topics was developed by Professor Derek Raine who introduced the Journal onto our MPhys course in 1996. In 2006 Professor Raine was awarded the Institute of Physics Bragg medal for 'his work on the teaching of physics in universities.' 
+  
+ Writing about the journal, the Institute of Physics said "The panel was particularly impressed by the Journal of Special Topics", The journal is "an excellent advertisement for the physics department in addition to being a valuable piece of work that the students could show prospective employers." 
+  
+ Dr Mervyn Roy took over as module leader in 2009 and facilitated the process of moving the Journal fully on-line (including submission of articles, review requests and submissions, editorial decisions and publishing). ||||| The film adaptation of Andy Weir's breakout novel "The Martian" isn't just awesome, it might also be one of the most realistic space exploration movies that's ever graced the silver screen. 
+  
+ Whenever a new science fiction movie comes out, there's often a lot of talk about how "accurate" it is, and this is usually in reference to the science: Can dinosaur DNA really come from a preserved mosquito? Can an asteroid really be deflected with a nuclear bomb? There's even an organization called the Science and Entertainment Exchange in Los Angeles that connects science-fiction writers with real scientists to consult on their work. 
+  
+ But a science-fiction film's "accuracy" or "realism" shouldn't hinge only on the science and technology, but also on the presentation of scientists and their culture. With that in mind, "The Martian" might be the most realistic (but fictional) space movie of all time. Like Andy Weir's book of the same name, the movie captures the culture of science — the way scientists talk, the way they interact, their motivations and their response to extreme failure. And the fact that a lot of them are real smart asses. (The movie may have actually have been too realistic, judging by the number of people who wondered if it was based on a true story.) 
+  
+ (Warning: This article discusses some specific plot points about the movie, but mostly sticks to information that can be gathered from the trailer. There is no reveal about how the story ends.) [Photos from 'The Martian'] 
+  
+ A scientist — as portrayed in most big-budget movies — usually resembles a robot more than a human. These caricatures of scientists show them as dorky, calculating, anti-social, almost never cool or confident, and rarely funny (and if they are, they usually crack jokes about "Star Wars.") 
+  
+ Mark Watney, the lead character in "The Martian," is an antidote to that tired trope. He's funny, and his humor may be what saves him from losing hope — and his mental stability — when he gets stranded alone on Mars. And Watney isn't alone — many of the scientists and engineers in the movie (and even more of them in the book) match him in wits and humor. 
+  
+ The other scientists and engineers in the movie also run counter to the typical "scientist" stereotype. Commander Lewis, played by Jessica Chastain, is a no-nonsense, Navy-trained geologist leading a human mission to Mars, who also loves disco and TV shows from the 1970s. It'd be tough to break the stereotype of a scientist much more than that. To be fair, the movie does feature one strange, somewhat robotlike scientist, Rich Purnell, but that character feels more real (not just excusable) because he is an exception, not the rule. 
+  
+ Drew Goddard, who wrote the screenplay for "The Martian," grew up in Los Alamos, New Mexico — a town that was literally built around a national science laboratory and is populated "entirely [by] rocket scientists," according to Goddard. At a panel discussion following a screening of the movie in New York, Goddard spoke about how the book captured the reality of the scientific culture that he recognized from his upbringing. 
+  
+ "Andy [Weir] really captured in his book the way scientists sound," Goddard said. "It wasn't just about the technical stuff being right. I don't want to say it's the 'easy part,' but we can look that stuff up. The tricky part is getting the way [scientists] talk, and that is usually what I find that Hollywood films get wrong." [Andy Weir: How To Kill – Or Save – A Martian (Exclusive Interview with the Author ) ] 
+  
+ Compared to scientists depicted in most movies, Goddard says he remembers scientists being "much funnier." He continued by saying, "And there's this collegial atmosphere that happens when smart people are trying to work together. And that's what the book captured and it was important to me to protect that, Goddard said. "To me, it was all about protecting that soul, that soul of scientists working together to solve a problem and not knowing how to solve a problem but trusting their instincts on what to do." [Matt Damon – Making 'The Martian' Was Amazing (Exclusive Interview ) ] 
+  
+ Who knew the construction schedules for space probes could be so fascinating? Of course, it adds quite a bit of drama when those schedules determine whether an astronaut lives or dies, as is the case in "The Martian." 
+  
+ In so much of futuristic science fiction, spaceflight is almost taken for granted: People hop into rockets and start them up with the ease of turning on a car engine. Getting into and out of a spacesuit takes a matter of seconds. In modern-day spaceflight, these things require hours, days, weeks of preparation, no matter how many times they've been done before. And that means there are dozens or hundreds of engineers, project leaders and other staffers who are all essential for getting probes into space — not to mention astronauts. 
+  
+ While Mark Watney is without a doubt the star of the movie, it's impressive how much credit "The Martian" gives to the people who are supporting him. It lays out the struggles of the people trying to build a probe to send food to Watney, and the many, many things that can go wrong during a rocket launch. (Movies like "Apollo 13" are notable because they demonstrate the importance of the people on the ground.) 
+  
+ This also makes for a delightful couple of Easter eggs for fans of real-world spaceflight and space-related science. NASA's Jet Propulsion Laboratory (JPL) is practically a character all on its own (even though the lab shown in the movie is not actually the JPL campus). 
+  
+ There are many, many, many movie plots that revolve around something terrible happening in space. An asteroid is headed toward Earth, the core of the Earth stops spinning, the sun starts radiating too many particles, there's another asteroid behind the first one, there's deadly space debris, there's a monster that lives on the moon, there's a monster that lives on Mars, there's a monster that lives on an old spaceship, people live in space too long and they turn into monsters, oh, and there's another asteroid. 
+  
+ "The Martian" begins with an extraordinary circumstance: An astronaut is mistaken for dead, and is left behind on Mars. But beyond that, the only obstacles that Watney faces are the normal, ever-present challenges of living on the Red Planet — things like maintaining a habitat when the surface has almost no atmosphere, or growing plants where there is no water, no soil microbes and extreme temperature fluctuations. In other words, it's a survival story in space that doesn't need asteroids or monsters or any of that stuff, because space is a hard enough place in which to survive as it is. [How Director Ridley Scott Made 'The Martian' (Exclusive Interview ) ] 
+  
+ Many filmmakers would probably worry that a story without the crazy disasters (just the "normal" stuff) would be boring for an audience. Huge applause should go to the creators of "The Martian" for recognizing just how untrue that is. The story is well-told, the audience cares about Watney and watching someone try to live on Mars is freaking awesome. (Leroy Chiao, he AstroCritic,, weighed in on what else the movie got right about astronauts.) 
+  
+ By using real obstacles as Watney's enemy, the movie is also able to not only stick to real science, but also to make it extremely fascinating (once again, boring science problems become interesting when they are part of a great story). Major struggles arise because of how cold Mars is, and because it has a different atmospheric pressure than Earth (and Watney's artificial habitat). NASA struggles to communicate with Watney and send him supplies because Earth and Mars are really, really, really far away from each other. Overcoming these types of problems are what Weir says got him started writing the book, and the movie maintains the science extremely well. ['The Martian' Shows 9 Ways NASA Tech Is Headed to Mars] 
+  
+ With so many space movies centered on a terrible catastrophe, it's no wonder that most movie astronauts often end up seriously regretting ever leaving Earth. These films also leave audiences with the feeling that space itself is a kind of monster that should inspire nothing but fear. (The 2013 movie "Gravity" literally used a disaster in space as a metaphor for a dead child, and the struggle to get back to Earth as the emotional recovery from that trauma.) 
+  
+ This fear, or even hatred, of space might be the single biggest inaccuracy in most space-related movies. 
+  
+ The history of spaceflight contains fatalities, some of which arose out of horrible, preventable circumstances. While these events initiate action, reflection and mourning, they have never made people stop wanting to explore space. 
+  
+ "The Martian" captures this extremely well. Even when NASA thinks Watney is dead, it continues to push into the unknown. People keep thinking about the next human trip to Mars. There is an acknowledgement that despite every effort to keep astronauts alive, spaceflight and space exploration carry with them the risk of death, and astronauts willingly accept that. 
+  
+ Even when Watney finds himself at one of his lowest points, when he's drafting a letter to his parents knowing that they may very well outlive him, he tells them, "I love what I do." 
+  
+ It's fantastic to see a movie finally capture that attitude. That passion is hardwired into enough people that humanity is now making serious plans to land people on another planet. Nature will trip up those hard and again, but that's an expected part of the journey 
+  
+ Follow Calla Cofield @callacofield. Follow us @Spacedotcom, Facebook and Google+. Original article on Space.com. |||||

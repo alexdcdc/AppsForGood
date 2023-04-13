@@ -1,0 +1,28 @@
+The prime minister said it was "absolutely vital" police could access communications data via social media.
+"We need to know who called whom and when," he told ITV's This Morning.
+Wednesday's Investigatory Powers Bill would let police see websites people have visited but not the specific pages they have viewed without a warrant.
+The BBC's security correspondent Gordon Corera said the plan may be resisted in the House of Lords amid concerns about the degree of intrusion into people's browsing histories and who would authorise police warrants.
+The new security bill is the latest in a series of attempts to update the law to allow police and security services to access communications data, as more and more takes place online rather than on phones.
+Police sources have told the BBC they expect the new bill to require communication firms to retain data on website addresses for a year. This will mean existing powers allowing authorities to see which websites people have visited become practical to implement for the first time.
+Such data would consist of a basic domain address, and not a full browsing history of pages within that site or search terms entered. For example, police could see that someone visited www.bbc.co.uk - but not the individual pages they viewed.
+Explaining the thinking behind the plans, Mr Cameron said the police needed to be able to track suspect behaviour online in the same way as they already did elsewhere.
+"As prime minister, I would say to people, 'Please let's not have a situation where we give terrorists, criminals, child abductors, safe spaces to communicate.'
+"It is not a safe space for them to communicate on a fixed line phone or a mobile phone.
+"We should not allow the internet to be a safe space for them to communicate and do bad things."
+Speaking on Sunday, Home Secretary Theresa May told the BBC there would be "world-leading" oversight of warrants to access digital records, details of which would be announced on Wednesday.
+Labour has insisted that warrants should have to be approved by a judge, not politicians, while the Lib Dems and some Conservatives have said they will seek to amend the legislation in the House of Lords to that effect.
+Lord Carlile, a former reviewer of terrorist legislation, said it was "rather glib" to presume judges could "authenticate everything".
+Analysis by the BBC's security correspondent Gordon Corera
+There is a lot at stake in this new bill. This is the first time in 15 years that this law setting the parameters of what the state can do with our data is being rewritten and the first time in the digital age.
+Different agendas are at play here. So, for instance, the spies do not so much want new powers. They want consent for the powers that they have already got and which previously they used very secretly but have been exposed by Edward Snowden and others.
+They have talked about, if you like, the licence to operate. They want the public to buy into the use of these powers.
+But the police do seem to want more powers. And that is where you get to the more contentious territory. They do argue they need the ability to get into the web browsing history of people they are investigating. Not necessarily all the detail of the sites they visited but some of it. They say that's vital to investigate crime in a digital age.
+Privacy advocates may feel that goes too far into the private space in terms of what web browsing might tell you about yourself. Then you have the issue of control and authorisations. The privacy advocates are keen on new legislation if it provides a greater sense of control and authorisation.
+"If judges are going to authenticate these issues, they have to learn about national security," he told Radio 4's Today programme.
+"At the moment there's a handful of judges who have real understanding of national security. I mean just a handful. They need to be willing to be trained...because to understand the way in which national security work is done, people do have to understand the secret world to an extent."
+Lord Carlile, a leading QC, said there was a strong case for giving the law enforcement authorities greater powers to ensure we "remain a relatively safe country in an unsafe and perilous world".
+"I don't think any intelligent person is saying that the police should not be able to look at that data in a proper way... to see if they can catch the murderer, the terrorist, the paedophile, the money launderer."
+And he added: "I think it is absurd to suggest the police and the security services have a kind of casual desire to intrude on the privacy of the innocent. They have enough difficulty finding the guilty. No-one has produced any evidence of casual curiosity on part of the security services."
+Mrs May has said more than 1,400 warrants authorising more intrusive measures cross her desk a year, and she sets aside several hours a day to consider them. She said she had looked at all the arguments about handing over this responsibility to independent judges.
+Some of the more contentious powers proposed in the coalition government's 2012 version of this bill have been removed after listening to industry figures and civil liberties' groups, Mrs May has said, insisting it will not allow the police to "go through people's browsing history".
+The emergence of encryption has been identified as a major headache for law enforcement bodies, with suggestions that it risks leaving them locked out of some areas of cyberspace.

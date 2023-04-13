@@ -1,0 +1,20 @@
+The system will be called called Paym - pronounced Pay Em.
+It will make it easier for people to transfer money to other bank accounts using mobile phone apps.
+The key feature is that once users have registered their bank accounts to send or receive money with Paym, payments can by triggered simply by knowing a recipient's phone number.
+Sort codes and account numbers will not have to be keyed in for each transaction, although passcodes will still be required to open an app.
+Adrian Kamellard, chief executive of the Payments Council, said the new system would bring tangible benefits to users, such as letting people repay their friends for cinema tickets, splitting restaurant bills, or settling up for a colleague's birthday collection.
+"Paym is a mobile update for payments that means you can pay securely using just a mobile number," he said.
+"The service has the potential to link up every bank account in the country with a mobile number - millions of people will be able to use it this year and we look forward to expanding Paym even further, so everyone can benefit from this easy, secure new way to pay."
+The first banks to say they will offer the new system to their customers are Bank of Scotland, Barclays, the Cumberland Building Society, Danske Bank, Halifax, HSBC, Lloyds Bank, Santander and TSB Bank.
+Later this year it will also be adopted by Clydesdale Bank, First Direct, Isle of Man Bank, NatWest, RBS International, The Royal Bank of Scotland, and Yorkshire Bank, thus eventually covering 90% of all current account holders.
+The Payments Council said that the Nationwide building society would also join, in 2015, and that Metro Bank and Ulster bank were planning to join too.
+How will it work?
+Bank or building society account holders will first need to register their mobile phone number and the relevant account they want to use.
+People who wish only to receive money this way will be able to use the system, even if their phone is not a smartphone and they do not use mobile banking.
+Current levels of security will apply and payments will not be possible without an app's pass code being entered.
+"However any customer who is worried someone could get unauthorised access to their account (for example, if their phone was stolen) should still contact their bank or building society to report it," said a spokesman for the Payments Council.
+"It is possible for them to suspend access to the service if necessary, to prevent fraud.
+"You get the same legal protection with Paym that is already applied to your other current account, online and mobile payment services," he added.
+Similar systems have been introduced by Barclays with its Pingit app, and by RBS NatWest.
+In the case of Pingit, a recipient of a money transfer only needs to have registered a phone number, and does not need a smartphone or the Pingit app.
+The RBS NatWest system hinges on users having a Visa card.

@@ -1,0 +1,111 @@
+Democratic presidential candidate Hillary Clinton has previously stated that classified information never traveled across her private server. However, the State Department has acknowledged that "top secret" information was in seven email chains sent or received by her. 
+  
+ Top-secret information in e-mails Democratic presidential candidate Hillary Clinton has previously stated that classified information never traveled across her private server. However, the State Department has acknowledged that "top secret" information was in seven email chains sent or received by her. Richard Drew/AP 
+  
+ Clinton has come under fire for using a private email address during her time as secretary of state. The emails are being screened and released in batches. Here are some things we’ve learned from them. 
+  
+ Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we’ve learned from them. 
+  
+ Clinton has come under fire for using a private e-mail address during her time as secretary of state. The e-mails are being screened and released in batches. Here are some things we’ve learned from them. 
+  
+ The company that managed Hillary Rodham Clinton’s private e-mail server said it has “no knowledge of the server being wiped,” the strongest indication to date that tens of thousands of e-mails that Clinton has said were deleted could be recovered. 
+  
+ Clinton and her advisers have said for months that she deleted her personal correspondence from her time as secretary of state, creating the impression that 31,000 e-mails were gone forever. 
+  
+ There is a distinction between e-mails’ being deleted and a server being wiped. If e-mails are deleted or moved from a server, they appear to no longer exist on the device. But experts say, depending on the condition of the server, underlying data can remain on the device, and the e-mails can often be restored. 
+  
+ To make the information go away permanently, a server must be wiped — a process that includes overwriting the underlying data with gibberish, possibly several times. 
+  
+ That process, according to Platte River Networks, the ­Denver-based firm that has managed the system since 2013, apparently did not happen. 
+  
+ During an interview with ABC News, Hillary Clinton apologized for using a private e-mail server during her time as secretary or state. Here are past statements where the presidential hopeful neglected to take personal responsibility for the controversy. (The Washington Post) 
+  
+ “Platte River has no knowledge of the server being wiped,” company spokesman Andy Boian told The Washington Post. “All the information we have is that the server wasn’t wiped.” 
+  
+ Clinton and her staff have avoided directly answering whether the server was ever wiped. 
+  
+ In a memorable exchange at a campaign event in Las Vegas last month, Clinton turned aside a question about whether the server had been wiped with a joke: “Like what, with a cloth?” she said, adding, “I don’t know how it works digitally at all.” 
+  
+ Campaign spokesman Brian Fallon gave a similar answer this month, telling CNN: “I don’t know what ‘wiped’ means. Literally the e-mails were deleted off of the server, that’s true.” 
+  
+ The server that Clinton used as secretary of state was stored at her home in Chappaqua, N.Y., and was shared with her husband, former president Bill Clinton, and his staff. The device was managed during that time by a State Department staffer who was paid personally by the Clintons for his work on their private system. 
+  
+ [Clintons personally paid State Department staffer to maintain server] 
+  
+ All the e-mails from Clinton’s tenure at the State Department were on the server when the device was taken over in June 2013 by Platte River Networks, four months after Clinton left office. 
+  
+ View Graphic Catch up on the controversy and read the emails 
+  
+ A company attorney has said that all of Clinton’s e-mails were then migrated to a new server. 
+  
+ The e-mails were removed from the second server in 2014, with Clinton’s attorneys storing those they deemed work-related on a thumb drive and discarding those that they determined were entirely personal. Copies of 30,000 work e-mails were turned over to the State Department in December and are being released to the public in batches under the terms of a court order. 
+  
+ The original server remained under Platte River’s control in a secure data center in New Jersey until the company turned it over to the FBI last month. A company attorney has said that the device was “blank” when it was given to investigators but had not specifically said it had been wiped. 
+  
+ [FBI looking into the security of Hillary Clinton’s private e-mail setup] 
+  
+ The FBI is examining the security of Clinton’s e-mail setup. Officials have said she is not a target. An FBI spokeswoman declined to comment on the status of the inquiry. 
+  
+ A Clinton campaign spokesman declined to comment for this article. 
+  
+ Even if the e-mails could be restored, it’s unclear whether anyone would have the authority to do so. 
+  
+ Conservative groups have already been pressing in court for access to those e-mails, if they exist. 
+  
+ On Saturday, Sens. Charles E. Grassley (R-Iowa) and Ron Johnson (R-Wis.), chairmen of the Judiciary and Homeland Security committees, respectively, said they would push for the deleted e-mails to be reviewed if they can be recovered. 
+  
+ Politically, even the possibility that the e-mails could be retrieved is likely to further inflame an issue that has already hampered the campaign of the Democratic presidential front-runner. Clinton has been trying to move past the issue for months and on Tuesday said she was “sorry” she had not used separate e-mail accounts for public and private matters. 
+  
+ [Hillary Clinton apologizes for e-mail system: ‘I take responsibility’] 
+  
+ In terms of data recovery, the difference between a server from which data has been merely deleted or removed, compared with one that has been wiped is “night and day,” said Joseph Lorenzo Hall, the chief technologist at the Center for Democracy and Technology, a nonpartisan group that advocates for Internet privacy. 
+  
+ “Wiping is designed to make the material that was underneath not recoverable. That’s the whole point,” he said. “The probability of recovering material is very, very much higher if you haven’t wiped it.” 
+  
+ Experts generally recommend wiping or overwriting a server more than once to ensure it is fully erased. 
+  
+ Still, Hall said, other considerations could affect whether deleted data could be pulled from a server, even if it hasn’t been wiped. For instance, traces of data remaining on a server that has sat without electrical power can degrade over time, he said. 
+  
+ The conservative group Judicial Watch asked a federal judge on Sept. 4 to order the State Department to take steps to determine whether those personal e-mails still exist. The group has said that Clinton’s e-mails were essentially government property that she should not have been allowed to take upon her departure from the State Department. 
+  
+ Justice Department lawyers, on behalf of the State Department, have opposed the request, arguing that personal e-mails are not federal records and that the court lacks jurisdiction to demand their preservation. Government lawyers offered a robust defense of Clinton’s e-mail practices on Wednesday in a court filing, arguing that federal employees, including Clinton, are allowed to discard personal ­e-mails provided they preserve those that deal with public business. 
+  
+ “There is no question that former Secretary Clinton had authority to delete personal ­e-mails without agency supervision — she appropriately could have done so even if she were working on a government server,” the lawyers wrote. 
+  
+ The State Department has determined that 1,250 of the ­e-mails she submitted were entirely personal, and the agency returned them to her. Clinton has said this indicated that she erred on the side of turning over more than was necessary. 
+  
+ But Republican lawmakers have questioned the credibility of Clinton’s process for dividing her public and personal e-mail correspondence. 
+  
+ Lawmakers have repeatedly noted that all or part of 15 e-mails to Clinton from longtime adviser Sidney Blumenthal that appeared to be work-related were missing from the State Department’s file of official ­e-mails. Blumenthal had provided those e-mails to the House Select Committee on Benghazi. 
+  
+ The chairman of that panel, Rep. Trey Gowdy (R-S.C.), said at the time that the missing Blumenthal e-mails confirmed “doubts about the completeness of Clinton’s self-selected public record and raises questions about her decision to erase her personal server . . . before it could be analyzed by an independent, neutral third party.” 
+  
+ On Saturday, Grassley called for “independent authorities” to review any deleted e-mails that might be recovered. Johnson, in his statement on Saturday, said that his committee is concerned about whether Clinton’s e-mail system compromised national security and that any messages “the FBI is able to recover would obviously be important to the committee’s work.” 
+  
+ The revelation that Clinton never ordered the server wiped could bolster her statements that her actions have been aboveboard, suggesting that she did not take active steps to hide her e-mails. 
+  
+ Still, the new information could highlight the carefully worded answers Clinton and her advisers have provided on the matter. 
+  
+ In a March news conference shortly after her e-mail practices were disclosed, Clinton described her decision not to keep e-mails that dealt with the sorts of private issues that nobody would want revealed in public. 
+  
+ “I chose not to keep my private personal e-mails — e-mails about planning Chelsea’s wedding or my mother’s funeral arrangements, condolence notes to friends as well as yoga routines, family vacations, the other things you typically find in in­boxes,” she said. “No one wants their personal e-mails made public, and I think most people understand that and respect that privacy.” 
+  
+ In a letter that month, Clinton’s attorney David Kendall told a House investigative committee that no e-mails from Clinton’s time as secretary “reside on the server or any backup systems associated with the server.” 
+  
+ In her Sept. 4 interview with MSNBC’s Andrea Mitchell, Clinton said that the personal ­e-mails had been deleted after the painstaking process of weeding out the work-related correspondence that was sent to the State Department. 
+  
+ “I was asked, ‘Do you need to keep your personal e-mails?’ ” Clinton said. “And I said, ‘No, I don’t. You can delete those.’ And they were.” ||||| The seed for Wide00014 was: 
+  
+ - Slash pages from every domain on the web: 
+  
+  
+  
+  
+  
+ -- a ranking of all URLs that have more than one incoming inter-domain link (rank was determined by number of incoming links using Wide00012 inter domain links) 
+  
+  
+  
+ -- up to a maximum of 100 most highly ranked URLs per domain 
+  
+ - Top ranked pages (up to a max of 100) from every linked-to domain using the Wide00012 inter-domain navigational link graph |||||

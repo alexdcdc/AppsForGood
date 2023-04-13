@@ -1,0 +1,27 @@
+The social network's founder added that the work was being done close to his desk, signalling the importance he is giving to the task.
+One expert said the challenge could result in far-reaching benefits.
+It is the second time Mr Zuckerberg has highlighted work on AI this month.
+Facebook is far from the only tech firm to have used computers to play Go - a game with trillions of possible moves.
+Microsoft's research division began developing AI software to tackle the issue in 2004, and ended up releasing an Xbox video game six years later that made use of its techniques.
+Google's AI chief Demis Hassabis has also indicated that his DeepMind team is working on the game.
+Go is thought to have first been played more than 2,500 years ago in ancient China.
+Two people take turns to place black or white stones on to a grid, with the goal being to dominate the board by surrounding the opponent's pieces.
+Once placed, the stones cannot be moved unless they are surrounded and captured by the other person's pieces.
+It has been estimated that there are 10 to the power of 700 (10 multiplied by itself 699 times) possible ways a Go game could be played.
+By contrast, chess - a game at which AIs can already play at grandmaster level - has about 10 to the power of 60 possible scenarios.
+"Scientists have been trying to teach computers to win at Go for 20 years," wrote Mr Zuckerberg on his Facebook page.
+"We're getting close, and in the past six months we've built an AI that can make moves in as fast as 0.1 secs and still be as good as previous systems that took years to build.
+"Our AI combines a search-based approach that models every possible move as the game progresses along with a pattern matching system built by our computer vision team.
+"The researcher who works on this, Yuandong Tian, sits about 20ft from my desk. I love having our AI team right near me so I can learn from what they're working on."
+Facebook's Go AI system is codenamed Darkforest, according to a paper submitted in November by Mr Tian to the International Conference on Learning Representations.
+He wrote that it had achieved a "stable" five dan level in the game, representing an advanced amateur but below the "professional levels".
+However, he acknowledged the software still had flaws.
+"Sometimes the bot plays tenuki ("move elsewhere") pointlessly when a tight local battle is needed," Mr Tian wrote.
+"When the bot is losing, it shows the typical behaviour of MCTS [a machine learning technique known as Monte Carlo Tree Search], that plays bad moves and loses more. We will improve these in the future."
+Facebook is currently trying to use other AI systems to answer questions and carry out tasks on its Messenger chat platform.
+Mr Zuckerberg has also made public his desire to build a "simple AI" to power his home and help him at work this year.
+One independent researcher said the firm's work on Go could have knock-on benefits.
+"Go is vastly harder than chess using any of the standard techniques for game-playing, and for some time it's been the case that people have regarded that you would need something fundamentally new in order to crack it," explained Dr Sean Holden from the University of Cambridge's computer laboratory.
+"Playing games like this is essentially a search problem. The AI has to search for a sequence of actions that will get you from the start of the game to a winning position.
+"And that general search problem is potentially usable in all manner of different AI scenarios.
+"Because, what AI essentially comes down to is that if you have a robot and you want it to achieve a task, you want it to find a sequence of moves from where it is to where you want it to be."

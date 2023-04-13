@@ -1,0 +1,36 @@
+Customers and businesses are becoming more trusting of secure internet connections - and the idea of valuable data being stored and accessed remotely.
+Almost nine in 10 financial institutions now run at least one application in the cloud, according to research from Swiss software company Temenos. That's up from just 57% in 2009.
+And many financial technology start-ups are building new businesses on the back of the three major cloud platform providers - Amazon Web Services (AWS), Microsoft Azure and Google Cloud.
+For example, Dutch-based tech start-up Ohpen has built a "software-as-a-service" product to allow firms to administer investment funds and savings accounts, with AWS handling all the data in the background.
+And Norwegian firm Auka has developed the first mobile payments platform run entirely on Google Cloud.
+Meanwhile, customer relationship management specialist Salesforce now allows banks to offer personalised financial advice on any device.
+The advantage of such off-the-shelf products is that firms can easily plug into them, and begin offering financial services quickly and without huge capital investment.
+And cost is the number one reason for tapping into the cloud.
+"There's a 20 cents in the dollar saving by moving data to the cloud," says Dave Richards, chief executive of global big data specialist, Wandisco.
+"Building your own data centre is difficult - it can take one or two years if you need thousands of servers.
+More Cloud Computing features from Technology of Business
+"But if you use a cloud provider like Amazon Web Services you can have 1,000 servers at your disposal in about 30 minutes."
+For big institutions, that's a huge potential saving in time and money, with a big chunk of IT responsibilities outsourced to a specialist provider.
+Tesco Bank's head of transformation, Allan Brearley, says: "The adoption of cloud technology allows us to respond to the needs of our customers more quickly and efficiently, while also offering the security standards our customers and regulators rightly expect from a financial services provider."
+The potential cost savings became apparent very quickly for the bank.
+"When we evaluated the solutions for a new [web] page using our traditional on-premise delivery model, it was going to cost about £3,500 and take around three months to deliver," he says.
+"However, we evaluated the AWS option using exactly the same design solution and it cost £66 a month and took less than a week. We later realised we could just host these things as a static page costing 13p a month."
+Another advantage of the cloud is that it is flexible - you generally just pay for the storage and services you use for a monthly subscription - cutting out waste.
+For example, accounting software firm Sage offers small and medium-sized businesses access to real-time business data on all devices - including the Apple Watch - and starts at just £30 a month. Xero operates a similar model for its cloud-based accounting software.
+And Salesforce's wealth management platform for banks and advisers costs from $150 (£106) a month.
+With ready-to-go cloud-based solutions, you can be up-and-running within a matter of months or, in some cases, minutes.
+Auka claims its cloud-based mobile payments platform for retail banks can be ready to launch within three months.
+Less complex services, like accounting or sales management software, can be available to customers much faster.
+Klaus Michael Vogelburg, chief technology officer at Sage, says: "Small companies can start using our software within minutes, and the longest any company would wait to get started is a matter of days."
+Not all financial companies are ready to fully embrace the cloud, though - just 1% of banks are running core processing in the cloud today, the Temenos research shows.
+"There is a perception that there must be some compromise on security given the cost savings. But this is simply not the case," says Ben Robinson, chief strategy and marketing director at Temenos.
+"Cloud platform providers such as Amazon and Microsoft clearly have more money to spend on security than smaller or even medium-sized financial services companies.
+"They also remove the need for human involvement, which is the cause of 70% of banking fraud."
+But concerns about security linger on.
+Bob O'Donnell, chief analyst at Technalysis Research, says: "The cautious nature of the banking sector has definitely slowed its adoption of cloud-based services such as data storage.
+"In the past, there have also been some security challenges that have played to their fears, which remain despite big efforts on the data security front."
+Mr Vogelburg, meanwhile, expects more financial services companies to take up cloud-based services as the benefits to their customers become clear.
+"The aim of any new technology should always be to improve the customer experience," he says.
+"We are already doing that, but this is just the tip of the iceberg. There is so much yet to come."
+Technology of Business will explore cloud security in the next feature in this series.
+Follow Technology of Business editor Matthew Wall on Twitter

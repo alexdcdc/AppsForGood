@@ -1,0 +1,27 @@
+Tor is a popular way of accessing the dark net - websites that are hidden from traditional search engines.
+A Europol operation last week resulted in 17 arrests of people said to be involved in illegal sites accessed through the network.
+A Europol spokeswoman said it had not exaggerated the raid's impact.
+But Andrew Lewman, executive director of the Tor Project, told the BBC he felt the significance had been overhyped - and he did not believe the Tor network had been compromised.
+"The police have way overblown what they have done," he said.
+"This sure made a huge press splash. The simplest explanation is that they probably followed the money trail - following Bitcoin transactions, they managed to find these individuals."
+On Friday, Europol said co-ordinated raids between 16 European countries and the US had resulted in "410 hidden services being taken down".
+It later clarified this, stating that while 400-plus pages were closed, many were pointing to the same hidden illegal services - the pages had belonged to 27 individual services that were seized.
+"They overemphasised what they did," Mr Lewman added. "I wouldn't expect the police to be the ones... you need to trust the police.
+"When they say they've busted 400-something, you expect 400-something to have actually been busted. And it doesn't seem that's the case.
+"What they've said was, 'Oh no, we've broken apart 400. And no, now it's 50. Now it's 27. And... maybe it's actually less than that.'"
+When approached by the BBC, Europol defended its actions and public statements.
+"We did not say we took down 414 hidden market places," a spokeswoman said, via email.
+"A hidden market place may have a dozen domains pointing to it and making up that market place.
+"What we did was remove 414 of those domains which disrupted the operations of many illegal market places."
+Mr Lewman suggested that the authorities wanted to give the impression they had "cracked" Tor to deter others from using it for criminal purposes.
+"They want to basically tell criminals, 'We're out there looking, and we will catch you', to create this sort of omnipotent ability to break into things," he said.
+Follow Dave Lee on Twitter @DaveLeeBBC
+Tor is a special way to access the internet that requires software, known as the Tor Browser bundle, to use it.
+The name is an acronym for The Onion Router - just as there are many layers to the vegetable, there are many layers of encryption on the network.
+It was originally designed by the US Naval Research Laboratory, and continues to receive funding from the US State Department.
+It attempts to hide a person's location and identity by sending data across the internet via a very circuitous route involving several "nodes" - which, in this context, means using volunteers' PCs and computer servers as connection points.
+Encryption applied at each hop along this route makes it very hard to connect a person to any particular activity.
+To the website that ultimately receives the request, it appears as if the data traffic comes from the last computer in the chain - known as an "exit relay" - rather than the person responsible.
+As well as allowing users to visit normal websites anonymously, it can also be used as part of a process to host hidden sites, which use the .onion suffix.
+Tor's users include the military, law enforcement officers and journalists - who use it as a way of communicating with whistle-blowers - as well as members of the public who wish to keep their browser activity secret.
+But it has also been associated with illegal activity, allowing people to visit sites offering illegal drugs for sale and access to child abuse images, which do not show up in normal search engine results and would not be available to those who did not know where to look.

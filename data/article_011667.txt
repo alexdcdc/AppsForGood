@@ -1,0 +1,105 @@
+The Nobel Prize in Physiology or Medicine 2017 
+  
+ Jeffrey C. Hall, Michael Rosbash, Michael W. Young Share this: 
+  
+ Press Release 
+  
+ 2017-10-02 
+  
+ The Nobel Assembly at Karolinska Institutet has today decided to award 
+  
+ the 2017 Nobel Prize in Physiology or Medicine 
+  
+ jointly to 
+  
+ Jeffrey C. Hall, Michael Rosbash and Michael W. Young 
+  
+ for their discoveries of molecular mechanisms controlling the circadian rhythm 
+  
+ Summary 
+  
+ Life on Earth is adapted to the rotation of our planet. For many years we have known that living organisms, including humans, have an internal, biological clock that helps them anticipate and adapt to the regular rhythm of the day. But how does this clock actually work? Jeffrey C. Hall, Michael Rosbash and Michael W. Young were able to peek inside our biological clock and elucidate its inner workings. Their discoveries explain how plants, animals and humans adapt their biological rhythm so that it is synchronized with the Earth's revolutions. 
+  
+ Using fruit flies as a model organism, this year's Nobel laureates isolated a gene that controls the normal daily biological rhythm. They showed that this gene encodes a protein that accumulates in the cell during the night, and is then degraded during the day. Subsequently, they identified additional protein components of this machinery, exposing the mechanism governing the self-sustaining clockwork inside the cell. We now recognize that biological clocks function by the same principles in cells of other multicellular organisms, including humans. 
+  
+ With exquisite precision, our inner clock adapts our physiology to the dramatically different phases of the day. The clock regulates critical functions such as behavior, hormone levels, sleep, body temperature and metabolism. Our wellbeing is affected when there is a temporary mismatch between our external environment and this internal biological clock, for example when we travel across several time zones and experience "jet lag". There are also indications that chronic misalignment between our lifestyle and the rhythm dictated by our inner timekeeper is associated with increased risk for various diseases. 
+  
+ Our inner clock 
+  
+ Most living organisms anticipate and adapt to daily changes in the environment. During the 18th century, the astronomer Jean Jacques d'Ortous de Mairan studied mimosa plants, and found that the leaves opened towards the sun during daytime and closed at dusk. He wondered what would happen if the plant was placed in constant darkness. He found that independent of daily sunlight the leaves continued to follow their normal daily oscillation (Figure 1). Plants seemed to have their own biological clock. 
+  
+ Other researchers found that not only plants, but also animals and humans, have a biological clock that helps to prepare our physiology for the fluctuations of the day. This regular adaptation is referred to as the circadian rhythm, originating from the Latin words circa meaning "around" and dies meaning "day". But just how our internal circadian biological clock worked remained a mystery. 
+  
+ Figure 1. An internal biological clock. The leaves of the mimosa plant open towards the sun during day but close at dusk (upper part). Jean Jacques d'Ortous de Mairan placed the plant in constant darkness (lower part) and found that the leaves continue to follow their normal daily rhythm, even without any fluctuations in daily light. 
+  
+ Identification of a clock gene 
+  
+ During the 1970's, Seymour Benzer and his student Ronald Konopka asked whether it would be possible to identify genes that control the circadian rhythm in fruit flies. They demonstrated that mutations in an unknown gene disrupted the circadian clock of flies. They named this gene period. But how could this gene influence the circadian rhythm? 
+  
+ This year's Nobel Laureates, who were also studying fruit flies, aimed to discover how the clock actually works. In 1984, Jeffrey Hall and Michael Rosbash, working in close collaboration at Brandeis University in Boston, and Michael Young at the Rockefeller University in New York, succeeded in isolating the period gene. Jeffrey Hall and Michael Rosbash then went on to discover that PER, the protein encoded by period, accumulated during the night and was degraded during the day. Thus, PER protein levels oscillate over a 24-hour cycle, in synchrony with the circadian rhythm. 
+  
+ A self-regulating clockwork mechanism 
+  
+ The next key goal was to understand how such circadian oscillations could be generated and sustained. Jeffrey Hall and Michael Rosbash hypothesized that the PER protein blocked the activity of the period gene. They reasoned that by an inhibitory feedback loop, PER protein could prevent its own synthesis and thereby regulate its own level in a continuous, cyclic rhythm (Figure 2A). 
+  
+ Figure 2A. A simplified illustration of the feedback regulation of the period gene. The figure shows the sequence of events during a 24h oscillation. When the period gene is active, period mRNA is made. The mRNA is transported to the cell's cytoplasm and serves as template for the production of PER protein. The PER protein accumulates in the cell's nucleus, where the period gene activity is blocked. This gives rise to the inhibitory feedback mechanism that underlies a circadian rhythm. 
+  
+ The model was tantalizing, but a few pieces of the puzzle were missing. To block the activity of the period gene, PER protein, which is produced in the cytoplasm, would have to reach the cell nucleus, where the genetic material is located. Jeffrey Hall and Michael Rosbash had shown that PER protein builds up in the nucleus during night, but how did it get there? In 1994 Michael Young discovered a second clock gene, timeless, encoding the TIM protein that was required for a normal circadian rhythm. In elegant work, he showed that when TIM bound to PER, the two proteins were able to enter the cell nucleus where they blocked period gene activity to close the inhibitory feedback loop (Figure 2B). 
+  
+ Figure 2B. A simplified illustration of the molecular components of the circadian clock. 
+  
+ Such a regulatory feedback mechanism explained how this oscillation of cellular protein levels emerged, but questions lingered. What controlled the frequency of the oscillations? Michael Young identified yet another gene, doubletime, encoding the DBT protein that delayed the accumulation of the PER protein. This provided insight into how an oscillation is adjusted to more closely match a 24-hour cycle. 
+  
+ The paradigm-shifting discoveries by the laureates established key mechanistic principles for the biological clock. During the following years other molecular components of the clockwork mechanism were elucidated, explaining its stability and function. For example, this year's laureates identified additional proteins required for the activation of the period gene, as well as for the mechanism by which light can synchronize the clock. 
+  
+ Keeping time on our human physiology 
+  
+ The biological clock is involved in many aspects of our complex physiology. We now know that all multicellular organisms, including humans, utilize a similar mechanism to control circadian rhythms. A large proportion of our genes are regulated by the biological clock and, consequently, a carefully calibrated circadian rhythm adapts our physiology to the different phases of the day (Figure 3). Since the seminal discoveries by the three laureates, circadian biology has developed into a vast and highly dynamic research field, with implications for our health and wellbeing. 
+  
+ Figure 3. The circadian clock anticipates and adapts our physiology to the different phases of the day. Our biological clock helps to regulate sleep patterns, feeding behavior, hormone release, blood pressure, and body temperature. 
+  
+ Key publications 
+  
+ Zehring, W.A., Wheeler, D.A., Reddy, P., Konopka, R.J., Kyriacou, C.P., Rosbash, M., and Hall, J.C. (1984). P-element transformation with period locus DNA restores rhythmicity to mutant, arrhythmic Drosophila melanogaster. Cell 39, 369–376. 
+  
+ Bargiello, T.A., Jackson, F.R., and Young, M.W. (1984). Restoration of circadian behavioural rhythms by gene transfer in Drosophila. Nature 312, 752–754. 
+  
+ Siwicki, K.K., Eastman, C., Petersen, G., Rosbash, M., and Hall, J.C. (1988). Antibodies to the period gene product of Drosophila reveal diverse tissue distribution and rhythmic changes in the visual system. Neuron 1, 141–150. 
+  
+ Hardin, P.E., Hall, J.C., and Rosbash, M. (1990). Feedback of the Drosophila period gene product on circadian cycling of its messenger RNA levels. Nature 343, 536–540. 
+  
+ Liu, X., Zwiebel, L.J., Hinton, D., Benzer, S., Hall, J.C., and Rosbash, M. (1992). The period gene encodes a predominantly nuclear protein in adult Drosophila. J Neurosci 12, 2735–2744. 
+  
+ Vosshall, L.B., Price, J.L., Sehgal, A., Saez, L., and Young, M.W. (1994). Block in nuclear localization of period protein by a second clock mutation, timeless. Science 263, 1606–1609. 
+  
+ Price, J.L., Blau, J., Rothenfluh, A., Abodeely, M., Kloss, B., and Young, M.W. (1998). double-time is a novel Drosophila clock gene that regulates PERIOD protein accumulation. Cell 94, 83–95. 
+  
+ Jeffrey C. Hall was born 1945 in New York, USA. He received his doctoral degree in 1971 at the University of Washington in Seattle and was a postdoctoral fellow at the California Institute of Technology in Pasadena from 1971 to 1973. He joined the faculty at Brandeis University in Waltham in 1974. In 2002, he became associated with University of Maine. 
+  
+ Michael Rosbash was born in 1944 in Kansas City, USA. He received his doctoral degree in 1970 at the Massachusetts Institute of Technology in Cambridge. During the following three years, he was a postdoctoral fellow at the University of Edinburgh in Scotland. Since 1974, he has been on faculty at Brandeis University in Waltham, USA. 
+  
+ Michael W. Young was born in 1949 in Miami, USA. He received his doctoral degree at the University of Texas in Austin in 1975. Between 1975 and 1977, he was a postdoctoral fellow at Stanford University in Palo Alto. From 1978, he has been on faculty at the Rockefeller University in New York. 
+  
+ Illustrations: © The Nobel Committee for Physiology or Medicine. Illustrator: Mattias Karlén 
+  
+ The Nobel Assembly, consisting of 50 professors at Karolinska Institutet, awards the Nobel Prize in Physiology or Medicine. Its Nobel Committee evaluates the nominations. Since 1901 the Nobel Prize has been awarded to scientists who have made the most important discoveries for the benefit of mankind. 
+  
+ Nobel Prize® is the registered trademark of the Nobel Foundation 
+  
+ Share this: 
+  
+ To cite this page 
+  
+ MLA style: "The 2017 Nobel Prize in Physiology or Medicine - Press Release". Nobelprize.org. Nobel Media AB 2014. Web. 20 Jun 2018. <http://www.nobelprize.org/nobel_prizes/medicine/laureates/2017/press.html> 
+  
+ Recommended: ||||| These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.The goal is to fix all broken links on the web . Crawls of supported "No More 404" sites. ||||| STOCKHOLM (AP) — The Nobel Prize for Medicine was awarded to three Americans on Monday for discoveries about the body's daily rhythms. 
+  
+ The laureates are Jeffrey C. Hall, Michael Rosbash and Michal W. Young. Rosbash is on the faculty at Brandeis University, Young at Rockefeller University and Hall is at the University of Maine. 
+  
+ The citation for the 9-million-kronor ($1.1 million) prize says the researchers isolated a gene that controls the normal daily biological rhythm. They "were able to peek inside our biological clock and elucidate its inner workings." 
+  
+ Circadian rhythms adapt the workings of the body to different phases of the day, influencing sleep, behavior, hormone levels, body temperature and metabolism. 
+  
+ The winners have raised "awareness of the importance of a proper sleep hygiene" said Juleen Zierath of the Nobel academy. ||||| Published on Mar 21, 2012 
+  
+ Alongside Michael Young, Drs. Michael Rosbash and Jeffrey Hall of Brandeis University have pioneered our understanding of the Circadian Rhythm, the day-night cycle that controls sleep and wakefulness, as well as other rhythmic systems. |||||

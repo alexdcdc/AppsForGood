@@ -1,0 +1,29 @@
+They will do so in a variety of futuristic cars that all have one thing in common - they are powered by the Sun.
+The biennial World Solar Challenge starts in Darwin on 18 October and travels across country to Adelaide, with winning cars expected in the south Australian city four days later.
+The competition is designed to promote research on solar-powered cars, which could one day become a consumer product.
+There are several categories in the race - including a challenger class, for small, one-person cars, and a cruiser class, for two-seater cars.
+Most teams are from universities, but some are from schools, such as Goko high school in Japan with its Musoushin car.
+Some teams concentrate on aerodynamics, others on the efficiency of the solar panels.
+One of the competition's main rules is that the solar cars are only allowed to store 5kWh of energy at a time - for comparison, 1kWh is enough to power a light bulb for about eight hours.
+The rest of the energy must be reaped from the Sun or from the motion of the car.
+The 2013 winner was Nuna7, a car designed at the Delft University of Technology in the Netherlands.
+This year, Nuna8 will defend its title.
+The team arrived in Darwin a few weeks ago and is now busy working out the best route to leave the city, as well as preparing for the journey ahead.
+"The difference between winning or losing can really be minutes," spokesman Michel van Baal wrote in the team's blog.
+"Although traffic in Australia is extremely light compared to the Netherlands, around cities it can be busy, especially with over 40 solar team convoys leaving town. Precious minutes can be lost by making the wrong decisions."
+October is boom-time for local shops when the contest is running, and there is fierce competition among teams to get their hands on vital supplies such as demineralised water, which is used to spray on the cars' solar panels to keep temperatures down.
+"Finding demi-water in October is pretty hopeless, as all top teams need it, so you better stock up early," wrote Mr Van Baal.
+"Using normal water is a really bad idea: the water evaporates and leaves a layer of salts on the array, which is obviously not good for its efficiency."
+Other things on the team's shopping list include four pairs of gardening gloves, with rubber on the inside - necessary to prevent hands slipping off the wheel in the extreme heat.
+Driving the Nuna8 is not a particularly pleasant experience, partly because of the searing heat from the Australian outback - there is no air-conditioning because it makes the car too heavy and consumes too much valuable power.
+And with temperatures in the cockpit exceeding 50C, there is plenty of sweat - in fact, the car has dedicated hole to drain it.
+Teams tend to have several drivers working in three-hour shifts. Driving stops at 17:00 - partly to keep the drivers safe but also to avoid night-time collisions with kangaroos.
+The University of Michigan has been taking part in solar car racing for the past 25 years, but this year the team is hoping that technology can help improve their chances of winning.
+They will be using data analytics developed by IBM, to help them gain insights about the weather and, they hope, give them an advantage over rivals.
+IBM uses machine learning to blend data from sensor networks and local weather stations. This is combined with cloud motion data from sky cameras and satellite observations and multiple weather prediction models.
+The scientists behind the technology say it can offer solar and wind forecasts that are up to 30% more accurate than conventional ones.
+"The solar forecasting technology will allow us to know where the clouds are, where they are going, and where we should go faster in order to chase the Sun," said Pavan Naik, programme manager for the university's solar car team.
+Win or lose, the race is really about developing a solar-powered car that can one day take to the roads.
+Some of the world's largest car manufacturers, including Ford, are already developing solar cars - albeit prototypes.
+Ford's research suggests that in future the Sun could power up to 75% of all trips made by an average user in a solar hybrid vehicle.
+While solar-powered cars would have a huge environmental impact, it is unclear yet just how practical they would be. And while they may be fine for the Sun-drenched Australian outback, they may struggle in the UK's more changeable climate.

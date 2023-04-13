@@ -1,0 +1,16 @@
+The Information Commissioner's Office's blog post is its first official response to last week's "right to be forgotten" EU ruling.
+The ICO will be responsible for resolving complaints in cases where a search firm refuses to remove links.
+It noted such action was months away.
+"This judgment was only made last week, and the companies will need some time to work out how they're going to handle this," wrote David Smith, the body's director of data protection.
+"We won't be ruling on any complaints until the search providers have had a reasonable time to put their systems in place and start considering requests."
+The Court of Justice of the European Union set a legal precedent on 13 May when it ruled that a user had the right to have links to web pages about him removed from Google's results because the passage of time had made them "irrelevant".
+The Spanish man had complained that Google's links to an auction notice of his repossessed home  infringed his privacy.
+The takedown demand only applied to search results and not the web page containing the notice itself.
+But the court added that others had a similar right to have search results deleted "unless there are particular reasons, such as the role played by the data subject in public life" that would justify keeping the links online.
+The court noted that if search engines refused to comply, it would be up to local authorities - such as the ICO - to force their hand.
+Google said the ruling was "disappointing" and that it needed time to "analyse the implications".
+But Wikipedia founder Jimmy Wales, has attacked the judgement, calling it "wide-sweeping internet censorship", adding that it would be difficult for search firms to determine what should be removed,
+The ICO acknowledged the "right to be forgotten" would be difficult to implement.
+"It is important to keep the implications in proportion and recognise that there is no absolute right to have links removed," wrote Mr Smith.
+"Our concern remains how this can be achieved in practice and how to set reasonable expectations for the public about how such a right can operate."
+He added that the ICO and other data protection authorities would need to issue guidance, and said that the organisation planned to discuss the matter with its European counterparts at the start of next month.

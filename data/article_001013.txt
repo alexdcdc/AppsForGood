@@ -1,0 +1,139 @@
+Image copyright A. Klypin/J. Primack/S. Cantalupo Image caption An intense quasar can, like a flashlight, illuminate part of the surrounding cosmic web 
+  
+ The hidden tendrils of dark matter that underlie the visible Universe may have been traced out for the first time. 
+  
+ Cosmology theory predicts that galaxies are embedded in a cosmic web of "stuff", most of which is dark matter. 
+  
+ Astronomers obtained the first direct images of a part of this network, by exploiting the fact that a luminous object called a quasar can act as a natural "cosmic flashlight". 
+  
+ Details of the work appear in the journal Nature. 
+  
+ The quasar illuminates a nearby gas cloud measuring two million light-years across. 
+  
+ In this case we were lucky that the flashlight is pointing toward the nebula and making the gas glow Sebastiano Cantalupo, University of California, Santa Cruz 
+  
+ And the glowing gas appears to trace out filaments of underlying dark matter. 
+  
+ The quasar, which lies 10 billion light-years away, shines light in just the right direction to reveal the cold gas cloud. 
+  
+ For some years, cosmologists have been running computer simulations of the structure of the universe to build the "standard model of cosmology". 
+  
+ They use the cosmic microwave background, corresponding to observations of the very earliest Universe that can be seen, and recorded by instruments such as the Planck space observatory, as a starting point. 
+  
+ Their calculations suggest that as the Universe grows and forms, matter becomes clustered in filaments and nodes under the force of gravity, like a giant cosmic web. 
+  
+ The new results from the 10-metre Keck telescope in Hawaii, are reported by scientists from the University of California, Santa Cruz and the Max Planck Institute for Astronomy in Heidelberg. 
+  
+ They are the first direct observations of cold gas decorating such cosmic web filaments. 
+  
+ Image copyright S. Cantalupo (UCSC) Image caption The observed portion of the cosmic web (cyan) is about 2 million light-years across 
+  
+ The cosmic web suggested by the standard model is mainly made up of mysterious "dark matter". Invisible in itself, dark matter still exerts gravitational forces on visible light and ordinary matter nearby. 
+  
+ Massive clumps of dark matter bend light that passes close by through a process called gravitational lensing, and this had allowed previous measurements of its distribution. 
+  
+ But it is difficult to use this method to see very distant dark matter, and cold ordinary matter remains tricky to detect as well. 
+  
+ The glowing hydrogen illuminated by the distant quasar in these new observations traces out an underlying filament of dark matter that it is attracted to it by gravity, according to the researchers' analysis. 
+  
+ "This is a new way to detect filaments. It seems that they have a very bright quasar in a rare geometry," Prof Alexandre Refregier of the ETH Zurich, who was not involved in the work, told BBC News. 
+  
+ "If indeed gravity is doing the work in an expanding Universe, we expect to see a cosmic web and it is important to detect this cosmic web structure." 
+  
+ In the dark 
+  
+ He added: "What is expected is that the dark matter dominates the mass and forms these structures, and then the ordinary matter, the gas, the stars and everything else trace the filaments and structures that are defined by the dynamics of the dark matter." 
+  
+ "Filaments have been detected indirectly before using gravitational lensing, which allows us to see the distribution of the dark matter. 
+  
+ "Part of the ordinary matter has formed stars, which we can see, but another component is the gas. If the gas is very hot it emits X-rays and can be seen using X-ray telescopes. Other techniques to detect cooler gas now include the method described here." 
+  
+ Dark energy and dark matter mysteries Image copyright Other Image caption LUX in South Dakota is the most sensitive dark matter detection experiment yet Gravity acting across vast distances does not seem to explain what astronomers see 
+  
+ Galaxies, for example, should fly apart; some other mass must be there holding them together 
+  
+ Astrophysicists have thus postulated "dark matter" - invisible to us but clearly acting on galactic scales 
+  
+ At the greatest distances, the Universe's expansion is accelerating 
+  
+ Thus we have also "dark energy" which acts to drive the expansion, in opposition to gravity 
+  
+ The current theory holds that 68% of the Universe is dark energy, 27% is dark matter, and just 5% the kind of matter we know well How close are we to finding dark matter? 
+  
+ Sebastiano Cantalupo, lead author of the article, and others have used the same method previously to look for glowing gas around quasars, and had seen dark galaxies. 
+  
+ "The dark galaxies are much denser and smaller parts of the cosmic web. In this new image, we also see dark galaxies, in addition to the much more diffuse and extended nebula," Dr Cantalupo, from UCSC, explained. 
+  
+ "Some of this gas will fall into galaxies, but most of it will remain diffuse and never form stars. 
+  
+ "The light from the quasar is like a flashlight beam, and in this case we were lucky that the flashlight is pointing toward the nebula and making the gas glow. We think this is part of a filament that may be even more extended than this, but we only see the part of the filament that is illuminated by the beamed emission from the quasar." 
+  
+ While the observations support the cosmological simulations' general picture of a cosmic web of filamentary structures, the researchers' results suggest around 10 times more gas in the nebula than predicted from typical computer simulations. 
+  
+ They postulate that this may simply be due to limitations in the spatial resolution of the current models, or, more interestingly perhaps, may be because the current grid-based models are missing some aspect of the underlying physics of how galaxies form, evolve, and interact with quasars. 
+  
+ "We now have very precise measurements of the amount of ordinary matter and dark matter in the Universe," said Prof Refregier. 
+  
+ "We can only observe a fraction of the ordinary matter, so the question is what form the remainder takes. These results may imply that a lot of it is in the form detected here." ||||| 300 SHARES Share Tweet Google Reddit Linkedin Mail Sign up to receive our weekly newsletter of the most popular space stories: 
+  
+  
+  
+ Astronomers from the University of California – Santa Cruz have found a far-off quasar lighting up a very large nebula of spread out gas, showing for the first time part of the network of filaments believed to link galaxies in a cosmic web. 
+  
+ Utilizing the 10-meter Keck I Telescope, the researchers spotted an extremely large, bright nebula of gas spreading approximately 2 million light-years across intergalactic space. 
+  
+ “This is a very exceptional object: it’s huge, at least twice as large as any nebula detected before, and it extends well beyond the galactic environment of the quasar,” posited first author Sebastiano Cantalupo, a postdoctoral fellow at UC Santa Cruz, in a statement. 
+  
+ The standard cosmological model of structure development in the universe envisions that galaxies are nested in a cosmic web of matter. The web is observed in the findings from computer simulations of the development of structure in the universe, which reveal the dispersion of dark matter on large scales, including the dark matter halos in which galaxies develop and the cosmic web of filaments that link them. Gravity forces ordinary matter to follow the dispersion of dark matter, so filaments of spread out, ionized gas are believed to trace a pattern akin to that observed in dark matter simulations. 
+  
+ Prior to this research, these filaments have never been observed. Intergalactic gas has been identified by its absorption of light from bright background sources, but those findings don’t show how the gas is dispersed. In this study, astronomers identified the fluorescent glow of hydrogen gas due to its illumination by intense radiation from the quasar. 
+  
+ “This quasar is illuminating diffuse gas on scales well beyond any we’ve seen before, giving us the first picture of extended gas between galaxies. It provides a terrific insight into the overall structure of our universe,” explained coauthor J. Xavier Prochaska, professor of astronomy and astrophysics at UC Santa Cruz. 
+  
+ The hydrogen gas brightened by the quasar gives off ultraviolet light called Lyman alpha radiation. The distance to the quasar — approximately 10 billion light-years — is so great that the discharged light is “stretched” by the expansion of the universe from an invisible ultraviolet wavelength to a visible shade of violet by the time it’s detected by the Keck Telescope. The astronomers determined the wavelength for Lyman alpha radiation from the distance to the quasar and constructed a special filter for the telescope’s spectrometer to obtain an image at that wavelength. 
+  
+ “We have studied other quasars this way without detecting such extended gas,” Cantalupo noted. “The light from the quasar is like a flashlight beam, and in this case we were lucky that the flashlight is pointing toward the nebula and making the gas glow. We think this is part of a filament that may be even more extended than this, but we only see the part of the filament that is illuminated by the beamed emission from the quasar.” 
+  
+ The study’s findings were published in the journal Nature. ||||| Computer simulations suggest that matter in the universe is distributed in a "cosmic web" of filaments, as seen in the image above from a large-scale dark-matter simulation (Bolshoi simulation, by Anatoly Klypin and Joel Primack). The inset is a zoomed-in, high-resolution image of a smaller part of the cosmic web, 10 million light-years across, from a simulation that includes gas as well as dark matter (credit: S. Cantalupo). The intense radiation from a quasar can, like a flashlight, illuminate part of the surrounding cosmic web (highlighted in the image) and make a filament of gas glow, as was observed in the case of quasar UM287. (Photo : S. CANTALUPO (UCSC); JOEL PRIMACK (UCSC); ANATOLY KLYPIN (NMSU)) 
+  
+ Astronomers have found gas strands that hold galaxies in a cosmic web. 
+  
+ The team of astronomers, led by researchers at the University of California, Santa Cruz, found a distant quasar (hyperactive galaxies) that was illuminating a nebula of diffuse gas. Researchers believe that this bright nebula of gas, extending 2 million light-years across intergalactic space, could be the web holding all the cosmic matter. 
+  
+ "This is a very exceptional object: it's huge, at least twice as large as any nebula detected before, and it extends well beyond the galactic environment of the quasar," said Sebastiano Cantalupo, first author of the paper and a postdoctoral fellow at UC Santa Cruz, according to a news release. 
+  
+ Share This Story 
+  
+ The filament of the cosmic web was found using 10-meter (33 feet) Keck I telescope at the W. M. Keck Observatory in Hawaii. 
+  
+ What is a Cosmic Web? 
+  
+ Leading theories on the structure of Universe say that galaxies are hanging at the ends of a vast "cosmic web." About 85 percent of this cosmic web matter is the invisible dark matter. 
+  
+ In 2009, researchers at European Southern Observatory (ESO) had reported seeing part of this cosmic web. 
+  
+ Then in October 2012, researchers from France said that they've carried out a three-dimensional study of a cosmic filament of dark matter. Their calculations had shown that the cosmic web must be responsible for half of the mass of the universe. 
+  
+ The cosmic filament found in the current study is part of the cosmic web that keeps the galaxy, including our Milky Way together. Researchers hope to study this filament to understand the structure and development of the Universe, National Geographic reported. 
+  
+ How did they find it? 
+  
+ Quasars or "qausi-stellar radio sources" are the bright centers of very distant galaxies. In the present research, astronomers studying the quasar 'UM287' found that it was illuminating a gas filament. 
+  
+ "The light from the quasar is like a flashlight beam, and in this case we were lucky that the flashlight is pointing toward the nebula and making the gas glow. We think this is part of a filament that may be even more extended than this, but we only see the part of the filament that is illuminated by the beamed emission from the quasar," said Cantalupo, according to National Geographic. 
+  
+ The study is published in the journal Nature. ||||| Astronomers have for the first time captured a glimpse of the vast, web-like network of diffuse gas that links all of the galaxies in the cosmos. 
+  
+ Leading cosmological theories suggest that galaxies are cocooned within gigantic, wispy filaments of gas. This “cosmic web” of gas-filled nebulas stretches between large, spacious voids that are tens of millions of light years wide. Like spiders, galaxies mostly appear to lie within the intersections of the long-sought webs. 
+  
+ In observations spied through one of the most powerful telescopes in the world, the 33-foot (10-meter) Keck I Telescope in Hawaii, astronomers led by Sebastiano Cantalupo of the University of California, Santa Cruz, now report that they have detected a very large, luminous filament of gas extending about 2 million light-years across intergalactic space, exactly as predicted by theory. 
+  
+ Essentially, the filament reported in the January 19 Nature represents one of the strands of the cosmic web that holds together the galaxy-rich universe. Astronomers hope to understand both the structure of the universe and the development of galaxies such as our own Milky Way by unraveling the secrets of the cosmic web. 
+  
+ The discovery came thanks to intense radiation bellowing out of a quasar (a hyper-active galaxy) dubbed UM287, 10 billion light years from Earth. The quasar illuminated the neighboring gas filament, revealing its presence with a glow that resembled a cosmic florescent sign. 
+  
+ “This is a very exceptional object: it’s huge, at least twice as large as any nebula detected before, and it extends well beyond the galactic environment of the quasar,” said Cantalupo, in a statement. 
+  
+ “The light from the quasar is like a flashlight beam, and in this case we were lucky that the flashlight is pointing toward the nebula and making the gas glow. We think this is part of a filament that may be even more extended than this, but we only see the part of the filament that is illuminated by the beamed emission from the quasar.” 
+  
+ Follow Andrew Fazekas, the Night Sky Guy, on Twitter and Facebook. |||||

@@ -1,0 +1,51 @@
+A sophisticated worm designed to infiltrate industrial control systems could be used as a blueprint to sabotage machines that are critical to U.S. power plants, electrical grids and other infrastructure, experts are warning. 
+  
+ The discovery of Stuxnet, which some analysts have called the "malware of the century" because of its ability to damage or possibly destroy sensitive control systems, has served as a wake-up call to industry officials. Even though the worm has not yet been found in control systems in the United States, it could be only a matter of time before similar threats show up here. 
+  
+ "Quite honestly you've got a blueprint now," said Michael J. Assante, former chief security officer at the North American Electric Reliability Corporation, an industry body that sets standards to ensure the electricity supply. "A copycat may decide to emulate it, maybe to cause a pressure valve to open or close at the wrong time. You could cause damage, and the damage could be catastrophic." 
+  
+ Joe Weiss, an industrial control system security specialist and managing partner at Applied Control Solutions in Cupertino, Calif., said "the really scary part" about Stuxnet is its ability to determine what "physical process it wants to blow up." Said Weiss: "What this is is essentially a cyber weapon." 
+  
+ Researchers still do not know who created Stuxnet or why. 
+  
+ The antivirus security firm Symantec analyzed the worm this summer and, by taking control of servers it had been connected to, determined that the malware had infected 45,000 computers around the world. Most of those infected - 30,000 - were in Iran. Those computers were not the targets, but the finding suggested that the target was nearby. 
+  
+ Speculation has focused on Iran's nuclear enrichment facilities, and this weekIranian officials said they suspect a foreign organization or nation designed the worm. 
+  
+ The United States has a covert program to sabotage the systems that undergird Iran's nuclear facilities. Some experts have also suggested that other countries, including Israel, could be behind Stuxnet. 
+  
+ Joel F. Brenner, former national counterintelligence executive and a former senior counsel at the National Security Agency, said he thinks it is unlikely that the United States created the worm. "We don't do anything on purpose that we can't really target and control," he said. 
+  
+ Brenner, who has long warned of such a threat to the electric grids, also cautioned against assuming a nation state was behind it. A group at a "premier technical institute" in the United States, China, Israel or Russia, could have carried it off, he said. 
+  
+ Siemens, a German-headquartered multinational company, has identified 15 cases of infections on customers' plants worldwide; the single largest concentration - five - was found in Germany. Each customer was able to detect the worm and remove it without harm to their operations, spokesman Alexander Machowetz said. 
+  
+ Still, the possibility that Stuxnet could be used by copycats, even those who don't intend to do harm with it, is causing concern among experts. ||||| Iran has detained several "spies" it claims were behind cyber attacks on its nuclear programme. 
+  
+ The intelligence minister, Heydar Moslehi, said western "spy services" were behind the complex computer virus that recently infected more than 30,000 computers in industrial sites, including those in the Bushehr nuclear power plant, appearing to confirm the suspicion of computer security experts that a foreign state was responsible. 
+  
+ The announcement also suggests that the attack involving the Stuxnet worm virus, which computer experts believe may have been designed to spy on Iran's nuclear facilities rather than destroy them, has caused more alarm in the regime than has so far been acknowledged. 
+  
+ In remarks carried on Iranian state television and the Mehr news service, Moslehi said Iran had discovered the "destructive activities of the arrogance [of the west] in cyberspace", adding that "different ways to confront them have been designed and implemented". 
+  
+ "I assure all citizens that the intelligence apparatus currently has complete supervision on cyberspace and will not allow any leak or destruction of our country's nuclear activities. 
+  
+ "Iran's intelligence department has found a solution for confronting [the worm] and it will be applied. Our domination of virtual networks has thwarted the activities of enemies in this regard." 
+  
+ Moslehi gave no details of when the arrests had taken place or whether those detained were Iranians or foreign citizens. 
+  
+ According to experts the Stuxnet worm, designed to be delivered through a removable drive like a USB stick, is one of the most complex pieces of malicious code ever deployed. It was written specifically to attack Siemens industrial control units of the kind used in the Iranian nuclear programme. 
+  
+ Suspicion for responsibilty for the attack has inevitably focused on Israel and the US, although there is little evidence to support this. 
+  
+ The announcement of the arrests, intended to reassure Iranians, follows comments last week by another senior Iranian official, Mahmoud Liaii, who said: "An electronic war has been launched against Iran." 
+  
+ Iran has denied that the worm damaged the main control systems at Bushehr, rather infecting the laptops of some workers at the plant. However, the disclosure of the attack coincided with an announcement that the plant's inauguration has been delayed until at least next year because of continuing technical problems. 
+  
+ It was confirmed earlier this week that Iran will start fuelling the Bushehr nuclear reactor with enriched uranium fuel over the next few days, months later than had been originally announced. 
+  
+ The vice-president, Ali Akbar Salehi, maintained the delay had nothing to do with the computer worm and said the plant had not been affected in any way. 
+  
+ "We hope to load the fuel into the Bushehr reactor by early October and the necessary groundwork for this is coming together, God willing, so it [the fuel] will be completely put in place in the heart [of the reactor] by November," he told the semi-official ISNA news agency. 
+  
+ In recent years Iran has announced the arrest of nuclear spies on a periodic basis. Three years ago it announced it had broken up a spy ring that had handed nuclear intelligence to the UK. |||||

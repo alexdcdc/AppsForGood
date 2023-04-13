@@ -1,0 +1,77 @@
+Click image above to view graphic 
+  
+ Although the prospect of a pill for Alzheimer's remains a long way off, the landmark British study provides a major new pathway for future drug treatments. 
+  
+ The compound works by blocking a faulty signal in brains affected by neurodegenerative diseases, which shuts down the production of essential proteins, leading to brain cells being unprotected and dying off. 
+  
+ It was tested in mice with prion disease - the best animal model of human neurodegenerative disorders - but scientists said they were confident the same principles would apply in a human brain with debilitating brain diseases such as Alzheimer's or Parkinson's. 
+  
+ The study, published today in the journal Science Translational Medicine, was carried out at the Medical Research Council's (MRC) Toxicology Unit at the University of Leicester. 
+  
+ “It's a real step forward,” team leader Professor Giovanna Mallucci told The Independent. “It's the first time a substance has been given to mice that prevents brain disease. The fact that this is a compound that can be given orally, that gets into the brain and prevents brain disease, is a first in itself… We can go forward and develop better molecules and I can't see why preventing this process should only be restricted to mice. I think this probably will translate into other mammalian brains.” 
+  
+ In debilitating brain diseases like Alzheimer's, the production of new proteins in the brain is shut down by a build-up of “misfolded proteins” or amyloids. This build-up leads to an “over-activation” of a natural defence mechanism that stops essential proteins being produced. Without these proteins to protect them, brain cells die off - leading to the symptoms of diseases like Alzheimer's. 
+  
+ The compound used in the study works by inhibiting an enzyme, known as PERK, which plays a key role in activating this defence mechanism. In mice with prion's disease, it restored proteins to protect brain cells “stopping the disease in its tracks”, restoring some normal behaviours and preventing memory loss. 
+  
+ Although the compound also produced significant side effects in mice, including weight loss and mild diabetes, which was caused by damage to the pancreas, Professor Mallucci said it would “not be impossible” to develop a drug that protected the brain without the side effects and that work towards doing so had been “very promising”. 
+  
+ The breakthrough was greeted with excitement by scientists, who nonetheless cautioned that it remained a significant proof of principle and a possible basis for new treatments, rather than a guarantee of an Alzheimer's cure in the near future. 
+  
+ Computer graphic of a vertical (coronal) slice through the brain of an Alzheimer patient (credit: Science Photo Library) 
+  
+ Professor Roger Morris, acting head King's College London's department of chemistry, said: “This is the first convincing report that a small drug, of the type most conveniently turned into medicines, stops the progressive death of neurons in the brain as found, for instance, in Alzheimer's disease. True, this study has been done in mice, not man; and it is prion disease, not Alzheimer's, that has been cured. However, there is considerable evidence that the way neurons die in both diseases is similar; and lessons learned in mice from prion disease have proved accurate guides to attenuate the progress of Alzheimer's disease in patients.” 
+  
+ “From finding the first effective drug in a mouse, to having an effective medicine in man, usually takes decades to bring to fruition, in the very few cases in which it is successful. So, a cure for Alzheimer's is not just around the corner. However, the critical point of principle made by Professor Mallucci's study is that a drug, given orally, can arrest neurodegeneration caused by amyloid in the brain. 
+  
+ ”This finding, I suspect, will be judged by history as a turning point in the search for medicines to control and prevent Alzheimer's disease.“ 
+  
+ David Allsopp, professor of neuroscience at Lancaster University said that the study had thrown up ”very dramatic and highly encouraging results“, but said that more research was needed to overcome the "problematic side-effects" and to prove the technique would be effective against other disease like Alzheimer's and Parkinson's. 
+  
+ There are currently 800,000 people in the UK with dementia and Alzheimer's disease is the most common cause. The number of people living with the condition is set to break one million by 2021, and represents an enormous health burden for the NHS and the social care system. Parkinson's affect 1 in 500 people and around 127,000 people suffer from the condition. 
+  
+ Dr Eric Karran, director of research at Alzheimer's Research UK, said: "Targeting a mechanism relevant to a number of neurodegenerative diseases could yield a single drug with wide-reaching benefits, but this compound is still at an early stage. It will be important for these findings to be repeated and tested in models of other neurodegenerative diseases, including Alzheimer's disease. While Alzheimer's is the most common form of dementia, other diseases that cause dementia are also characterised by the abnormal build-up of proteins in the brain. 
+  
+ “If this process is also working overtime in these conditions too, targeting it could be a promising avenue for investigation. However, what is true in animals does not always hold true in people and the ultimate test for this compound will be to see whether it is safe and effective in people with these diseases.” ||||| Scientists are hailing a landmark British study which has paved the way for a pill that can cure brain diseases such as Alzheimer's and Parkinson's by stopping the death of neurons. 
+  
+ The Medical Research Council (MRC) team focused on the root cause of many degenerative brain diseases - abnormally shaped proteins that stick together in clumps and fibres. 
+  
+ When enough misshapen protein builds up in the brain it can trigger a reaction that results in the death of nerve cells. 
+  
+ Other approaches have sought to stop or limit the accumulation of the abnormal protein, whose structure is folded the wrong way. 
+  
+ But this research, published in the journal Science Translational Medicine, targeted the harmful way brain cells react to misfolded proteins. 
+  
+ Using a drug injected into the stomachs of mice through a mouth tube, they flipped a cellular switch from "off" to "on" to prevent neurons dying. 
+  
+ Five weeks after treatment one group of mice remained free of symptoms such as memory loss, impaired reflexes and limb dragging. 
+  
+ They also lived longer than untreated animals with the same brain disease. 
+  
+ During the study, a neurodegenerative disease caused by abnormal prion proteins was induced in the mice. 
+  
+ Prion diseases, which include Creutzfeldt-Jakob Disease (CJD), are rare in humans but share the same underlying cause - misfolded proteins - as more common conditions such as Alzheimer's. 
+  
+ Lead scientist Professor Giovanna Mallucci, from the MRC Toxicology Unit, said: "We were extremely excited when we saw the treatment stop the disease in its tracks and protect brain cells, restoring some normal behaviours and preventing memory loss in the mice." 
+  
+ The scientists stress human trials are a long way off and point out that the mice suffered serious side effects, including significant weight loss and raised blood sugar. 
+  
+ But they also believe the research demonstrates in principle the possibility of developing an oral treatment - a pill or swallowed liquid - that can protect the brain from neurodegenerative disease. 
+  
+ The research is at a very early stage and it could be a decade or more before the medicine is actually developed. 
+  
+ But experts said the findings were highly significant. 
+  
+ Professor Roger Morris, from King's College London, said: "This is the first convincing report that a small drug, of the type most conveniently turned into medicines, stops the progressive death of neurons in the brain as found, for instance, in Alzheimer's disease. 
+  
+ "True, this study has been done in mice, not man; and it is prion disease, not Alzheimer's, that has been cured. 
+  
+ "However, there is considerable evidence that the way neurons die in both diseases is similar; and lessons learned in mice from prion disease have proved accurate guides to attenuate the progress of Alzheimer's disease in patients." 
+  
+ He added: "This finding, I suspect, will be judged by history as a turning point in the search for medicines to control and prevent Alzheimer's disease." 
+  
+ Professor David Allsop, from the University of Lancaster, said: "Inhibiting this pathway has produced some very dramatic and highly encouraging results in mice infected with prion disease. 
+  
+ "The main caveats of the research, however, are that prion disease is very rare in humans, and it is not yet clear if the same approach will be viable for much more common neurodegenerative conditions like Alzheimer's disease and Parkinson's disease. 
+  
+ "More research is needed to determine if this approach is valid for any condition other than prion disease, and also to find ways of getting around these problematic side-effects." |||||

@@ -1,0 +1,151 @@
+The $99 console has doubled its goal and raised more than $2.5 million in a day, prompting the start-up to open-source suggestions for spending it all. 
+  
+ Developers and gaming fans are kicking down Kickstarter's doors to throw money at Ouya. (Credit: Kickstarter / Ouya) 
+  
+ It seems like just yesterday we were talking about how Ouya's dream of raising a million dollars on Kickstarter to bring a $99 console and open gaming platform to the people was well...ambitious, to say the least. 
+  
+ Actually, that wasn't even 24 hours ago, but already the public's desire for a hackable console has made it clear that Ouya's ambition must be pursued, nay fulfilled (by the promised March 2013 delivery date, hopefully). Within about eight hours, the $950,000 goal was met. And at last check, more than 20,000 people had pledged north of $2.5 million. 
+  
+ There are some heavy hitters behind Ouya, which is built on Android and plays games in HD on a TV set with Tegra3 at its heart. They include Jawbone designer Yves Behar and gaming industry veteran Julie Uhrman, not to mention backing from prominent angel investors. 
+  
+ That kind of pedigree, and yes, perhaps the price and open code as well, has so far convinced thousands to back the project, including nearly 270 who opted for "developer specials" with SDK access. 
+  
+ So what will Ouya creators do with all that newfound investment cash flowing in? They're open-sourcing that, too. In the first update to project backers this evening, Uhrman writes: 
+  
+ We are blown away by your support. With your help, we just raised $2 million. And it's only the first day. Now we want to blow you away. The biggest thing for us right now: we are working on our stretch goals, what we can do if we raise more money. It might take us a few days to figure that out, and we want your help. Tell us what you would like the stretch goals to be at ideas@ouya.tv. 
+  
+ With 29 days left in the campaign, if the money continues to flow, those could be some pretty lofty goals. I suggest figuring out a way to integrate with a certain smart watch. 
+  
+ Update at 5:30 a.m. PT July 11: Ouya's fundraising total has been revised upward. ||||| The Android-based open gaming console Ouya made its official Kickstarter debut yesterday, and it’s already broken a record, according to the crowdfunding website. 
+  
+ “Ouya had the biggest first day ever,” Kickstarter wrote on Twitter. It’s now the eighth project to earn over $1 million on the site, a list that includes gaming icon Tim Schafer’s Double Fine Adventure and comic project The Order of the Stick. 
+  
+ Double Fine had held the record for the most money raised in 24 hours, generating over $1 million in 17 hours, 30 minutes, according to Kickstarter. Ouya raised more than $2.5 million in just 8 hours, 22 minutes. 
+  
+ The console, designed by Jambox creator Yves Béhar (a speaker at our MobileBeat conference this morning), targets the indie gaming community. Anyone who’s pledged $699 or more will get access to Ouya’s software development kit, and the San Francisco-based company will even help developers by promoting their games for one year. 
+  
+ Right now, over 24,000 people have pledged more than $3 million to the Ouya project. In a Kickstarter update, the company says it’s now working on figuring out what to do with all the extra money it’s received. 
+  
+ Keep up to date with all of our Ouya coverage here. ||||| Our Kickstarter campaign is over, but you can still get an OUYA. Head over to www.ouya.tv for more info and to place an order. 
+  
+ We just added game streaming through OnLive! Final Fantasy will be on OUYA...and we have an exclusive game! And VEVO has agreed to put their music videos on OUYA, XBMC adds a streaming media app, with TuneIn and iHeartRadio adding music! 
+  
+ We're honored by all of you who are backing us -- THANK YOU. We are focused on delivering for you, first come first served. We can only promise OUYA by March to our Kickstarter backers. 
+  
+ Engadget! PC World! Kotaku! The Guardian! Joystiq! Forbes! GameSpot! BusinessWeek! The Verge! Wired! IGN! The New York Times! Time! 
+  
+ We love console games. 
+  
+ There's something about a big HD TV and digital surround sound that fills up a living room. Shooters, platformers, sports games, arcade classics and experimental indie games just feel bigger on a TV screen. It's how most of us grew up gaming. 
+  
+ But maybe people are missing out. 
+  
+ We get it – smartphones and tablets are getting all the new titles – they're "what's hot.” The console market is pushing developers away. We’ve seen a brain drain: some of the best, most creative gamemakers are focused on mobile and social games because those platforms are more developer-friendly. And the ones who remain focused on console games can’t be as creative as they’d like. 
+  
+ Deep down, you know your best gaming memories happened in the living room. 
+  
+ You busted your ass just to find out the princess was "in another castle." You fought bosses that told you repeatedly how much "you suck." You taped a blanket to half of your screen so your friend couldn't see where you were. You traded the best players onto your team just so you could have the perfect season. And you did it all on the TV. 
+  
+ It's time to upend console gaming. 
+  
+ Let’s open this sucker up! It's time we brought back innovation, experimentation, and creativity to the big screen. Let’s make the games less expensive to make, and less expensive to buy. With all our technological advancements, shouldn't costs be going down? Gaming could be cheaper! 
+  
+ We're handing the reins over to the developer with only one condition: at least some gameplay has to be free. We borrowed the free-to-play model from games like League of Legends, Team Fortress 2, Triple Town, and many others. Developers can offer a free demo with a full-game upgrade, in-game items or powers, or ask you to subscribe. 
+  
+ OUYA: The revolution will be televised 
+  
+ OUYA is a new game console for the TV, powered by Android. 
+  
+ We've packed this little box full of power. Developers will have access to OUYA's open design so they can produce their games for the living room, taking advantage of everything the TV has to offer. 
+  
+ Best of all, OUYA's world-class controller, console, and interface come in one beautiful, inexpensive package. All the games on it will be free, at least to try. 
+  
+ Great games come from great developers. 
+  
+ Developers can wave farewell to the roadblocks of bringing a console game to market. Anyone can make a game: every OUYA console is a dev kit. No need to purchase a license or an expensive SDK. It's built on Android, so developers already know how it works. 
+  
+ That doesn't mean OUYA is an Android port. You can create the next big title in your bedroom – just like the good old days! Who needs pants!? 
+  
+ OUYA could change AAA game development, too. Forget about licensing fees, retail fees, and publishing fees. 
+  
+ And developers agree: 
+  
+ "This has the potential to be the game developer’s console. It's about time!" -- Brian Fargo (founder of inXile) 
+  
+ “Who wouldn't want a beautiful piece of industrial design that sells for $99, plugs straight into your TV, and gives you access to a huge library of games?" – Jordan Mechner (creator of Prince of Persia, Karateka) 
+  
+ “If OUYA delivers on the promise of being the first true open gaming platform that gives indie developers access to the living room gaming market, yes that is a great idea. We will follow the development of OUYA and see how it resonates with gamers. I could see all current Mojang games go on the platform if there's a demand for it.” – Mojang (developer of Minecraft) 
+  
+ "I'm excited for OUYA! I am a firm believer that there is always room to challenge the status quo." -- Jenova Chen (thatgamecompany, creator of flOw, Cloud, and Flower) 
+  
+ “The prospect of an affordable, open console -- that's an idea I find really exciting.” -- Adam Saltsman (Semi Secret, creator of Canabalt) 
+  
+  
+  
+ "Our games will work so well on a TV, we just need an easy way to get them there. OUYA could be it." -- Marek Rabas (Madfinger Games) 
+  
+  
+  
+ "An open game console that gives independent game developers the flexibility to experiment with their games and business models on the TV, is something that's long overdue." – David Edery (Spry Fox, creator of Triple Town) 
+  
+ Design matters. 
+  
+ We believe a great console requires a great user experience. We are working with the award-winning designer, Yves Behar, and his firm fuseproject (designer of the Jambox). 
+  
+ We are designing the controller to be a love letter to console gaming. It will have everything you've learned to love: fast buttons, triggers, laser-precise analog sticks, a D-Pad – and it will have a touchpad for any games making the trek from mobile or tablet to the TV. It'll be just the right weight. We are working with select developers to play-test the controller through development. We call it 'the Stradivarius of controllers,' and we hope developers will be inspired to take gameplay to a new level with it. 
+  
+ Hackers welcome. 
+  
+ Have at it: It's easy to root (and rooting won't void your warranty). Everything opens with standard screws. Hardware hackers can create their own peripherals, and connect via USB or Bluetooth. You want our hardware design? Let us know. We might just give it to you. Surprise us! 
+  
+ Specifications: 
+  
+ Tegra3 quad-core processor 
+  
+ 1GB RAM 
+  
+ 8GB of internal flash storage 
+  
+ HDMI connection to the TV, with support for up to 1080p HD 
+  
+ WiFi 802.11 b/g/n 
+  
+ Bluetooth LE 4.0 
+  
+ USB 2.0 (one) 
+  
+ Wireless controller with standard controls (two analog sticks, d-pad, eight action buttons, a system button), a touchpad 
+  
+ Android 4.0 
+  
+ ETHERNET! (Announced by Muffi 7/18) 
+  
+ Standard OUYA Console 
+  
+ Limited-Edition Kickstarter Console 
+  
+ It's entertainment beyond gaming. 
+  
+ Because OUYA is based on Android, any app developer could publish their Android app to OUYA. The possibilities are limitless, and conversations with potential partners are already underway. Here’s our first: do you like watching StarCraft, or League of Legends? Watch Twitch.TV on your OUYA. 
+  
+ We've come a long way already. The user interface and industrial designs are far along. Our prototype is up and running. What we have left to do is simple, but it's expensive. (We’re looking at you Mark Cuban! Woz! Help us out.) 
+  
+ All we need is you. 
+  
+ With your help, we need to: 
+  
+ Convert our prototype to production-ready models and get all the regulatory approvals (yeah, we need these to sell them) 
+  
+ Deliver developer kits (for early developers so we can have games on day one, though every console will include an SDK once we launch) 
+  
+ Place our first production orders (we are working with a manufacturing firm with lots of game hardware experience, but we need to know how many to make!) 
+  
+ Ideally, fund some initial game development (i.e., 1st-party games) 
+  
+ And if you’re international, we want your help too…gaming is global, and we will get you OUYA. We still have a lot to figure out in regards to rights and countries, but it can be done. Look what we've accomplished already! 
+  
+ Show the world, through your numbers, that you're out there. 
+  
+ Show them you're ready to level the playing field. Enlist others. The more we raise, the more we can do. 
+  
+ OUYA: THE REVOLUTION WILL BE TELEVISED |||||

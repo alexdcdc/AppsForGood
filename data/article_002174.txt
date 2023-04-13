@@ -1,0 +1,23 @@
+Wonderbra puts up 3-D billboard in London By Tim Nudd on Sep 14 2010 Tweet Wonderbra, that tireless seeker of new ways to make breasts look larger, has unveiled its most logical advertising execution to date—a 3-D billboard in London which reportedly makes Brazilian model Sabraine Banando's boobs really pop when viewed through the proper glasses. Agency Iris came up with the ad. It's part of a new campaign for the client's "Full Effect" brassiere. Wonderbra has actually done 3-D ads before, as seen in a 2008 print campaign by Saatchi & Saatchi Singapore. But this one is getting lots more buzz. Road-safety experts in England are already tacitly endorsing its effectiveness by worrying that it could cause traffic accidents—much as Wonderbra's famous 1994 "Hello Boys" billboard with Czech model Eva Herzigová supposedly did. "In many ways this latest one could be more dangerous, as it's 3-D," says one. "For those motorists who don't happen to have 3-D glasses in their car—and most don't—then, as the image is slightly blurred, it will cause you to want to focus on it even more. I think it will be a distraction for men and women on the road. And you just need to lose concentration briefly while on the road and an accident could happen." ||||| Web wide crawl with initial seedlist and crawler configuration from March 2011. This uses the new HQ software for distributed crawling by Kenji Nagahashi. 
+  
+ What’s in the data set: 
+  
+  
+  
+ Crawl start date: 09 March, 2011 
+  
+ Crawl end date: 23 December, 2011 
+  
+ Number of captures: 2,713,676,341 
+  
+ Number of unique URLs: 2,273,840,159 
+  
+ Number of hosts: 29,032,069 
+  
+ The seed list for this crawl was a list of Alexa’s top 1 million web sites, retrieved close to the crawl start date. We used Heritrix (3.1.1-SNAPSHOT) crawler software and respected robots.txt directives. The scope of the crawl was not limited except for a few manually excluded sites. 
+  
+ However this was a somewhat experimental crawl for us, as we were using newly minted software to feed URLs to the crawlers, and we know there were some operational issues with it. For example, in many cases we may not have crawled all of the embedded and linked objects in a page since the URLs for these resources were added into queues that quickly grew bigger than the intended size of the crawl (and therefore we never got to them). We also included repeated crawls of some Argentinian government sites, so looking at results by country will be somewhat skewed. 
+  
+ We have made many changes to how we do these wide crawls since this particular example, but we wanted to make the data available “warts and all” for people to experiment with. We have also done some further analysis of the content. 
+  
+ If you would like access to this set of crawl data, please contact us at info at archive dot org and let us know who you are and what you’re hoping to do with it. We may not be able to say “yes” to all requests, since we’re just figuring out whether this is a good idea, but everyone will be considered. |||||

@@ -1,0 +1,10 @@
+The Department of Justice said Apple's help was no longer necessary as the passcode had been obtained.
+A similar case involving a phone used by the San Bernardino gunman was dropped when the FBI got help from a third-party to unlock the handset.
+The DoJ denied either case was about setting a court precedent.
+The cases revolve around cracking the four-digit security number that accesses the phone without triggering a security feature that erases all data after 10 incorrect guesses.
+The FBI has not revealed who helped it to unlock the iPhone of San Bernardino killer Syed Rizwan Farook - but, last week, it emerged it had probably paid more than $1.3m (Â£900,000) for the service.
+Farook and his wife killed 14 in San Bernardino, California, in December. Both were shot dead by police.
+The FBI argued that it needed access to the phone's data to determine if the attackers worked with or were supported by other people and were planning other targets.
+Meanwhile, in Massachusetts, Apple has been ordered to help the FBI gain access to data on an iPhone belonging to an alleged Boston gang member accused of shooting a rival.
+The judge ordered Apple to give "reasonable technical assistance", but Apple has not complied.
+According to Apple, it received more than 5,000 similar requests from the government in the first six months of 2015.

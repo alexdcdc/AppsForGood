@@ -1,0 +1,19 @@
+The US Department of Justice wants to extradite Navinder Singh Sarao, 36, on charges of wire fraud, commodities fraud and market manipulation.
+The crash wiped billions of dollars off the value of US shares in minutes.
+At a Westminster Magistrates' Court hearing on Wednesday, Mr Sarao opposed his extradition to the US.
+Separately, US regulators filed civil claims against Mr Sarao, adding that he made $40m (Â£27m) over five years.
+It is claimed the trader, from Hounslow, west London, used automated computer programmes to manipulate share prices.
+Scotland Yard confirmed Mr Sarao was arrested by the Met's extradition unit.
+"This is like something out of a thriller - it's a most remarkable story," the BBC's economics editor Robert Peston said.
+"The allegation is that he was sending what are known as spoof orders to sell futures contracts in the US stock market. He would drive the price of the stock down... then withdraw the sell orders, but the price would already have fallen.
+"He would then buy the orders back and guarantee a profit for himself. According the charge sheet, he did this thousands and thousands of times over many years.
+"This is an amazing insight into the way computers have completely transformed the stock market business."
+The infamous flash crash saw US markets plunge rapidly, only to then rebound just as quickly. Regulators blamed high-frequency traders placing multiple sell orders.
+High-speed trading is where share dealers create computer algorithms to buy and sell stocks in milliseconds.
+The Justice Department said in a statement that "Sarao's alleged manipulation earned him significant profits and contributed to a major drop in the US stock market on May 6, 2010".
+The statement continued: "By allegedly placing multiple, simultaneous, large-volume sell orders at different price points - a technique known as 'layering' - Sarao created the appearance of substantial supply in the market."
+Mr Sarao was then able to buy and sell futures contracts tied to the value of the share indexes, it is alleged.
+In a separate announcement, the US Commodity Futures Trading Commission (CFTC) released details of civil charges against Mr Sarao and his company Nav Sarao Futures Limited.
+The statement alleges market manipulation over five years, and as recently as 6 April.
+CFTC director of enforcement Aitan Goelman said: "Protecting the integrity and stability of the US futures markets is critical to ensuring a properly functioning financial system.
+"Today's actions make clear that the CFTC, working with its partners on the criminal side, will find and prosecute manipulators of US futures markets wherever they may be."

@@ -1,0 +1,13 @@
+They said fraudsters have been sending phishing emails to addresses in Northern Ireland and have asked people to be "on their guard".
+They said the emails contain a malicious computer programme known as a 'Banking Trojan,' in an attachment.
+The stolen data is then used by criminals.
+Police said the subject line contains the recipient's name and they have revealed what the email looks like.
+"Hi, [name]!
+I am disturbing you for a very serious reason. Although we are not familiar, but I have significant amount of individual info concerning you. The thing is that, most likely mistakenly, the data of your account has been emailed to me.
+For instance, your address is: [real home address]
+I am a law-abiding citizen, so I decided to personal data may have been hacked. I attached the file - [surname].dot that I received, that you could explore what info has become obtainable for scammers. File password is - 2811
+Best Wishes,"
+Det Chf Insp Ian Wilson said: "The PSNI has been made aware of this scam by the National Fraud Intelligence Bureau and we want to warn local people to be on their guard.
+"The emails include an attachment - a '.dot' file usually titled with the recipient's name. This attachment is thought to contain the Banking Trojan Ursniff/Gozi, hidden within an image in the document.
+"The Ursniff Banking Trojan attempts to obtain sensitive data from victims, such as banking credentials and passwords. The data is then sold on by the criminals involved to make money."
+The advice to avoid becoming a victim of the scam is:

@@ -1,0 +1,18 @@
+Gmail SMS can run on so-called "dumb phones" which only have very basic features and no access to the internet.
+The service has so far been made available in Ghana, Nigeria and Kenya.
+Gmail SMS is the latest in a line of Google products aimed at the African market - the company is also running educational programmes in the region.
+The search giant describes its efforts in improving computer science training as "an important goal for Google in 2012".
+It recently offered grants to 17 universities to expand its  
+          Computer Science for High School
+ project.
+However lack of access to affordable hardware is still seen as a critical barrier to technology adoption across the continent.
+Geva Rechav, Google's product manager for emerging markets,  
+          explained in a blog post
+ how Gmail SMS was adapted to work by using simple text commands.
+"Gmail SMS works on any phone, even the most basic ones which only support voice and SMS," he wrote.
+"Gmail SMS automatically forwards your emails as SMS text messages to your phone and you can respond by replying directly to the SMS.
+"You can control the emails received by replying with commands such as MORE, PAUSE and RESUME.
+"Additionally, compose a new email as an SMS and send to any email address recipient - who will find your message in the right email conversation thread!"
+It will be free to receive messages from the system, but any sent texts will be subject to standard network rates.
+Across Africa, adoption of mobile services has been swift and widespread.
+Mobile commerce offerings like microfinancing tool M-Pesa have in excess of 15 million users.

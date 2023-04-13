@@ -1,0 +1,25 @@
+The 7m-long, 6.1-tonne platform went into orbit on a Proton M rocket, despatched from Baikonur in Kazakhstan.
+The I5s - there will be four in total - make up Inmarsat's next-generation constellation called Global Xpress.
+And with an investment of Â£1bn ($1.5bn), they represent the single biggest commercial space project in Britain right now.
+The I5-F2 was released into its super-synchronous transfer orbit at 04:02 GMT on Monday, following a mammoth 15-and-a-half-hour journey aboard the Proton and its Breeze upper-stage.
+Currently, this orbit takes the satellite out to a distance of 65,000km from the Earth.
+Over the coming days, the platform must use its own propulsion system to circularise this path and bring itself into a "stationary" position some 36,000km above the equator.
+Engineers will then drift the I5-F2 to its operational station at 55 degrees West to serve customers in the Americas and Atlantic region.
+"We couldn't be happier right now," said Ruy Pinto, the chief operations officer at Inmarsat.
+"We have acquired the satellite successfully, we have checked all the sub-systems, and we have just completed the first big re-orientation manoeuvre.
+"Our first orbit-raising burn will be conducted on Wednesday. We'll have seven in total and then we'll fully deploy all the solar panels," he told BBC News.
+Inmarsat is a dominant force in the so-called Mobile Satellite Services (MSS) market.
+Its principal customer base is the shipping sector, but the company also caters for any groups that need connectivity away from a fixed line. These include oil and gas installations, armed forces, aid agencies and NGOs in disaster areas, and TV news crews reporting from trouble zones.
+Customers can use Inmarsat services to make phone calls, to transfer audio-visual material or simple data.
+The company's fastest growing sector currently is aviation, and the GX constellation is looking to boost that trend still further.
+Inmarsat made worldwide news last year when its equipment aboard the lost Malaysia Airlines MH370 jet was able to direct investigators to a search zone in the Indian Ocean.
+The London-based operator has subsequently proposed a free basic tracking service for all long-haul flights.
+Global Xpress sees the company take its first, firm step into Ka frequencies to deliver communications.
+Traditionally, its spacecraft have worked in the L-band, but this is becoming saturated.
+Inmarsat says there is more opportunity to grow its business in Ka.
+The higher frequency allows faster throughput connections, giving the I5s broadband speeds that are 100 times faster than the company's fourth generation (I4) satellites.
+Inmarsat's continued use of the Russian-built Proton is a show of faith in a rocket that has experienced a number of failures in recent years.
+The rocket, which is marketed by US-based International Launch Services (ILS), was used to loft the I5-F1 in December 2013 and will be used again to send up the I5-F3, most probably in the second quarter on this year.
+Mr Pinto said it was important for satellite operators that they had a choice of launch vehicles available to them, to open up schedules and keep prices low.
+"ILS is gradually coming back to the launch market with an improving track record. We also have a SpaceX, which is up-and-coming and demonstrating its current and future hardware. And we have an Arianespace that is investing in an Ariane 6-class rocket to keep its place in the market. All those are developments that give us cause for cautious optimism."
+The I5-F4 is regarded in the first instance as a back-up in case of a launch or in-orbit failure of any of the first three GX satellites, but it will eventually be launched. This should happen in 2016 and it will be sent to augment the region of the globe with the highest growth potential.

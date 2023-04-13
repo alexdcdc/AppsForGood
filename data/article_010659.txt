@@ -1,0 +1,41 @@
+They include photos posted to publicly-accessible parts of social networks.
+The National Center for Missing and Exploited Children received a record number of reports in the first week of July, four times the weekly average.
+It comes in a week UK authorities arrested 660 people in connection with online child abuse.
+That investigation was believed to have been targeted at those using the so-called "dark net" - parts of the internet that are hidden and can be hard to access without special software.
+But the NCMEC stressed there was still a significant and growing challenge for law enforcement agencies to deal with material on the open internet as well as the harder-to-reach areas.
+In the US, all electronic communications providers (ECPs) have had to report any instance of child abuse on their networks to the Cyber Tipline provided by the NCMEC since 1998.
+Since many of the world's most popular communications sites, such as Facebook, Twitter and Pinterest, are based in the US, the NCMEC works with authorities around the world to follow up leads provided by tips.
+The UK is among the 62 countries working closely with the NCMEC.
+In the week from beginning 29 June and ending July 5, 92,800 reports were made to the Cyber Tipline.
+Of those, the vast majority - 91,334 - came from internet firms, with the remainder being tip-offs from members of the public.
+On average, the NCMEC receives around 15,000 reports per week.
+John Shehan, executive director of the NCMEC Exploited Children Division, said the large numbers early in July may prove to be an anomaly.
+But he stressed the growing concern with social networks.
+"You wouldn't think someone would do it on Pinterest or LinkedIn," Mr Shehan said.
+"But any type of platform that allows people to post images or videos - they get used for the wrong reasons."
+While most would assume social networks are an unlikely place for illegal material to be shared - by people who would presumably want to hide any trace of their identity - Mr Shehan said several theories had emerged.
+"When you look at the types of offenders who have a sexual interest in children, there is a wide spectrum as far as their internet knowledge, and their backgrounds with being able to anonymise and hide their identities online.
+"If you look at where the content is being uploaded from - sometimes we see that it goes back to third-world countries.
+"Some of these are just starting to get high-speed internet access, and they may not be as sophisticated as some countries in using different anonymisers."
+660
+suspected paedophiles arrested
+431
+children have been protected
+39 suspects were registered sex offenders
+833 buildings searched
+9,172 devices, including phones and laptops, seized
+The BBC contacted the leading social networks that report into the NCMEC.
+All stressed that the latest technology - which is able to spot known images of child abuse and flag authorities immediately - was deployed across the sites.
+LinkedIn confirmed that reports about child abuse had been made to the NCMEC, but that instances were extremely rare.
+Twitter, which is the subject of a campaign by internet activist group Anonymous to do more to quickly remove child abuse images, said it had a no-tolerance approach.
+A spokesman said: "When we are made aware of links to images of or content promoting child sexual exploitation they will be removed from the site without further notice and reported to the NCMEC, we permanently suspend accounts promoting or containing updates with links to child sexual exploitation."
+In the UK, there is no law that compels UK communications companies to inform the Cyber Tipline, or any similar service, about child abuse content discovered on their services.
+In a statement to the BBC, the NCA said: "The UK internet industry is very small in comparison to the US and no such equivalent legislation currently exists.
+"UK internet service providers voluntarily block access to known indecent images of children."
+The Internet Watch Foundation (IWF) - the UK-based group that actively targets illegal content online - said that while it would be interesting to see the effects a US-style law would have, the UK's impressive record in stamping out child abuse meant existing rules were working.
+"Due to the cooperation we have with the online industry in the UK less than 1% of child sexual abuse imagery is hosted here, down from 18% in 1996," said Susie Hargreaves, the IWF's chief executive.
+Ms Hargreaves re-iterated the concerns of the the NCMEC that child abuse images were increasingly being spread on the open internet as well as the dark web.
+"This isn't a problem which is only found in hidden areas of the internet," she told the BBC.
+Within a year, the IWF had just four full-time analysts working on monitoring the internet.
+"We now have 12 analysts who are still working full time and due to our ability to proactively seek out the images and videos, we're able to identify around three times as many URLs as last year."
+Follow Dave Lee on Twitter @DaveLeeBBC

@@ -1,0 +1,27 @@
+It said the data included departure times and routes for buses, ferries, trains and trams in England, Scotland and Wales.
+It is not the first app to do so. Rome2Rio's UK Transport Search app already provided similar coverage.
+But the body supplying the data said that the huge popularity of Google's service meant its move was significant.
+"It's an amazing shop window for our operators' services," said Julie Williams, chief executive of Traveline - a partnership of Great Britain's transport operators and local authorities.
+"The presentation and way Google has pulled together the data looks exceptional - we've not seen anything like that before."
+The search giant will also make the information available via its desktop Maps service.
+Of the other big-brand services:
+"Google is the all-dominant leader in mapping, but it has to keep innovating because that's what stops its competitors nibbling into its market share," said Chris Green, principal technology analyst at the Davies Murphy Group consultancy.
+"If it doesn't keep making changes it would leave the door open for somebody else."
+While Google had previously provided transit data for parts of Great Britain, it had lacked coverage in much of Wales, the Midlands and northern England.
+A search for transport between Llandysul and Cenarth, for example, brought up no results despite it taking less than an hour to travel between the two Welsh destinations by bus.
+Gaps such as this have now been plugged, with the firm using Traveline's data to create graphics that compare how the various available options differ.
+In total, schedules from nearly 1,500 different transport operators have been integrated, including more than 17,000 different routes and more than 330,000 pick-up points
+"It's a frightening amount of data," Google's public transport product manager David Tattersall told the BBC.
+"It's every single train, bus, tram and ferry right down to the small request stops as well as the major National Express coaches."
+Traveline was created in 2000, and has allowed the public to search its timetables via the state-funded but basic-looking Transport Direct website or by calling its call centres
+It also began offering others access to its raw data three years ago.
+"I was surprised initially that we didn't get more people taking it," said Ms Williams.
+"Open data users said they wanted to do stuff with it, but after we produced it they said: 'Well, that's quite complicated.'
+"One of the things that Google is able to do because of its size is put money into processing that data and bring it into its own system."
+While Rome2Rio's app sometimes has to redirect users to the Transport Direct site, Google avoids this by converting all Traveline's data into the General Transit Feed Specification (GTFS) file format its systems recognise.
+This means it can also make the information available to other app creators via its Maps application programming interface. This is provided free of charge to services with relatively low traffic but at a cost to others.
+"Third-party developers will be able to take advantage of this and basically mash up [their services] with the API," Mr Tattersall said.
+He added that Google would also use the data to enhance its own anticipatory search service, which suggests information before a user asks for it.
+"If you're in Sheffield but live somewhere else, around home time Google Now will use this transit data to suggest some ways back," he gave as an example.
+For the moment, such results are based on preset timetables rather than live transport information, with the exception of London where real-time data is used.
+But Mr Tattersall said that his team was keen to make the wider transit service more reactive in the future.
