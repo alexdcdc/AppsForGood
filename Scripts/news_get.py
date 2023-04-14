@@ -13,6 +13,10 @@ main.py
 import requests
 import datetime
 from datetime import date
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Replaces some wonky unicode characters in 
 # news articles to make parsing less awkward.
