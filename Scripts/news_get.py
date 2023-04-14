@@ -35,7 +35,7 @@ def getUSHeadlines():
     
     for s in sources:
         params = {
-                    "apiKey": "544e968c75464718852ae9cf280729af",
+                    "apiKey": os.getenv("NEWSKEY"),
                     "language" : "en", #possible to search by source in params
                     "from" : str(today),
                     "domains" : s
