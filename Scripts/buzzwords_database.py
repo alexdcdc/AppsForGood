@@ -23,5 +23,16 @@ app = firebase_admin.initialize_app(creds, {'databaseURL' : 'https://buzzwordsap
 ref = db.reference("/")
 
 # Writes json/dictionary content to the database.
-def DBWrite(content: dict): 
+def DBWrite(path: str, content: dict): 
+	ref = db.reference(path)
 	ref.set(content)
+
+def DBPush(path: str, content: dict):
+	ref = db.reference(path)
+	for k in content:
+		if not (ref.child(k).get()):
+			ref.child(k).set(content[k])
+
+if __name__ == "__main__":
+	DBPush("/bababooie/", {"baba" : "booie", "jonathan": "seena"})
+	

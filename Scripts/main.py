@@ -22,6 +22,7 @@ from nltk.corpus import stopwords
 import json
 import math
 import buzzwords_database
+import dictionary_get
 
 # Initialize the nlp pipeline
 nlp = spacy.load("en_core_web_sm")
@@ -126,8 +127,14 @@ def extractDailyKeywords() -> Counter:
 
 if __name__ == "__main__":
     most_common_list = extractDailyKeywords().most_common(10)
+    jsonData = []
+    
+    for w in most_common_list:
+        definitions = dictionary_get.getDefinitions(w[0])
+        jsonData.append({"word": w[0], "definitions": dictionary_get.getDefinitions(w[0])})
 
-    buzzwords_database.DBWrite({"Trending": most_common_list})
+    buzzwords_database.DBWrite("/Trending/", jsonData)
+    buzzwords_database.DBWrite("/All/", jsonData)
 
     for item in most_common_list:
         print(item[0])
