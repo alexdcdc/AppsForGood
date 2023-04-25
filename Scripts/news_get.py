@@ -34,7 +34,7 @@ def getUSHeadlines():
     descriptions = []
 
     sources = ["axios.com", "theguardian.com", "newsweek.com", "forbes.com", 
-               "businessinsider.com", "usatoday.com", "npr.org", 
+               "businessinsider.com", "usatoday.com",
                "washingtonpost.com", "nbcnews.com"]
     
     for s in sources:

@@ -134,7 +134,7 @@ if __name__ == "__main__":
         jsonData.append({"word": w[0], "definitions": dictionary_get.getDefinitions(w[0])})
 
     buzzwords_database.DBWrite("/Trending/", jsonData)
-    buzzwords_database.DBWrite("/All/", jsonData)
+    buzzwords_database.DBPush("/All/", {d['word'] : d['definitions'] for d in jsonData})
 
     for item in most_common_list:
         print(item[0])
