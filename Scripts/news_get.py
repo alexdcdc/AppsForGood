@@ -16,6 +16,7 @@ from datetime import date
 import os
 import random
 from dotenv import load_dotenv
+from collections import Counter
 
 load_dotenv()
 
@@ -25,7 +26,8 @@ def format(article):
     replacements = {"“" : "\"", "”" : "\"", "’" : "'", "‘" : "'", "…": "..."}
     for k in replacements:
         article = article.replace(k, replacements[k])
-    return article
+    return article.replace("<ul><li>Get our morning and afternoon news emails, free app or daily news podcast</li></ul>", ". ")
+    
 
 # Makes an API request to NewsAPI's endpoint for
 # articles from the past three days from a variety
@@ -34,7 +36,7 @@ def getUSHeadlines():
     today = date.today() - datetime.timedelta(3)
     descriptions = []
 
-    sources = ["axios.com", "theguardian.com", "newsweek.com", "forbes.com", 
+    sources = ["theguardian.com", "newsweek.com", "forbes.com", 
                "businessinsider.com", "usatoday.com",
                "washingtonpost.com", "nbcnews.com"]
     
@@ -43,7 +45,8 @@ def getUSHeadlines():
                     "apiKey": os.getenv("NEWSKEY"),
                     "language" : "en", #possible to search by source in params
                     "from" : str(today),
-                    "domains" : s
+                    "domains" : s,
+                    "pageSize": 50
                 }
         url = " https://newsapi.org/v2/everything"
 
@@ -74,10 +77,39 @@ def getRecentUsage(word):
     response = requests.get(url = url, params = params).json()
 
     if response["status"] == "ok":
-        descriptions.extend([{"title": format(article["title"]), "source": article["source"]["name"], "url": article["url"]} for article in response["articles"]])
+        #descriptions.extend([{"title": format(article["title"]), "source": article["source"]["name"], "url": article["url"]} for article in response["articles"]])
+        descriptions.extend([article["source"]["name"] for article in response["articles"]])
 
-    return descriptions if len(descriptions) < 5 else descriptions[:5]
+    return descriptions #if len(descriptions) < 5 else descriptions[:5]
     
 
+
+def sourceCounts(word):
+    today = date.today() - datetime.timedelta(3)
+    descriptions = []
+
+    sources = ["theguardian.com", "newsweek.com", "forbes.com", 
+               "businessinsider.com", "usatoday.com",
+               "washingtonpost.com", "nbcnews.com"]
+    
+    for s in sources:
+        params = {
+                    "apiKey": os.getenv("NEWSKEY"),
+                    "language" : "en", #possible to search by source in params
+                    "from" : str(today),
+                    "domains" : s,
+                    "pageSize": 50,
+                    "q": word
+                }
+        url = " https://newsapi.org/v2/everything"
+
+        response = requests.get(url = url, params = params).json()
+
+        if response["status"] == "ok":
+            descriptions.extend([format(article["source"]["name"]) for article in response["articles"]])
+
+    return Counter(descriptions)
+
 if __name__ == "__main__":
-    print(getRecentUsage("draft"))
+    words = getRecentUsage("carlson")
+    print(words)

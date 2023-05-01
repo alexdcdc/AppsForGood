@@ -32,7 +32,7 @@ nlp.add_pipe("textrank")
 # Create a filter of a few commonly-occurring 
 # words that should not be keywords
 filter = {"axios", "guardian", "newsweek", "forbes", "nbc", 
-          "npr", "trump", "biden", "desantis"}
+          "npr", "trump", "biden"}
 
 # Given a word, return its set of synonyms
 def getSynonyms(token):
@@ -127,6 +127,7 @@ def extractDailyKeywords() -> Counter:
 
 if __name__ == "__main__":
     most_common_list = extractDailyKeywords().most_common(10)
+    print(most_common_list)
     jsonData = []
     
     for w in most_common_list:
