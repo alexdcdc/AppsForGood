@@ -77,10 +77,11 @@ def getRecentUsage(word):
     response = requests.get(url = url, params = params).json()
 
     if response["status"] == "ok":
-        #descriptions.extend([{"title": format(article["title"]), "source": article["source"]["name"], "url": article["url"]} for article in response["articles"]])
-        descriptions.extend([article["source"]["name"] for article in response["articles"]])
+        descriptions.extend([{"title": format(article["title"]), "source": article["source"]["name"], "url": article["url"]} for article in response["articles"]])
+        #descriptions.extend([article["source"]["name"] for article in response["articles"]])
+    random.shuffle(descriptions)
 
-    return descriptions #if len(descriptions) < 5 else descriptions[:5]
+    return descriptions if len(descriptions) < 5 else descriptions[:5]
     
 
 

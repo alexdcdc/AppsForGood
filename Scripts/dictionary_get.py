@@ -15,8 +15,8 @@ def getDefinitions(word):
         print("Something went wrong while getting word definition")
         return
     for entry in response.json():
-        if type(entry) != str:
-            defs.extend(entry["shortdef"])
+        if type(entry) != str and not ("cxs" in entry):
+            defs.extend([f'({entry["fl"]}) ' + definition for definition in entry["shortdef"]])
 
     return defs
 

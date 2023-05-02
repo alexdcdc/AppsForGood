@@ -32,7 +32,7 @@ nlp.add_pipe("textrank")
 # Create a filter of a few commonly-occurring 
 # words that should not be keywords
 filter = {"axios", "guardian", "newsweek", "forbes", "nbc", 
-          "npr", "trump", "biden"}
+          "npr", "donald", "joe", "ron"}
 
 # Given a word, return its set of synonyms
 def getSynonyms(token):
