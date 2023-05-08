@@ -1,16 +1,22 @@
-import keybert
+import spacy
+import pytextrank
 
-doc = """
-         Supervised learning is the machine learning task of learning a function that
-         maps an input to an output based on example input-output pairs. It infers a
-         function from labeled training data consisting of a set of training examples.
-         In supervised learning, each example is a pair consisting of an input object
-         (typically a vector) and a desired output value (also called the supervisory signal).
-         A supervised learning algorithm analyzes the training data and produces an inferred function,
-         which can be used for mapping new examples. An optimal scenario will allow for the
-         algorithm to correctly determine the class labels for unseen instances. This requires
-         the learning algorithm to generalize from the training data to unseen situations in a
-         'reasonable' way (see inductive bias).
-      """
-kw_model = keybert.KeyBERT()
-keywords = kw_model.extract_keywords(doc)
+# example text
+text = """Compatibility of systems of linear constraints over the set of natural numbers.
+Criteria of compatibility of a system of linear Diophantine equations, strict inequations,
+and nonstrict inequations are considered. Upper bounds for components of a minimal set of
+solutions and algorithms of construction of minimal generating sets of solutions for all types
+of systems are given. These criteria and the corresponding algorithms for constructing a minimal
+supporting set of solutions can be used in solving all the considered types systems and systems of mixed types."""
+
+# load a spaCy model, depending on language, scale, etc.
+nlp = spacy.load("en_core_news_sm")
+# add PyTextRank to the spaCy pipeline
+nlp.add_pipe("textrank")
+
+doc = nlp(text)
+# examine the top-ranked phrases in the document
+for phrase in doc._.phrases:
+    print(phrase.text)
+    print(phrase.rank, phrase.count)
+    print(phrase.chunks)

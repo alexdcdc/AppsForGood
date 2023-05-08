@@ -5,7 +5,7 @@ def custom_lesk(word, sentence, definitions):
     max_overlap = 0
     context = set(word_tokenize(sentence))
     for i in range(len(definitions)):
-        signature = set(word_tokenize(definitions[sense.name()]))
+        signature = set(word_tokenize(definitions[i]))
         overlap = len(signature.intersection(context))
         if overlap > max_overlap:
             max_overlap = overlap

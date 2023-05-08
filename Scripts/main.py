@@ -80,7 +80,7 @@ def get_hotwords2(text: str) -> list:
     if not text:
         return []
     doc = nlp(text)
-    return [phrase.text for phrase in doc._.phrases]
+    return [(phrase.text, phrase.rank) for phrase in doc._.phrases]
 
 # Algorithm 3 for finding keywords:
 # Use Rake built-in keyword extractor
@@ -123,10 +123,27 @@ def extractDailyKeywords() -> Counter:
     for text in texts:
         words.update(tf_idf(text))
     
-    return words
+    return words.most_common(10)
+
+def extractDailyKeywords2() -> Counter:
+    words = {}
+    texts = news_get.getUSHeadlines()
+
+    if not texts:
+        print("ERR: Error occurred while getting news sources.")
+        return
+
+    for text in texts:
+        for phr, rank in get_hotwords2(text):
+            if not (phr in words):
+                words[phr] = rank
+            else:
+                words[phr] += rank
+    
+    return sorted([(k, words[k]) for k in words], key = lambda x: -x[1])[:10]
 
 if __name__ == "__main__":
-    most_common_list = extractDailyKeywords().most_common(10)
+    most_common_list = extractDailyKeywords()
     print(most_common_list)
     jsonData = []
     
