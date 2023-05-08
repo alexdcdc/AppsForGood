@@ -17,6 +17,7 @@ import os
 import random
 from dotenv import load_dotenv
 from collections import Counter
+import re
 
 load_dotenv()
 
@@ -26,7 +27,7 @@ def format(article):
     replacements = {"“" : "\"", "”" : "\"", "’" : "'", "‘" : "'", "…": "..."}
     for k in replacements:
         article = article.replace(k, replacements[k])
-    return article.replace("<ul><li>Get our morning and afternoon news emails, free app or daily news podcast</li></ul>", ". ")
+    return re.sub("<[^>]>", "", article)
     
 
 # Makes an API request to NewsAPI's endpoint for

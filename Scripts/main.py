@@ -137,5 +137,4 @@ if __name__ == "__main__":
     buzzwords_database.DBWrite("/Trending/", jsonData)
     buzzwords_database.DBPush("/All/", {d['word'] : d['definitions'] for d in jsonData})
 
-    for item in most_common_list:
-        print(item[0])
+    print("Wrote to database: " + str(jsonData))
