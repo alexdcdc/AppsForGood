@@ -28,7 +28,7 @@ def format(article):
     replacements = {"“": "\"", "”": "\"", "’": "'", "‘": "'", "…": "..."}
     for k in replacements:
         article = article.replace(k, replacements[k])
-    return re.sub("<[^>]>", "", article)
+    return re.sub("<[^>]{1,5}>", "", article)
 
 
 # Makes an API request to NewsAPI's endpoint for
