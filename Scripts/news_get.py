@@ -48,14 +48,15 @@ def getUSHeadlines():
             "language": "en",  # possible to search by source in params
             "from": str(today),
             "domains": s,
-            "pageSize": 50
+            "pageSize": 100
         }
         url = " https://newsapi.org/v2/everything"
 
         response = requests.get(url=url, params=params).json()
 
         if response["status"] == "ok":
-            descriptions.extend([format(article["description"])
+            descriptions.extend([{"desc": format(article["description"]), "title": format(article["title"]), "source": article["source"]
+                            ["name"], "url": article["url"]}
                                 for article in response["articles"]])
         else:
             print("ERR: " + response["message"])

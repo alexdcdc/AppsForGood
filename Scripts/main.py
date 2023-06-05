@@ -131,15 +131,23 @@ def tf_idf(text: str) -> list:
 def extractDailyKeywords() -> Counter:
     words = Counter()
     texts = news_get.getUSHeadlines()
+    sources = {}
 
     if not texts:
         print("ERR: Error occurred while getting news sources.")
         return
 
     for text in texts:
-        words.update(tf_idf(text))
+        keywrds = tf_idf(text["desc"])
+        srcInfo = {"title": text["title"], "source": text["source"], "url": text["url"]}
+        words.update(keywrds)
+        for w in keywrds:
+            if w in sources:
+                sources[w].append(srcInfo)
+            else:
+                sources[w] = [srcInfo]
 
-    return words.most_common(10)
+    return [(w[0], sources[w[0]]) for w in words.most_common(10)]
 
 
 # Gets current news articles and applies spaCy's built-in KWE
@@ -170,7 +178,7 @@ if __name__ == "__main__":
     for w in most_common_list:
         definitions = dictionary_get.getDefinitions(w[0])
         jsonData.append({"word": w[0], "definitions": dictionary_get.getDefinitions(
-            w[0]), "headlines": news_get.getRecentUsage(w)})
+            w[0]), "headlines": w[1]})
 
     buzzwords_database.DBWrite("/Trending/", jsonData)
     buzzwords_database.DBPush(
